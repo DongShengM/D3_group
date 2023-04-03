@@ -1,0 +1,2425 @@
+district,school,growthstatus,pctpassingeogtests,pctfreereduced,hasstringsprogram,schoolscore,grade
+Ashe County Schools,Blue Ridge Elementary,Exceeded,52.1,71.5,0,59,C
+Surry County Schools,J Sam Gentry Middle,NotMet,61.2,59.2,0,63,C
+Lee County Schools,Lee Early College,NotMet,67.7,50.9,0,75,B
+Wake County Schools,Douglas Elementary,Met,61.6,35.7,0,64,C
+Guilford County Schools,Guilford Middle,Met,50.8,73.2,0,55,C
+Charter Schools,CIS Academy,Exceeded,35.3,73.1,0,46,D
+Charlotte-Mecklenburg Schools,Elizabeth Lane Elementary,Met,85.4,10.6,0,85,A
+Chapel Hill-Carrboro Schools,Seawell Elementary,Exceeded,83.2,24.1,0,85,A
+Alexander County Schools,Taylorsville Elementary,NotMet,56.8,78.2,0,58,C
+New Hanover County Schools,Holly Tree Elementary,Met,83.1,29.1,0,83,B
+Cumberland County Schools,Hope Mills Middle,Exceeded,49.1,55.9,0,57,C
+Brunswick County Schools,South Brunswick High,NotMet,56.1,45.7,0,69,C
+Alleghany County Schools,Glade Creek Elementary,Met,58.7,71.9,0,64,C
+Onslow County Schools,New Bridge Middle,Met,63.4,35.2,0,67,C
+Alleghany County Schools,Alleghany High,Met,58.6,53.9,0,71,B
+Bladen County Schools,Tar Heel Middle,Met,36.9,81.2,0,44,D
+Cumberland County Schools,Eastover Central Elementary,Exceeded,75.9,34.6,0,79,B
+Cumberland County Schools,College Lakes Elementary,Exceeded,46.6,67.9,0,55,C
+Cumberland County Schools,Bill Hefner Elementary,Exceeded,53.0,62.9,0,60,C
+Cumberland County Schools,Cumberland Mills Elementary,Met,51.1,78.3,0,57,C
+Cumberland County Schools,Alderman Road Elementary,Met,52.0,61.6,0,58,C
+Cumberland County Schools,Ed V Baldwin Elementary,Met,52.3,55.2,0,58,C
+Union County Public Schools,New Town Elementary,Met,81.7,8.6,0,79,B
+New Hanover County Schools,New Hanover High,NotMet,52.4,49.4,0,61,C
+Cumberland County Schools,Armstrong Elementary,Met,62.6,64.4,0,67,C
+New Hanover County Schools,Forest Hills Global Elementary,Met,51.5,63.9,0,57,C
+New Hanover County Schools,Heyward C Bellamy Elem,Exceeded,75.6,38.8,0,78,B
+New Hanover County Schools,Edwin A Anderson Elementary,Met,66.6,39.1,0,70,B
+New Hanover County Schools,Edwin A Alderman Elementary,Met,45.1,75.0,0,53,D
+Mooresville City Schools,Mooresville Senior High,Exceeded,71.1,33.9,0,81,B
+Nash-Rocky Mount Schools,Swift Creek Elementary,NotMet,52.0,53.8,0,53,D
+Nash-Rocky Mount Schools,Bailey Elementary,Exceeded,48.8,80.0,0,56,C
+Nash-Rocky Mount Schools,Southern Nash High,NotMet,43.7,58.3,0,58,C
+Robeson County Schools,Peterson Elementary,NotMet,30.7,77.5,0,38,F
+New Hanover County Schools,Ogden Elementary,Met,88.1,16.2,0,87,A
+Onslow County Schools,Parkwood Elementary,Exceeded,56.2,43.1,0,62,C
+Orange County Schools,Efland Cheeks Elementary,Met,49.7,62.0,0,56,C
+Orange County Schools,Pathways Elementary,NotMet,68.1,44.1,0,68,C
+Onslow County Schools,Northwoods Elementary,Met,38.5,68.8,0,47,D
+Pasquotank County Schools,River Road Middle,Met,44.6,60.0,0,50,D
+Pender County Schools,Cape Fear Elementary,Met,45.7,66.0,0,52,D
+Person County Schools,Oak Lane Elementary,Met,69.3,42.8,0,71,B
+Pitt County Schools,Ayden Elementary,NotMet,56.0,68.1,0,58,C
+Pitt County Schools,Junius H Rose High,Met,48.8,51.6,0,66,C
+Pitt County Schools,G R Whitfield,Met,47.0,59.2,0,52,D
+Randolph County Schools,Southwestern Randolph Middle,NotMet,51.7,60.9,0,55,C
+Randolph County Schools,Coleridge Elementary,Exceeded,50.5,62.2,0,59,C
+Randolph County Schools,Hopewell Elementary,Exceeded,74.4,42.2,0,77,B
+Randolph County Schools,Southmont Elementary,NotMet,54.0,66.9,0,57,C
+Randolph County Schools,Seagrove Elementary,NotMet,59.7,62.1,0,62,C
+Richmond County Schools,Hamlet Middle,Exceeded,46.5,76.2,0,55,C
+Randolph County Schools,Liberty Elementary,Met,49.1,66.2,0,54,D
+Alamance-Burlington Schools,North Graham Elementary,NotMet,35.7,86.4,0,40,D
+Charlotte-Mecklenburg Schools,Sterling Elementary,NotMet,29.4,92.9,0,37,F
+Cabarrus County Schools,Mount Pleasant Middle,Exceeded,62.2,42.1,0,68,C
+Charter Schools,Gaston College Preparatory,Exceeded,62.3,70.8,0,71,B
+Iredell-Statesville Schools,West Iredell High,NotMet,42.1,50.0,0,58,C
+Kannapolis City Schools,Jackson Park Elementary,Met,48.5,78.6,0,55,C
+Avery County Schools,Avery High Viking Academy,Met,64.8,56.5,0,66,C
+Avery County Schools,Avery High STEM Academy,Met,71.4,40.0,0,88,A
+Gaston County Schools,Robinson Elementary,Met,58.3,48.0,0,63,C
+Moore County Schools,Elise Middle,Exceeded,47.4,89.1,0,57,C
+Charlotte-Mecklenburg Schools,Martin Luther King Jr Middle,Met,30.9,91.7,0,40,D
+Alamance-Burlington Schools,Alamance-Burlington Middle College,N/A,0.0,44.6,0,85,A
+Charlotte-Mecklenburg Schools,Jay M Robinson Middle,Exceeded,89.1,12.3,0,91,A
+Scotland County Schools,Scotland Early College High,Exceeded,82.0,68.7,0,85,A
+Caldwell County Schools,Gamewell Elementary,Exceeded,52.0,71.9,0,61,C
+Caldwell County Schools,Hudson Elementary,Exceeded,61.5,59.3,0,67,C
+Cabarrus County Schools,Wolf Meadow Elementary,Met,46.6,82.9,0,52,D
+Currituck County Schools,Moyock Elementary,NotMet,68.0,24.2,0,68,C
+Craven County Schools,West Craven Middle,Exceeded,47.5,67.4,0,56,C
+Clay County Schools,Hayesville High,Met,57.7,45.5,0,72,B
+Forsyth County Schools,Ronald W Reagan High School,NotMet,72.7,16.4,0,79,B
+Guilford County Schools,The Academy at Central,Exceeded,53.0,78.4,0,72,B
+Forsyth County Schools,Moore Magnet Elementary,NotMet,54.4,59.3,0,55,C
+Forsyth County Schools,Old Richmond Elementary,Met,65.1,47.7,0,68,C
+Pitt County Schools,Wintergreen Intermediate,Met,71.1,38.8,0,72,B
+Robeson County Schools,Fairmont Middle,Exceeded,33.8,94.0,0,46,D
+Union County Public Schools,Union Elementary,Met,59.9,61.3,0,65,C
+Forsyth County Schools,Speas Elementary,Met,40.1,88.8,0,48,D
+Forsyth County Schools,North Hills Elementary,Met,32.6,,0,41,D
+Forsyth County Schools,Petree Elementary,Met,23.4,,0,35,F
+Franklin County Schools,Edward Best Elementary,Exceeded,69.0,70.5,0,73,B
+Forsyth County Schools,Union Cross Traditional Acad,Met,50.3,50.5,0,56,C
+Franklin County Schools,Louisburg Elementary,Exceeded,42.1,80.9,0,52,D
+Forsyth County Schools,West Forsyth High,Exceeded,69.7,25.7,0,81,B
+Forsyth County Schools,Walkertown Middle,NotMet,40.0,64.6,0,45,D
+Gaston County Schools,Ashbrook High,Exceeded,48.8,59.0,0,68,C
+Martin County Schools,Rodgers Elementary,Met,48.9,59.4,0,55,C
+Wake County Schools,Sanderson High,Exceeded,60.3,29.4,1,76,B
+Montgomery County Schools,East Middle,Met,41.0,86.6,0,49,D
+Franklin County Schools,Bunn Middle,Met,47.6,64.2,0,52,D
+Guilford County Schools,Monticello-Brown Summit Elem,NotMet,58.3,59.7,0,58,C
+Guilford County Schools,Middle College High at Bennett,Met,57.3,73.9,0,71,B
+Guilford County Schools,Middle College High @ NC A&T,Met,45.0,67.3,0,62,C
+Guilford County Schools,Northern Guilford High,Exceeded,75.1,17.9,0,84,B
+Iredell-Statesville Schools,Sharon Elementary,Met,66.9,51.5,0,70,B
+Guilford County Schools,Rankin Elementary,Met,31.5,,0,42,D
+Charlotte-Mecklenburg Schools,Briarwood Elementary,Exceeded,40.6,94.8,0,50,D
+Charlotte-Mecklenburg Schools,Grand Oak Elementary,Exceeded,85.8,7.6,0,86,A
+Charlotte-Mecklenburg Schools,Barnette Elementary,Exceeded,73.2,21.4,0,76,B
+Gaston County Schools,Catawba Heights Elementary,Exceeded,49.7,63.4,0,57,C
+Buncombe County Schools,Buncombe County Early College,Met,93.1,47.0,0,92,A
+Charlotte-Mecklenburg Schools,McClintock Middle,NotMet,32.6,84.4,0,38,F
+Brunswick County Schools,Southport Elementary,NotMet,56.9,55.5,0,58,C
+Buncombe County Schools,Glen Arden Elementary,Met,77.2,33.3,0,78,B
+Forsyth County Schools,Ward Elementary,Met,57.9,65.8,0,63,C
+Buncombe County Schools,Enka High,NotMet,45.8,51.3,0,58,C
+Carteret County Public Schools,Atlantic Elementary,Met,72.9,56.3,0,75,B
+Iredell-Statesville Schools,Shepherd Elementary,Met,70.0,45.4,0,72,B
+Cabarrus County Schools,Jay M Robinson High,NotMet,49.1,41.6,0,64,C
+Burke County Schools,Jimmy C Draughn High School,Met,73.3,47.1,0,79,B
+Burke County Schools,Hildebran Elementary,Exceeded,70.4,64.9,0,76,B
+Cabarrus County Schools,W R Odell Elementary,Met,75.4,20.9,0,76,B
+Cabarrus County Schools,Cox Mill High School,Met,68.5,19.8,0,80,B
+Pitt County Schools,Creekside Elementary,NotMet,52.9,54.1,0,56,C
+Henderson County Schools,Hendersonville High,Met,69.2,37.0,0,82,B
+Cabarrus County Schools,Concord High,NotMet,50.1,51.6,0,61,C
+Alamance-Burlington Schools,Sylvan Elementary,NotMet,60.0,62.1,0,59,C
+Alamance-Burlington Schools,E M Yoder Elementary,Met,65.4,41.7,0,69,C
+Alamance-Burlington Schools,Broadview Middle,NotMet,30.8,90.5,0,36,F
+Alleghany County Schools,Sparta Elementary,NotMet,52.5,71.4,0,54,D
+Dare County Schools,First Flight Middle School,Met,70.4,33.2,0,71,B
+Anson County Schools,Wadesboro Primary,NotMet,29.5,86.5,0,35,F
+Alamance-Burlington Schools,Graham High,NotMet,34.2,70.3,0,51,D
+Asheboro City Schools,Balfour Elementary,Met,42.3,92.9,0,49,D
+Lee County Schools,Tramway Elementary,Met,68.9,43.5,0,72,B
+Nash-Rocky Mount Schools,O R Pope Elementary,Met,17.9,,0,29,F
+Guilford County Schools,Nathanael Greene Elementary,NotMet,51.3,41.1,0,53,D
+Buncombe County Schools,West Buncombe Elementary,Exceeded,69.1,68.2,0,73,B
+Buncombe County Schools,Hominy Valley Elementary,Met,66.5,46.7,0,68,C
+Buncombe County Schools,North Buncombe Middle,NotMet,62.6,49.1,0,61,C
+Buncombe County Schools,Woodfin Elementary,NotMet,48.6,78.7,0,53,D
+Buncombe County Schools,Johnston Elementary,Met,40.4,88.1,0,48,D
+Guilford County Schools,James B Dudley High,Met,29.7,84.4,0,55,C
+Cherokee County Schools,Murphy High,Exceeded,66.9,55.9,0,79,B
+Burke County Schools,East Burke High,NotMet,56.2,56.1,0,64,C
+Burke County Schools,Drexel Elementary,Met,52.8,65.2,0,58,C
+Cumberland County Schools,Cumberland International Early CollegeHS,Met,81.1,54.3,0,82,B
+Charlotte-Mecklenburg Schools,Elizabeth Traditional Elementary,Met,72.9,45.9,0,73,B
+Cabarrus County Schools,R Brown McAllister Elementary,Exceeded,66.2,51.6,0,72,B
+Forsyth County Schools,South Fork Elementary,Exceeded,44.3,85.8,0,53,D
+Charlotte-Mecklenburg Schools,Vance High,Exceeded,41.9,78.0,0,65,C
+Camden County Schools,Camden Middle,Met,62.0,33.2,0,65,C
+Charter Schools,Queen's Grant Community School,Exceeded,69.2,15.2,0,75,B
+Cumberland County Schools,Westarea Elementary,Exceeded,50.6,88.5,0,59,C
+Johnston County Schools,Smithfield-Selma High,NotMet,39.0,67.0,0,53,D
+McDowell County Schools,West McDowell Junior High,Met,57.2,58.9,0,62,C
+Surry County Schools,Rockford Elementary,Exceeded,55.4,75.7,0,61,C
+Durham Public Schools,Holt Elementary,Exceeded,51.5,87.8,0,59,C
+Yadkin County Schools,Starmount Middle,NotMet,53.0,56.7,0,54,D
+Wake County Schools,Zebulon Middle,NotMet,50.0,62.2,1,54,D
+Charter Schools,Summit Charter,NotMet,67.9,20.1,0,67,C
+Charter Schools,Paul R. Brown Leadership Academy,NotMet,14.4,,0,23,F
+Charlotte-Mecklenburg Schools,Dilworth Elementary,Met,84.0,20.5,0,83,B
+Nash-Rocky Mount Schools,Middlesex Elementary,NotMet,33.2,81.1,0,38,F
+Alexander County Schools,Ellendale Elementary,NotMet,63.6,51.9,0,63,C
+Anson County Schools,Peachland-Polkton Elem,Exceeded,53.3,64.5,0,60,C
+Charlotte-Mecklenburg Schools,Garinger High,Exceeded,32.8,86.2,0,59,C
+Wake County Schools,Lincoln Heights Elementary,Met,41.9,64.4,0,50,D
+Alamance-Burlington Schools,Southern High,Met,51.9,35.9,0,66,C
+Asheboro City Schools,Asheboro High,Exceeded,45.3,63.3,0,68,C
+Hickory City Schools,Hickory High,NotMet,53.4,49.8,0,63,C
+Catawba County Schools,Challenger Early College High,Exceeded,,47.0,0,98,A
+Carteret County Public Schools,Broad Creek Middle,Exceeded,70.3,30.6,0,76,B
+Charlotte-Mecklenburg Schools,Paw Creek Elementary,Exceeded,52.8,80.7,0,61,C
+Lenoir County Public Schools,Contentnea-Savannah School,Met,46.8,76.8,0,54,D
+Guilford County Schools,Southern Guilford High,Exceeded,50.5,66.5,0,72,B
+Carteret County Public Schools,Morehead City Primary,Met,71.5,54.1,0,74,B
+Catawba County Schools,Maiden Middle School,Exceeded,58.6,46.8,0,65,C
+Wake County Schools,Farmington Woods Elementary,Met,73.6,26.3,0,75,B
+Catawba County Schools,Mill Creek Middle,Exceeded,64.0,39.2,0,69,C
+Caswell County Schools,N L Dillard Middle,Met,44.1,67.0,0,51,D
+Wake County Schools,Hodge Road Elementary,Met,34.4,76.1,0,44,D
+Guilford County Schools,Johnson Street Global Studies,NotMet,47.1,80.3,0,52,D
+Durham Public Schools,Durham School of the Arts,Exceeded,68.9,39.4,0,78,B
+Craven County Schools,Albert H Bangert Elementary,Met,59.9,58.5,0,64,C
+Davidson County Schools,Wallburg Elementary,NotMet,67.3,34.8,0,68,C
+Pasquotank County Schools,Northside Elementary,Met,61.1,55.4,0,65,C
+Columbus County Schools,Acme Delco Middle,Met,29.9,76.9,0,40,D
+Haywood County Schools,Central Elementary,Met,64.2,74.8,0,68,C
+Craven County Schools,West Craven High,Met,49.0,51.9,0,67,C
+Craven County Schools,New Bern High,NotMet,44.6,46.7,0,59,C
+Person County Schools,North Elementary,Met,38.1,,0,47,D
+Charlotte-Mecklenburg Schools,Selwyn Elementary,Exceeded,82.8,19.3,0,84,B
+Brunswick County Schools,Cedar Grove Middle,Exceeded,49.7,69.8,0,57,C
+Stokes County Schools,Chestnut Grove Middle,Exceeded,60.2,47.4,0,65,C
+Bladen County Schools,Bladen Lakes Primary,Exceeded,43.5,70.0,0,52,D
+Stokes County Schools,Southeastern Middle,Exceeded,56.1,54.9,0,62,C
+Rowan-Salisbury Schools,Rowan Co Early College,Met,70.9,65.6,0,81,B
+Bertie County Schools,Colerain Elementary,Met,30.1,88.8,0,38,F
+Buncombe County Schools,Enka Middle,NotMet,58.4,62.9,0,58,C
+Johnston County Schools,Clayton Middle,Met,57.2,42.6,0,61,C
+Bertie County Schools,Bertie High,NotMet,21.4,87.8,0,46,D
+Rutherford County Schools,Forest City-Dunbar Elementary School,NotMet,50.3,93.2,0,54,D
+Wilson County Schools,Rock Ridge Elementary,Exceeded,78.4,49.3,0,81,B
+Charter Schools,Cornerstone Charter Academy-CFA,Met,66.7,13.3,0,68,C
+Charter Schools,Cabarrus Charter Academy,Exceeded,72.0,16.6,0,75,B
+Guilford County Schools,Oak Ridge Elementary,Met,86.3,11.3,0,86,A
+Pender County Schools,Pender High,Exceeded,43.4,71.4,0,64,C
+Charter Schools,Charter Day School,Exceeded,72.1,35.6,0,75,B
+Jones County Schools,Jones Middle,Exceeded,58.8,79.2,0,65,C
+Charter Schools,Dillard Academy,Met,19.6,94.7,0,31,F
+Charter Schools,Chatham Charter,Met,70.5,15.0,0,71,B
+Chatham County Schools,Margaret B. Pollard Middle,Exceeded,70.3,28.7,0,76,B
+Cherokee County Schools,Martins Creek Elementary/Mid,Met,60.8,77.6,0,64,C
+Chatham County Schools,Chatham Central High,Exceeded,64.4,34.5,0,74,B
+Cleveland County Schools,Bethware Elementary,NotMet,70.3,65.9,0,68,C
+Wake County Schools,Jeffreys Grove Elementary,Met,66.2,31.7,0,69,C
+Chatham County Schools,Pittsboro Elementary,Met,57.5,44.2,0,62,C
+Charter Schools,Uwharrie Charter Academy,Met,52.9,15.2,0,57,C
+Charter Schools,Washington Montessori,Met,58.4,28.0,0,62,C
+Chatham County Schools,Bonlee School,Met,56.4,55.1,0,61,C
+Charter Schools,Woods Charter,Exceeded,88.3,,0,89,A
+Charlotte-Mecklenburg Schools,University Park Creative Arts,NotMet,46.2,82.0,0,50,D
+Charlotte-Mecklenburg Schools,South Charlotte Middle,Exceeded,83.4,16.9,0,85,A
+Charlotte-Mecklenburg Schools,South Mecklenburg High,Exceeded,68.1,45.7,0,80,B
+Charlotte-Mecklenburg Schools,Piney Grove Elementary,NotMet,56.2,79.5,0,57,C
+Charlotte-Mecklenburg Schools,Irwin Academic Center,Met,87.5,26.2,0,88,A
+Charlotte-Mecklenburg Schools,McKee Road Elementary,Met,85.9,16.0,0,85,A
+Robeson County Schools,Southside/Ashpole Elem,NotMet,34.0,83.5,0,41,D
+Durham Public Schools,Burton Elementary,Exceeded,40.4,87.6,0,50,D
+Onslow County Schools,Southwest High,Met,50.6,44.5,0,71,B
+Charlotte-Mecklenburg Schools,Hidden Valley Elementary,Exceeded,40.8,,0,50,D
+Randolph County Schools,Randolph Early College High,Exceeded,78.9,44.4,0,87,A
+Gaston County Schools,McAdenville Elementary,Met,47.1,63.1,0,52,D
+Charter Schools,Guilford Preparatory Academy,Met,42.1,80.6,0,49,D
+Charter Schools,Neuse Charter School,Exceeded,69.4,12.0,0,75,B
+Charter Schools,Healthy Start Academy,Met,23.5,62.5,0,35,F
+Charter Schools,Greensboro Academy,NotMet,76.3,7.3,0,75,B
+Cleveland County Schools,Crest Middle,Met,56.3,57.8,0,61,C
+Charter Schools,Millennium Charter Academy,Exceeded,69.0,,0,72,B
+Charter Schools,Longleaf School of the Arts,Met,75.7,,0,76,B
+Charter Schools,Magellan Charter,Exceeded,,,0,95,A
+Clinton City Schools,Butler Avenue Elementary,Exceeded,60.6,76.4,0,66,C
+Guilford County Schools,Southern Guilford Middle,NotMet,43.4,76.8,0,46,D
+Cleveland County Schools,Township Three Elementary,Met,55.8,80.1,0,59,C
+Clinton City Schools,Sunset Avenue Elementary,NotMet,55.2,71.9,0,57,C
+Jackson County Schools,Scotts Creek Elementary,Met,57.0,58.5,0,62,C
+Cleveland County Schools,Fallston Elementary,Met,61.6,65.7,0,66,C
+Cleveland County Schools,Shelby Middle,NotMet,52.5,70.7,0,55,C
+Cleveland County Schools,Shelby High,NotMet,47.3,61.0,0,64,C
+Surry County Schools,Central Middle,NotMet,57.4,69.5,0,59,C
+Forsyth County Schools,Hall-Woodward Elementary,NotMet,32.8,,0,40,D
+Charlotte-Mecklenburg Schools,William Amos Hough High,Exceeded,78.8,17.8,0,86,A
+Charlotte-Mecklenburg Schools,Eastover Elementary,NotMet,71.8,23.6,0,69,C
+Catawba County Schools,Saint Stephens Elementary,Met,41.3,84.3,0,48,D
+Chapel Hill-Carrboro Schools,McDougle Elementary,Met,73.4,28.3,0,75,B
+Granville County Schools,Stovall-Shaw Elementary,Met,49.3,64.5,0,55,C
+Charter Schools,Research Triangle Charter,Exceeded,41.6,62.9,0,52,D
+Onslow County Schools,Summersill Elementary,Met,66.5,58.5,0,70,B
+Cleveland County Schools,Burns Middle,Met,52.2,66.1,0,58,C
+Clinton City Schools,Clinton High,NotMet,49.5,61.3,0,62,C
+Scotland County Schools,North Laurinburg Elementary,Met,49.4,,0,54,D
+Rockingham County Schools,John W Dillard Elementary,NotMet,40.1,79.5,0,44,D
+Greene County Schools,Greene Early College High,Exceeded,81.7,72.5,0,84,B
+Gaston County Schools,W C Friday Middle School,NotMet,44.6,63.5,0,48,D
+Person County Schools,Woodland Elementary,Exceeded,74.8,50.8,0,78,B
+Graham County Schools,Robbinsville Middle,Exceeded,48.3,63.7,0,56,C
+Guilford County Schools,Millis Road Elementary,Met,68.0,43.3,0,71,B
+Graham County Schools,Robbinsville Elementary,Met,56.0,67.6,0,61,C
+Granville County Schools,Wilton Elementary,Met,61.1,44.5,0,66,C
+Pitt County Schools,Pactolus,Met,33.7,89.8,0,43,D
+Guilford County Schools,Bessemer Elementary,Met,27.1,,0,37,F
+Newton Conover City Schools,North Newton Elementary,NotMet,49.4,81.9,0,52,D
+Durham Public Schools,Club Boulevard Elementary,Exceeded,44.0,60.4,0,53,D
+Duplin County Schools,Rose Hill-Magnolia Elementary,Met,35.0,90.6,0,45,D
+Durham Public Schools,City of Medicine Academy,Exceeded,72.1,56.0,0,82,B
+Guilford County Schools,Allen Jay Elementary,Exceeded,45.7,87.3,0,55,C
+Iredell-Statesville Schools,North Iredell High,NotMet,47.1,39.8,0,59,C
+Davie County Schools,William Ellis Middle,Exceeded,71.1,30.0,0,75,B
+Davie County Schools,William R Davie Elementary,Met,59.5,55.7,0,64,C
+Davie County Schools,North Davie Middle,Exceeded,65.9,42.8,0,71,B
+Duplin County Schools,Beulaville Elementary,Met,47.9,64.9,0,54,D
+Durham Public Schools,Southern School of Energy and Sustainabi,NotMet,26.9,74.0,0,50,D
+Edgecombe County Public School,W A Pattillo School,NotMet,20.3,92.7,0,30,F
+Durham Public Schools,Lakewood Montessori Middle,NotMet,52.4,47.7,0,55,C
+Durham Public Schools,W G Pearson Elementary,Exceeded,26.1,87.9,0,38,F
+Durham Public Schools,James E Shepard Middle,NotMet,32.2,73.7,0,37,F
+Onslow County Schools,Jacksonville Commons Elem,Met,49.6,54.3,0,55,C
+Durham Public Schools,Hillside New Tech High,NotMet,35.8,56.2,0,53,D
+Durham Public Schools,Middle College HS @ DTCC,N/A,0.0,15.3,0,92,A
+Durham Public Schools,Lakewood Elementary,Met,33.2,94.2,0,43,D
+Durham Public Schools,Y E Smith Elementary,Exceeded,28.5,,0,41,D
+Dare County Schools,First Flight Elementary School,Exceeded,68.5,39.7,0,72,B
+Wayne County Public Schools,Tommy's Road Elementary,Met,46.8,60.1,0,53,D
+Davidson County Schools,Churchland Elementary,NotMet,59.0,65.7,0,60,C
+Davidson County Schools,Hasty Elementary,Exceeded,63.2,58.0,0,68,C
+Richmond County Schools,Richmond Senior High,NotMet,33.8,65.0,0,54,D
+Dare County Schools,Manteo High School,Exceeded,66.3,38.3,0,79,B
+Dare County Schools,Manteo Middle School,Met,58.6,54.0,0,61,C
+Currituck County Schools,Moyock Middle,Met,60.7,30.6,0,65,C
+Stanly County Schools,West Stanly High,Met,61.8,36.2,0,68,C
+Cumberland County Schools,Walker Spivey Elementary,Met,40.5,,0,48,D
+Cumberland County Schools,New Century International Elementary,Met,56.6,49.9,0,60,C
+Cumberland County Schools,Teresa C Berrien Elementary,Met,38.1,93.7,0,47,D
+Cumberland County Schools,Morganton Road Elementary,Met,46.0,71.3,0,53,D
+Cumberland County Schools,Mary McArthur Elementary,Met,49.0,79.5,0,55,C
+Rutherford County Schools,R-S Central High School,Met,46.0,55.8,0,66,C
+Cumberland County Schools,Pine Forest High,Exceeded,51.9,53.3,0,67,C
+Cumberland County Schools,Lewis Chapel Middle,Met,36.2,74.3,0,43,D
+Cumberland County Schools,J W Coon Elementary,Met,46.2,83.3,0,54,D
+Cumberland County Schools,Spring Lake Middle,Met,32.3,81.4,0,40,D
+Cumberland County Schools,Stedman Elementary,Met,75.9,54.2,0,76,B
+Forsyth County Schools,Atkins Academic & Tech High,Exceeded,72.3,42.5,0,81,B
+Forsyth County Schools,Ibraham Elementary,Exceeded,40.5,93.2,0,50,D
+Forsyth County Schools,Cash Elementary,Exceeded,74.8,35.5,0,78,B
+Rowan-Salisbury Schools,China Grove Middle,Met,52.2,49.0,0,59,C
+Elkin City Schools,Elkin High,Exceeded,77.2,36.4,0,84,B
+Forsyth County Schools,Mineral Springs Elementary,Exceeded,49.9,,0,59,C
+Forsyth County Schools,Kimberley Park Elementary,Exceeded,28.5,,0,40,D
+Forsyth County Schools,Middle College of Forsyth Cnty,N/A,0.0,,0,92,A
+Forsyth County Schools,Diggs-Latham Elementary,Met,39.0,,0,47,D
+Forsyth County Schools,Easton Elementary School,Met,23.6,,0,34,F
+Guilford County Schools,Kernodle Middle,Exceeded,76.7,25.3,0,81,B
+Guilford County Schools,Lincoln Academy,NotMet,70.4,45.2,0,70,B
+Guilford County Schools,Julius I Foust Elementary,Exceeded,32.8,,0,45,D
+Davidson County Schools,Yadkin Valley Regional Career Academy,NotMet,54.0,54.1,0,56,C
+Durham Public Schools,Southern School of Engineering,NotMet,36.6,64.4,0,53,D
+Forsyth County Schools,Piney Grove Elementary,Exceeded,70.9,30.6,0,74,B
+Gaston County Schools,Forest Heights Elementary,NotMet,32.7,88.5,0,40,D
+Davidson County Schools,Northwest Elementary,Exceeded,68.4,36.3,0,72,B
+Davie County Schools,Cornatzer Elementary,Exceeded,65.0,62.1,0,70,B
+Davidson County Schools,Oak Grove Middle,Exceeded,68.9,34.0,0,74,B
+Rowan-Salisbury Schools,North Rowan High,NotMet,24.4,68.3,0,49,D
+Davidson County Schools,Welcome Elementary,Met,59.3,52.5,0,63,C
+Davidson County Schools,Reeds Elementary,Met,65.3,53.0,0,69,C
+Guilford County Schools,Allen Jay Middle Preparatory Academy,NotMet,44.3,67.0,0,47,D
+Guilford County Schools,Clara J Peck Elementary,Exceeded,45.4,94.5,0,54,D
+Guilford County Schools,The Academy at Smith,Exceeded,70.1,72.5,0,81,B
+Guilford County Schools,Florence Elementary,Exceeded,68.5,38.0,0,72,B
+Guilford County Schools,GTCC Middle College High,Met,63.6,45.8,0,78,B
+Guilford County Schools,Irving Park Elementary,Met,47.6,70.1,0,55,C
+Guilford County Schools,Guilford Elementary,Met,46.1,79.4,0,51,D
+Onslow County Schools,Dixon Elementary,Met,65.0,37.2,0,66,C
+Guilford County Schools,Early College at Guilford,NotMet,,10.9,0,93,A
+Lenoir County Public Schools,La Grange Elementary,Exceeded,48.3,81.5,0,56,C
+Johnston County Schools,West Smithfield Elementary,Exceeded,31.6,90.0,0,43,D
+Mooresville City Schools,East Mooresville Intermediate,Met,70.1,40.2,0,73,B
+Lenoir County Public Schools,E B Frink Middle,NotMet,48.1,65.4,0,50,D
+Jones County Schools,Maysville Elementary,Exceeded,61.2,75.2,0,66,C
+Lee County Schools,J Glenn Edwards Elementary,Met,55.4,82.7,0,60,C
+Kannapolis City Schools,Shady Brook Elementary,Met,52.1,74.9,0,58,C
+Lee County Schools,J R Ingram Jr Elementary,Met,57.1,65.0,0,61,C
+Kannapolis City Schools,Kannapolis Middle,NotMet,41.9,72.8,0,45,D
+Lee County Schools,Lee County High,NotMet,43.2,52.3,0,56,C
+Hyde County Schools,Mattamuskeet Early College High,NotMet,29.7,78.1,0,45,D
+Henderson County Schools,Clear Creek Elementary,Met,72.5,66.0,0,74,B
+Hertford County Schools,Hertford County Middle,NotMet,31.1,76.7,0,36,F
+Henderson County Schools,East Henderson High,NotMet,60.0,48.8,0,70,B
+Hoke County Schools,Rockfish Hoke Elementary,Met,64.9,43.2,0,67,C
+Rutherford County Schools,Chase Middle School,Met,51.3,69.4,0,56,C
+Hyde County Schools,Mattamuskeet Elementary,Met,51.6,78.2,0,57,C
+Haywood County Schools,Waynesville Middle,Met,61.5,55.6,0,66,C
+Hoke County Schools,Upchurch Elementary,Met,51.4,77.7,0,57,C
+Hoke County Schools,West Hoke Middle,Met,35.6,81.4,0,44,D
+Johnston County Schools,McGee's Crossroads Middle,Exceeded,61.1,37.7,0,67,C
+Union County Public Schools,Forest Hills High,Exceeded,44.8,65.6,0,64,C
+Iredell-Statesville Schools,Lakeshore Elementary,Met,67.8,22.6,0,70,B
+Jackson County Schools,Fairview Elementary,Exceeded,62.5,57.5,0,68,C
+Johnston County Schools,Polenta Elementary,Exceeded,57.0,39.0,0,63,C
+Iredell-Statesville Schools,Statesville Middle,Met,27.6,88.6,0,38,F
+Stanly County Schools,Albemarle Middle,Exceeded,46.6,79.4,0,57,C
+Wayne County Public Schools,Greenwood Middle,Met,49.1,69.0,0,56,C
+Johnston County Schools,Riverwood Elementary,Met,73.3,20.0,0,73,B
+Jackson County Schools,Blue Ridge School,Met,43.2,78.2,0,51,D
+New Hanover County Schools,M C S Noble Middle,Exceeded,71.8,31.2,0,75,B
+New Hanover County Schools,Sunset Park Elementary,Met,53.3,90.2,0,60,C
+New Hanover County Schools,Pine Valley Elementary,Met,70.4,46.9,0,73,B
+New Hanover County Schools,Wrightsboro Elementary,Met,48.7,81.6,0,55,C
+New Hanover County Schools,Murrayville Elementary,Met,67.5,46.0,0,71,B
+Wake County Schools,Morrisville Elementary,Exceeded,89.8,6.2,0,89,A
+Onslow County Schools,Carolina Forest Elementary,Met,68.9,36.3,0,70,B
+Newton Conover City Schools,Newton-Conover Middle,Met,52.2,65.1,0,57,C
+Northampton County Schools,Gaston Elementary,NotMet,31.3,91.9,0,39,F
+Northampton County Schools,Central Elementary,Met,40.3,77.2,0,49,D
+Harnett County Schools,South Harnett Elementary,Exceeded,46.4,61.9,0,55,C
+Onslow County Schools,Queens Creek Elementary,Exceeded,66.3,51.1,0,70,B
+Guilford County Schools,Western Guilford High,Exceeded,58.9,44.6,0,75,B
+Guilford County Schools,Ronald E. McNair Elementary,Met,36.7,81.4,0,45,D
+Haywood County Schools,Hazelwood Elementary,NotMet,65.0,60.7,0,64,C
+Wake County Schools,West Lake Elementary,Exceeded,72.3,18.0,0,76,B
+Harnett County Schools,Erwin Elementary,Exceeded,48.3,66.4,0,56,C
+Harnett County Schools,LaFayette Elementary,Met,68.3,41.7,0,70,B
+Haywood County Schools,Canton Middle,Met,61.4,55.5,0,64,C
+Halifax County Schools,Pittman Elementary,Exceeded,38.3,,0,48,D
+Lincoln County Schools,Love Memorial Elementary,Exceeded,60.4,62.0,0,67,C
+Lincoln County Schools,Rock Springs Elementary,Exceeded,79.3,26.4,0,81,B
+Lincoln County Schools,Iron Station Elementary,Exceeded,70.3,57.6,0,74,B
+Macon County Schools,South Macon Elementary,Exceeded,62.7,74.1,0,68,C
+Madison County Schools,Hot Springs Elementary,Met,55.9,75.2,0,60,C
+Lincoln County Schools,Union Elementary,Exceeded,72.9,50.0,0,77,B
+Surry County Schools,Pilot Mountain Middle,NotMet,62.2,54.8,0,62,C
+Vance County Schools,New Hope Elementary,NotMet,25.4,94.0,0,32,F
+Wake County Schools,Lead Mine Elementary,NotMet,68.3,36.5,0,68,C
+Lenoir County Public Schools,Southeast Elementary,Met,17.8,,0,30,F
+Madison County Schools,Madison Early College High,Met,73.4,45.9,0,80,B
+Wilkes County Schools,Wilkesboro Elementary,Exceeded,68.6,50.2,0,73,B
+Mooresville City Schools,South Elementary,Exceeded,82.9,57.8,0,84,B
+Moore County Schools,West End Elementary,NotMet,67.4,38.6,0,66,C
+Mitchell County Schools,Bowman Middle,Exceeded,63.1,52.4,0,68,C
+Mitchell County Schools,Mitchell High,Exceeded,63.0,46.2,0,75,B
+Moore County Schools,West Pine Elementary,Met,81.1,33.0,0,81,B
+Montgomery County Schools,West Middle,NotMet,44.6,64.8,0,49,D
+Martin County Schools,Riverside Middle,Met,47.7,67.2,0,55,C
+Moore County Schools,West Pine Middle,Met,76.1,26.3,0,77,B
+Polk County Schools,Polk County High School,Met,65.6,45.8,0,76,B
+Pitt County Schools,Wellcome Middle,NotMet,32.0,90.6,0,39,F
+Rowan-Salisbury Schools,Granite Quarry Elementary,NotMet,50.7,63.5,0,53,D
+Rockingham County Schools,Rockingham County Middle,NotMet,54.9,45.0,0,58,C
+Roanoke Rapids City Schools,Chaloner Middle,Exceeded,47.4,57.7,0,55,C
+Robeson County Schools,Lumberton Senior High,NotMet,35.0,68.7,0,57,C
+Rockingham County Schools,J E Holmes Middle,NotMet,44.7,67.0,0,47,D
+Robeson County Schools,Saint Pauls High,Exceeded,40.6,79.3,0,64,C
+Robeson County Schools,Oxendine Elementary,Met,36.7,84.4,0,46,D
+Robeson County Schools,East Robeson Primary,Met,49.3,73.8,0,56,C
+Wake County Schools,Briarcliff Elementary,Met,75.0,38.3,0,76,B
+Robeson County Schools,Fairgrove Middle,Met,38.6,87.4,0,45,D
+Stanly County Schools,West Stanly Middle School,Exceeded,58.5,43.4,0,66,C
+Stanly County Schools,East Albemarle Elementary,NotMet,35.4,78.8,0,40,D
+Rowan-Salisbury Schools,Mt Ulla Elementary,Met,55.0,57.9,0,60,C
+Stanly County Schools,North Stanly High,NotMet,54.3,46.2,0,65,C
+Sampson County Schools,Midway Middle,Exceeded,62.4,51.5,0,67,C
+Stanly County Schools,Endy Elementary,NotMet,72.0,49.8,0,71,B
+Stokes County Schools,Stokes Early College,Met,85.5,47.2,0,89,A
+Stanly County Schools,Central Elementary,Met,51.0,80.2,0,56,C
+Stokes County Schools,Piney Grove Middle,Met,54.4,54.5,0,59,C
+Sampson County Schools,Lakewood High,NotMet,37.3,64.8,0,56,C
+Union County Public Schools,Indian Trail Elementary,Exceeded,72.6,34.8,0,76,B
+Stokes County Schools,Pinnacle Elementary,Exceeded,55.7,64.5,0,63,C
+Stokes County Schools,South Stokes High,Exceeded,63.8,43.4,0,74,B
+Wake County Schools,Panther Creek High,Exceeded,80.4,11.6,0,89,A
+Transylvania County Schools,Brevard High,NotMet,68.9,42.9,0,71,B
+Swain County Schools,Swain County Middle,Exceeded,47.8,63.0,0,55,C
+Swain County Schools,Swain Co West Elementary,Met,67.8,64.5,0,71,B
+Surry County Schools,Dobson Elementary,NotMet,69.1,65.4,0,68,C
+Thomasville City Schools,Thomasville High,Met,37.1,79.7,0,57,C
+Surry County Schools,Shoals Elementary,Met,80.4,48.5,0,81,B
+Union County Public Schools,Weddington High,Exceeded,87.7,7.6,0,91,A
+Wake County Schools,East Garner Elementary,Exceeded,49.4,73.4,0,57,C
+Vance County Schools,E O Young Jr Elementary,NotMet,29.9,88.0,0,35,F
+Wake County Schools,Holly Grove Elementary,NotMet,81.4,12.0,0,79,B
+Wake County Schools,Knightdale Elementary,NotMet,50.2,67.1,0,53,D
+Wake County Schools,Aversboro Elementary,Met,59.0,53.5,0,64,C
+Wake County Schools,Heritage High,Exceeded,66.0,26.0,0,77,B
+Wake County Schools,Cary Elementary,NotMet,72.5,42.3,0,71,B
+Vance County Schools,Dabney Elementary,Met,44.0,85.1,0,50,D
+Vance County Schools,Pinkston Street Elementary,NotMet,49.2,,0,52,D
+Wilkes County Schools,Roaring River Elementary,Exceeded,44.7,68.8,0,54,D
+Wilkes County Schools,Wilkes Early College High,Met,71.1,59.4,0,77,B
+Wilkes County Schools,Central Wilkes Middle,NotMet,45.0,65.1,0,47,D
+Wilkes County Schools,Millers Creek Elementary,Met,57.0,66.8,0,63,C
+Wilkes County Schools,East Wilkes Middle,Exceeded,57.7,61.4,0,63,C
+Yancey County Schools,Clearmont Elementary,Met,47.6,64.3,0,55,C
+Wilson County Schools,Speight Middle,NotMet,43.4,76.3,0,47,D
+Wilkes County Schools,West Wilkes High,Met,59.7,49.2,0,72,B
+Wake County Schools,Wake Forest Middle School,Exceeded,61.1,39.1,1,66,C
+Wake County Schools,Middle Creek Elementary,Exceeded,79.6,18.5,0,82,B
+Wake County Schools,Northwoods Elementary,Exceeded,66.5,39.5,0,70,B
+Wake County Schools,Leesville Road Elementary,Met,70.8,27.8,0,71,B
+Wake County Schools,Wendell Elementary,Exceeded,52.1,57.3,0,60,C
+Wake County Schools,Wiley Elementary,Exceeded,70.6,28.1,0,74,B
+Wake County Schools,Wake Forest Elementary,Met,72.3,38.1,0,73,B
+Wake County Schools,Mills Park Elementary,Met,87.9,8.3,0,86,A
+Wake County Schools,Wakefield High,Exceeded,67.0,28.6,1,79,B
+Wake County Schools,Mills Park Middle,Met,82.4,11.0,0,80,B
+Weldon City Schools,Roanoke Valley Early College,NotMet,53.7,58.6,0,63,C
+Wilson County Schools,Wilson Early College Academy,Met,85.7,57.6,0,85,A
+Wayne County Public Schools,Norwayne Middle,Exceeded,60.2,51.3,0,68,C
+Watauga County Schools,Parkway Elementary,Exceeded,70.8,40.8,0,75,B
+Warren County Schools,Warren Early College High,Met,48.0,48.2,0,65,C
+Warren County Schools,Northside Elementary,NotMet,22.9,85.3,0,30,F
+Wayne County Public Schools,Brogden Primary,Met,28.6,90.6,0,39,F
+Warren County Schools,Vaughan Elementary,Met,52.2,79.8,0,56,C
+Whiteville City Schools,Central Middle,Met,52.9,67.1,0,57,C
+Weldon City Schools,Weldon Elementary,Met,26.1,85.6,0,35,F
+Rutherford County Schools,Sunshine Elementary School,NotMet,64.7,68.0,0,65,C
+Rutherford County Schools,Rutherfordton Elementary School,Met,56.3,65.2,0,60,C
+Scotland County Schools,Laurel Hill Elementary,NotMet,74.9,76.6,0,74,B
+Sampson County Schools,Salemburg Elementary,Exceeded,47.3,61.5,0,57,C
+Sampson County Schools,Union Elementary,Exceeded,61.4,62.6,0,68,C
+Sampson County Schools,Hobbton Elementary,NotMet,60.6,58.4,0,61,C
+Rutherford County Schools,R-S Middle School,Met,49.4,64.9,0,56,C
+Sampson County Schools,Union High,Met,32.0,70.9,0,58,C
+Union County Public Schools,Marvin Ridge Middle,Exceeded,90.5,,0,92,A
+Cleveland County Schools,Boiling Springs Elementary,Exceeded,74.5,55.0,0,78,B
+Charlotte-Mecklenburg Schools,Endhaven Elementary,Exceeded,73.8,28.1,0,77,B
+Alamance-Burlington Schools,South Graham Elementary,Met,38.8,82.1,0,47,D
+Alamance-Burlington Schools,Grove Park Elementary,Met,38.8,79.5,0,48,D
+Forsyth County Schools,Clemmons Elementary,Exceeded,83.1,18.6,0,84,B
+Iredell-Statesville Schools,Troutman Elementary,Met,54.6,51.7,0,60,C
+Burke County Schools,Liberty Middle,Exceeded,62.4,49.3,0,68,C
+Johnston County Schools,Selma Elementary,Met,33.3,92.8,0,41,D
+Alamance-Burlington Schools,Graham Middle,Met,32.5,80.7,0,42,D
+Charter Schools,The Mountain Community Sch,Exceeded,64.4,7.5,0,69,C
+Charter Schools,Oxford Preparatory High,NotMet,53.2,23.2,0,54,D
+Charter Schools,Pinnacle Classical Academy,Met,67.3,13.9,0,69,C
+Charter Schools,Mountain Discovery,Exceeded,76.6,50.0,0,79,B
+Charter Schools,PreEminent Charter,NotMet,29.7,71.6,0,36,F
+Charter Schools,Phoenix Academy,NotMet,56.1,10.0,0,57,C
+Charter Schools,Socrates Academy,Met,85.1,15.7,0,85,A
+Charter Schools,STARS Charter,Met,49.3,31.1,0,54,D
+Guilford County Schools,Gillespie Park Elementary,Met,30.5,,0,40,D
+Charter Schools,Metrolina Reg Scholars Academy,Met,,,0,94,A
+Cumberland County Schools,Stoney Point Elementary,Exceeded,74.6,27.0,0,77,B
+Currituck County Schools,Knotts Island Elementary,NotMet,74.1,44.2,0,71,B
+Forsyth County Schools,Kernersville Elementary,Exceeded,52.2,76.7,0,60,C
+Currituck County Schools,Jarvisburg Elementary,NotMet,54.7,54.1,0,58,C
+Davidson County Schools,Davis-Townsend Elementary,Met,65.8,46.1,0,67,C
+Forsyth County Schools,Northwest Middle,Exceeded,42.7,70.3,0,52,D
+Davidson County Schools,Davidson Early College,Met,75.8,50.0,0,87,A
+Johnston County Schools,Clayton High,NotMet,56.9,30.7,0,66,C
+Iredell-Statesville Schools,Cloverleaf Elementary,Exceeded,43.0,66.5,0,52,D
+Granville County Schools,Butner-Stem Middle,NotMet,34.9,63.6,0,40,D
+Gaston County Schools,North Belmont Elementary,Met,41.3,70.4,0,49,D
+Rowan-Salisbury Schools,China Grove Elementary,Met,47.7,65.5,0,55,C
+Person County Schools,North End Elementary,Met,53.6,71.6,0,59,C
+Gaston County Schools,Stuart W Cramer High,Met,58.9,41.0,0,61,C
+Guilford County Schools,Bluford Elementary,Met,33.8,89.8,0,43,D
+Gaston County Schools,New Hope Elementary,Met,79.6,28.9,0,79,B
+Gates County Schools,Central Middle,Met,51.6,54.8,0,58,C
+Guilford County Schools,Brown Summit Middle,NotMet,,15.7,0,90,A
+Forsyth County Schools,Sherwood Forest Elementary,Exceeded,84.2,17.9,0,85,A
+Forsyth County Schools,Winston-Salem Preparatory Acad,Met,22.4,88.4,0,39,F
+Granville County Schools,Northern Granville Middle,NotMet,35.5,62.3,0,41,D
+Forsyth County Schools,Walkertown Elementary,NotMet,54.3,65.3,0,55,C
+Forsyth County Schools,Whitaker Elementary,Exceeded,90.3,15.7,0,91,A
+Lincoln County Schools,Childers Elementary,Exceeded,74.7,62.0,0,78,B
+Forsyth County Schools,The Downtown School,Exceeded,83.6,13.0,0,85,A
+Forsyth County Schools,Paisley IB Magnet School,Met,57.6,57.1,0,62,C
+Forsyth County Schools,Wiley Middle,Met,39.7,74.8,0,46,D
+Forsyth County Schools,Old Town Elementary,NotMet,38.9,,0,43,D
+Gaston County Schools,Belmont Central Elementary,Exceeded,74.3,28.9,0,78,B
+Franklin County Schools,Youngsville Elementary,Exceeded,71.5,45.3,0,75,B
+Gaston County Schools,Gardner Park Elementary,Exceeded,53.9,73.6,0,61,C
+Gaston County Schools,Ida Rankin Elementary School,Met,55.4,55.7,0,60,C
+Gaston County Schools,Kiser Elementary,Exceeded,50.3,57.4,0,58,C
+Gaston County Schools,Belmont Middle,Exceeded,66.8,39.2,0,71,B
+Franklin County Schools,Franklinton High,NotMet,46.4,46.1,0,61,C
+Gaston County Schools,Lowell Elementary,Met,49.6,58.7,0,55,C
+Gaston County Schools,Cramerton Middle,Met,66.8,28.0,0,68,C
+Rowan-Salisbury Schools,Knox Middle,Met,32.4,83.8,0,42,D
+Wake County Schools,Wake Young Women's Leadership Academy,Exceeded,74.5,37.0,0,78,B
+Guilford County Schools,Jamestown Middle,Exceeded,59.8,56.6,0,66,C
+Guilford County Schools,Jamestown Elementary,Met,47.2,75.8,0,53,D
+Guilford County Schools,Morehead Elementary,Met,72.8,58.1,0,74,B
+Wilson County Schools,Elm City Elementary,Met,45.6,78.5,0,51,D
+Guilford County Schools,Kiser Middle,Met,53.9,56.8,0,58,C
+Charlotte-Mecklenburg Schools,Cotswold Elementary,NotMet,67.0,38.6,0,66,C
+Charlotte-Mecklenburg Schools,Blythe Elementary,Exceeded,64.3,48.4,0,69,C
+Wayne County Public Schools,Northwest Elementary,NotMet,55.1,43.8,0,58,C
+Anson County Schools,Anson Co. Early College High,Met,47.2,51.1,0,65,C
+Craven County Schools,Creekside Elementary,Exceeded,70.2,27.4,0,74,B
+Alamance-Burlington Schools,Turrentine Middle,NotMet,45.7,65.8,0,47,D
+Chatham County Schools,Bennett School,Exceeded,61.5,43.0,0,67,C
+Avery County Schools,Avery County High,NotMet,38.4,53.9,0,66,C
+Franklin County Schools,Louisburg High,Met,49.3,61.0,0,68,C
+Randolph County Schools,Wheatmore High,Met,56.3,34.0,0,71,B
+Charlotte-Mecklenburg Schools,Reedy Creek Elementary,Exceeded,49.9,71.5,0,57,C
+Charlotte-Mecklenburg Schools,J M Alexander Middle,Exceeded,59.6,43.3,0,67,C
+Charlotte-Mecklenburg Schools,Long Creek Elementary,Exceeded,57.9,54.1,0,64,C
+Catawba County Schools,Clyde Campbell Elementary,Exceeded,69.4,39.5,0,75,B
+Catawba County Schools,Mountain View Elementary,Exceeded,69.1,44.5,0,73,B
+Alexander County Schools,East Alexander Middle,NotMet,50.5,63.9,0,54,D
+Bladen County Schools,B T Washington Primary,Met,50.0,92.7,0,54,D
+Burke County Schools,Mull Elementary,Exceeded,65.2,65.0,0,69,C
+Forsyth County Schools,Meadowlark Middle,Met,71.4,22.9,0,73,B
+Anson County Schools,Anson Middle,NotMet,35.7,78.6,0,40,D
+Charlotte-Mecklenburg Schools,Collinswood Language Academy,Exceeded,81.3,54.1,0,83,B
+Carteret County Public Schools,Morehead City Middle,Exceeded,66.3,36.4,0,70,B
+Catawba County Schools,Sherrills Ford Elementary,Exceeded,71.2,28.2,0,76,B
+Carteret County Public Schools,West Carteret High,Exceeded,73.4,37.7,0,84,B
+Charlotte-Mecklenburg Schools,Montclaire Elementary,Met,37.5,91.0,0,46,D
+Haywood County Schools,Junaluska Elementary,Exceeded,78.4,47.2,0,81,B
+Catawba County Schools,Claremont Elementary,Exceeded,58.6,60.1,0,65,C
+Catawba County Schools,Maiden Elementary,Exceeded,50.4,58.3,0,58,C
+Camden County Schools,Camden Intermediate,Met,65.5,35.2,0,68,C
+Caswell County Schools,South Elementary,Met,52.4,66.5,0,58,C
+Charlotte-Mecklenburg Schools,Mountain Island Elementary,Exceeded,67.0,52.9,0,73,B
+Charlotte-Mecklenburg Schools,Olde Providence Elementary,Met,83.6,15.1,0,83,B
+Charlotte-Mecklenburg Schools,Clear Creek Elementary,Met,66.4,57.0,0,69,C
+Wayne County Public Schools,Southern Wayne High,NotMet,34.3,67.0,0,51,D
+Buncombe County Schools,Fairview Elementary,Exceeded,63.8,46.3,0,69,C
+Buncombe County Schools,Barnardsville Elementary,Met,58.5,69.0,0,64,C
+Buncombe County Schools,Candler Elementary,NotMet,60.2,65.2,0,61,C
+Buncombe County Schools,Emma Elementary,Exceeded,42.5,93.2,0,52,D
+Thomasville City Schools,Thomasville Primary,Met,42.6,90.8,0,50,D
+Charter Schools,PACE Academy,Met,26.5,71.1,0,49,D
+Charlotte-Mecklenburg Schools,Harding University High,Exceeded,36.8,81.7,0,59,C
+Charlotte-Mecklenburg Schools,Hornets Nest Elementary,Exceeded,46.3,79.7,0,55,C
+Chapel Hill-Carrboro Schools,Morris Grove Elementary,Exceeded,81.2,23.0,0,84,B
+Chapel Hill-Carrboro Schools,East Chapel Hill High,Exceeded,79.7,20.6,0,87,A
+Charlotte-Mecklenburg Schools,Piedmont IB Middle,Exceeded,83.3,40.1,0,87,A
+Chapel Hill-Carrboro Schools,Carrboro High,Exceeded,78.4,20.2,0,85,A
+Chapel Hill-Carrboro Schools,Scroggs Elementary,Met,79.9,26.2,0,79,B
+Cleveland County Schools,Casar Elementary,Exceeded,65.5,62.8,0,70,B
+Charlotte-Mecklenburg Schools,Hawthorne High,Met,22.4,89.7,0,51,D
+Charlotte-Mecklenburg Schools,Druid Hills Academy,Exceeded,31.9,,0,45,D
+Charter Schools,Casa Esperanza Montessori Charter School,Exceeded,77.1,18.6,0,79,B
+Johnston County Schools,North Johnston Middle,Exceeded,50.8,58.6,0,59,C
+Onslow County Schools,Clyde Erwin Elementary,Exceeded,47.1,74.6,0,55,C
+Charter Schools,Children's Village Academy,Exceeded,24.8,94.6,0,37,F
+Charter Schools,Corvian Community School,Met,78.5,,0,78,B
+Macon County Schools,Macon Early College High School,Met,73.7,54.1,0,78,B
+Davie County Schools,Davie County Early College High,Met,93.9,37.5,0,94,A
+Davidson County Schools,Silver Valley Elementary,Met,46.5,77.3,0,53,D
+Davidson County Schools,Southwood Elementary,NotMet,49.9,69.2,0,54,D
+Duplin County Schools,B F Grady Elementary,NotMet,39.8,83.1,0,45,D
+Davidson County Schools,Tyro Elementary,Exceeded,59.6,60.2,0,66,C
+Henderson County Schools,Etowah Elementary,NotMet,74.4,55.6,0,73,B
+Davie County Schools,South Davie Middle,Exceeded,62.7,60.1,0,68,C
+Davie County Schools,Davie County High,Met,65.1,35.1,0,74,B
+Edgecombe County Public School,C B Martin Middle,NotMet,21.2,88.1,0,27,F
+Edgecombe County Public School,North Edgecombe High,Met,25.3,84.2,0,48,D
+Rowan-Salisbury Schools,Rockwell Elementary,Exceeded,59.2,54.0,0,65,C
+Edenton-Chowan Schools,D F Walker Elementary,NotMet,51.5,65.9,0,54,D
+Durham Public Schools,Rogers-Herr Middle,Exceeded,60.6,45.2,0,66,C
+Durham Public Schools,George Watts Elementary,Met,61.7,47.8,0,65,C
+Durham Public Schools,Glenn Elementary,NotMet,33.1,91.1,0,40,D
+Rowan-Salisbury Schools,Morgan Elementary,Met,52.7,56.6,0,57,C
+Person County Schools,Northern Middle,Met,45.8,70.9,0,53,D
+Durham Public Schools,Neal Middle,NotMet,27.0,83.8,0,33,F
+Edgecombe County Public School,SouthWest Edgecombe High,Exceeded,42.5,68.5,0,61,C
+Forsyth County Schools,East Forsyth Middle School,NotMet,38.1,71.9,0,42,D
+Iredell-Statesville Schools,East Iredell Elementary,Met,36.6,73.7,0,46,D
+Harnett County Schools,Johnsonville Elementary,NotMet,33.5,74.6,0,38,F
+Forsyth County Schools,Kimmel Farm Elementary,NotMet,43.0,59.4,0,46,D
+Henderson County Schools,Flat Rock Middle,Exceeded,64.0,65.1,0,70,B
+Wake County Schools,Rand Road Elementary,Met,66.8,31.6,0,68,C
+Forsyth County Schools,Forest Park Elementary,Met,37.8,,0,47,D
+Alamance-Burlington Schools,B Everett Jordan Elem,NotMet,47.3,57.1,0,50,D
+Alamance-Burlington Schools,Altamahaw Ossipee Elem,Met,65.0,43.3,0,67,C
+Catawba County Schools,River Bend Middle,Exceeded,48.6,62.0,0,58,C
+Cabarrus County Schools,C C Griffin Middle,NotMet,41.7,61.1,0,46,D
+Ashe County Schools,Westwood Elementary,Exceeded,66.2,60.5,0,71,B
+Asheboro City Schools,South Asheboro Middle,Met,43.5,63.5,0,50,D
+Charlotte-Mecklenburg Schools,Sedgefield Elementary,Exceeded,53.3,,0,60,C
+Forsyth County Schools,Cook Elementary,NotMet,10.6,,0,22,F
+Rockingham County Schools,Central Elementary,Exceeded,58.9,61.1,0,66,C
+Robeson County Schools,Rex-Rennert Elementary,NotMet,19.3,85.6,0,27,F
+Robeson County Schools,Saint Pauls Middle,Exceeded,38.9,84.1,0,51,D
+Robeson County Schools,Red Springs Middle,Exceeded,31.2,90.1,0,43,D
+Robeson County Schools,Red Springs High,Exceeded,32.3,85.2,0,60,C
+Robeson County Schools,Purnell Swett High,NotMet,37.6,73.3,0,58,C
+Robeson County Schools,Tanglewood Elementary,Met,71.3,40.0,0,74,B
+Robeson County Schools,R B Dean Elementary,Met,21.8,75.1,0,32,F
+Cabarrus County Schools,Northwest Cabarrus Middle,Exceeded,55.4,51.1,0,62,C
+Cabarrus County Schools,Harold E. Winkler Middle,Exceeded,54.7,49.7,0,62,C
+Cabarrus County Schools,Performance Learning Center,N/A,28.3,46.7,0,62,C
+Cabarrus County Schools,Hickory Ridge Middle,Exceeded,69.4,20.9,0,74,B
+Anson County Schools,Lilesville Elementary,Exceeded,38.2,79.7,0,49,D
+Asheville City Schools,Claxton Elementary,Exceeded,73.1,42.1,0,76,B
+Asheville City Schools,Isaac Dickson Elementary,Met,79.7,40.9,0,80,B
+Rowan-Salisbury Schools,South Rowan High,NotMet,42.3,49.0,0,58,C
+Avery County Schools,Banner Elk Elementary,Met,64.5,46.5,0,69,C
+Buncombe County Schools,Owen Middle,NotMet,55.3,63.7,0,58,C
+Cabarrus County Schools,Charles E Boger Elementary,NotMet,62.6,35.6,0,64,C
+Charlotte-Mecklenburg Schools,River Oaks Academy,NotMet,41.4,72.4,0,44,D
+Cabarrus County Schools,Weddington Hills Elementary,Met,57.9,65.5,0,63,C
+Newton Conover City Schools,South Newton Elementary,Met,52.3,72.0,0,58,C
+Cabarrus County Schools,Hickory Ridge High,Exceeded,72.2,18.9,0,83,B
+Buncombe County Schools,Williams Elementary,NotMet,55.8,72.6,0,59,C
+Cabarrus County Schools,Bethel Elementary,NotMet,56.9,38.4,0,58,C
+Burke County Schools,East Burke Middle,Exceeded,69.0,59.6,0,74,B
+Charlotte-Mecklenburg Schools,Randolph Middle,Met,76.3,44.4,0,76,B
+Caswell County Schools,North Elementary,Met,59.7,72.3,0,64,C
+Charlotte-Mecklenburg Schools,Windsor Park Elementary,Exceeded,62.0,89.1,0,68,C
+Mooresville City Schools,Park View Elementary,Exceeded,87.2,50.1,0,89,A
+Brunswick County Schools,Town Creek Elementary,NotMet,48.0,59.0,0,51,D
+Brunswick County Schools,South Brunswick Middle,NotMet,57.1,51.7,0,58,C
+Brunswick County Schools,Belville Elementary,NotMet,55.6,55.8,0,55,C
+Brunswick County Schools,Supply Elementary,NotMet,44.6,82.6,0,48,D
+Bladen County Schools,East Arcadia Elementary,Met,30.3,59.7,0,40,D
+Bladen County Schools,Dublin Primary,Exceeded,59.7,73.2,0,65,C
+Charter Schools,Rocky Mount Preparatory,NotMet,35.8,71.2,0,43,D
+Bladen County Schools,West Bladen High,NotMet,36.0,58.8,0,56,C
+Beaufort County Schools,Beaufort Co Early College High,Exceeded,81.9,48.5,0,88,A
+Avery County Schools,Freedom Trail Elementary,Exceeded,55.2,76.5,0,61,C
+Scotland County Schools,Spring Hill Middle,Exceeded,59.4,74.3,0,65,C
+Avery County Schools,Crossnore Elementary,Exceeded,74.8,52.5,0,79,B
+Avery County Schools,Riverside Elementary,Exceeded,51.5,67.4,0,59,C
+Burke County Schools,Oak Hill Elementary,Exceeded,57.0,59.6,0,63,C
+Guilford County Schools,Jesse Wharton Elem,NotMet,65.1,35.0,0,66,C
+Beaufort County Schools,Bath Elementary,NotMet,70.9,35.2,0,70,B
+Beaufort County Schools,P S Jones Middle,Met,43.2,69.4,0,50,D
+Wake County Schools,Joyner Elementary,NotMet,74.9,25.0,0,73,B
+Cabarrus County Schools,Cabarrus-Kannapolis Early Coll,Met,84.5,44.6,0,87,A
+Guilford County Schools,Southwest Guilford Middle,NotMet,61.9,44.6,0,61,C
+Haywood County Schools,Riverbend Elementary,Exceeded,87.9,48.6,0,89,A
+Buncombe County Schools,North Buncombe Elementary,Met,59.4,59.1,0,64,C
+Buncombe County Schools,Pisgah Elementary,Exceeded,78.0,67.6,0,80,B
+Buncombe County Schools,Haw Creek Elementary,NotMet,65.8,50.5,0,65,C
+Buncombe County Schools,North Buncombe High,Met,64.2,38.0,0,75,B
+Buncombe County Schools,Oakley Elementary,Met,50.1,76.6,0,56,C
+Buncombe County Schools,Reynolds High,NotMet,64.5,40.5,0,72,B
+Buncombe County Schools,Roberson High,NotMet,67.8,37.1,0,75,B
+Charlotte-Mecklenburg Schools,Waddell Language Academy,Exceeded,77.0,31.4,0,79,B
+Charlotte-Mecklenburg Schools,Whitewater Middle,NotMet,30.3,85.3,0,36,F
+Guilford County Schools,Allen Middle,Exceeded,39.6,90.0,0,51,D
+Wake County Schools,Powell Elementary,Met,49.4,53.5,1,56,C
+Randolph County Schools,Franklinville Elementary,Exceeded,60.7,67.5,0,66,C
+Randolph County Schools,John R Lawrence Elementary,NotMet,56.2,42.1,0,56,C
+Randolph County Schools,Northeastern Randolph Middle,Met,52.3,55.2,0,58,C
+Richmond County Schools,Mineral Springs Elementary,Met,41.7,87.6,0,49,D
+Richmond County Schools,Monroe Avenue Elementary,Met,39.9,91.3,0,47,D
+Randolph County Schools,Randleman Elementary,NotMet,48.5,74.7,0,51,D
+Richmond County Schools,Ellerbe Middle,Exceeded,44.0,90.0,0,53,D
+Randolph County Schools,Uwharrie Middle,NotMet,50.6,49.5,0,51,D
+Robeson County Schools,Pembroke Middle,NotMet,34.9,83.3,0,40,D
+Rockingham County Schools,Williamsburg Elementary,Exceeded,49.2,77.5,0,57,C
+Wilkes County Schools,Moravian Falls Elementary,Exceeded,61.0,86.1,0,67,C
+Rutherford County Schools,Harris Elementary School,NotMet,60.6,70.7,0,62,C
+Rockingham County Schools,Moss Street Elementary,NotMet,30.9,93.1,0,36,F
+Rowan-Salisbury Schools,Millbridge Elementary,Exceeded,62.4,50.5,0,67,C
+Rockingham County Schools,Douglass Elementary,Exceeded,56.3,68.4,0,64,C
+Rowan-Salisbury Schools,East Rowan High,Exceeded,53.3,41.9,0,71,B
+Rowan-Salisbury Schools,Bostian Elementary,Met,67.8,44.4,0,70,B
+Rowan-Salisbury Schools,Koontz Elementary,Met,33.4,90.8,0,42,D
+Charlotte-Mecklenburg Schools,Olympic High -Intl Bus and Comm Studies,Exceeded,43.8,65.1,0,62,C
+Charlotte-Mecklenburg Schools,University Meadows Elementary,NotMet,52.0,75.0,0,55,C
+Charlotte-Mecklenburg Schools,Pinewood Elementary,Exceeded,49.4,80.9,0,58,C
+Charlotte-Mecklenburg Schools,Ridge Road Middle,Exceeded,58.6,52.4,0,67,C
+Charlotte-Mecklenburg Schools,Polo Ridge Elementary,Met,88.2,5.7,0,87,A
+Charlotte-Mecklenburg Schools,Lake Wylie Elementary,Met,55.3,60.0,0,60,C
+Charlotte-Mecklenburg Schools,Sharon Elementary,NotMet,82.9,17.0,0,80,B
+Rowan-Salisbury Schools,North Rowan Elementary,NotMet,27.1,78.3,0,33,F
+Charlotte-Mecklenburg Schools,Pineville Elementary,Met,53.6,59.5,0,58,C
+Lincoln County Schools,Catawba Springs Elementary,Exceeded,77.8,30.3,0,81,B
+Iredell-Statesville Schools,East Iredell Middle,Exceeded,42.9,69.4,0,52,D
+Catawba County Schools,Harry M Arndt Middle,Exceeded,57.0,58.5,0,65,C
+Charlotte-Mecklenburg Schools,Park Road Montessori,Met,79.3,11.8,0,78,B
+Guilford County Schools,Brightwood Elementary,NotMet,36.9,87.7,0,43,D
+Burke County Schools,Ray Childers Elementary,NotMet,61.6,70.1,0,61,C
+Bladen County Schools,Bladenboro Middle,NotMet,34.4,73.1,0,39,F
+Bertie County Schools,Windsor Elementary,Met,41.3,89.1,0,48,D
+Beaufort County Schools,Southside High,Met,44.8,65.2,0,66,C
+Wake County Schools,Apex High,Exceeded,80.6,9.5,1,86,A
+Wayne County Public Schools,Wayne Early / Middle College High,Met,91.1,37.9,0,92,A
+Iredell-Statesville Schools,N B Mills Elementary,NotMet,34.2,86.6,0,39,F
+Stokes County Schools,Germanton Elementary,Exceeded,64.7,48.0,0,70,B
+Catawba County Schools,Banoak Elementary,Exceeded,63.4,61.1,0,68,C
+Cabarrus County Schools,Patriots Elementary,Met,65.0,33.1,0,69,C
+Caldwell County Schools,Whitnel Elementary,Met,51.0,86.1,0,57,C
+Charter Schools,Lake Lure Classical Academy,Met,65.1,20.6,0,69,C
+Charter Schools,Charlotte Choice Charter,Met,24.7,81.2,0,34,F
+Caldwell County Schools,Hibriten High,Met,57.1,50.5,0,72,B
+Scotland County Schools,I E Johnson Elementary,NotMet,35.0,,0,42,D
+Franklin County Schools,Laurel Mill Elementary,NotMet,40.8,81.0,0,46,D
+Charter Schools,Langtree Charter Academy,Exceeded,73.5,8.0,0,76,B
+Davidson County Schools,Friedberg Elementary,Met,71.5,30.8,0,73,B
+Charter Schools,Henderson Collegiate,Exceeded,70.8,87.2,0,77,B
+Wake County Schools,Knightdale High,Exceeded,44.7,55.5,0,64,C
+Charter Schools,Crosscreek Charter School,Met,53.6,13.2,0,58,C
+Charter Schools,Endeavor Charter,Exceeded,90.0,,0,90,A
+Charter Schools,Z.E.C.A. School of Arts and Technology,NotMet,17.8,83.5,0,28,F
+Charter Schools,Thomas Jefferson Class Academy,Exceeded,84.4,16.4,0,86,A
+New Hanover County Schools,Wrightsville Beach Elem,Met,87.8,10.4,0,86,A
+Chatham County Schools,Perry W Harrison Elementary,Met,71.5,25.0,0,74,B
+Gaston County Schools,Bessemer City Middle,Met,35.5,76.5,0,43,D
+Chatham County Schools,Moncure School,Exceeded,62.6,44.0,0,68,C
+Cherokee County Schools,Andrews High,NotMet,49.6,55.1,0,64,C
+Wake County Schools,Apex Elementary,NotMet,76.3,33.5,0,74,B
+Charter Schools,Vance Charter School,NotMet,66.1,18.7,0,66,C
+New Hanover County Schools,A H Snipes Academy of Arts/Des,Exceeded,31.4,,0,43,D
+Granville County Schools,Joe Toler-Oak Hill Elementary,Met,41.1,69.6,0,49,D
+Wayne County Public Schools,Eastern Wayne Middle,Exceeded,42.5,62.3,0,52,D
+Kannapolis City Schools,Forest Park Elementary,Exceeded,52.9,68.0,0,60,C
+Columbus County Schools,Tabor City Elementary,Exceeded,45.3,86.7,0,54,D
+Craven County Schools,Grover C Fields Middle,Exceeded,58.2,62.9,0,64,C
+Craven County Schools,Bridgeton Elementary,Exceeded,58.5,62.4,0,65,C
+Montgomery County Schools,Green Ridge Elementary,Met,38.3,85.5,0,47,D
+Lincoln County Schools,S Ray Lowder Elementary,Met,56.9,70.5,0,61,C
+Harnett County Schools,Overhills Elementary,Met,53.1,46.8,0,59,C
+Columbus County Schools,Chadbourn Middle,Met,30.9,90.5,0,41,D
+Cherokee County Schools,Tri-County Early College High,NotMet,73.7,39.4,0,79,B
+Cherokee County Schools,Hiwassee Dam Elementary/Middle,Met,45.5,67.9,0,51,D
+Columbus County Schools,Acme Delco Elementary,Met,37.0,73.1,0,44,D
+Duplin County Schools,North Duplin Jr Sr High,Met,51.7,58.3,0,61,C
+Cleveland County Schools,Kings Mountain High,Met,63.8,48.0,0,75,B
+Columbus County Schools,South Columbus High,Met,49.1,52.9,0,65,C
+Cleveland County Schools,Grover Elementary,Met,63.4,78.0,0,66,C
+Sampson County Schools,Union Intermediate,Met,50.3,85.0,0,56,C
+Cleveland County Schools,West Elementary,Met,76.3,53.6,0,77,B
+Clay County Schools,Hayesville Middle,Met,54.6,58.9,0,61,C
+Cumberland County Schools,Elizabeth M Cashwell Elementary,Exceeded,43.1,84.1,0,53,D
+Cumberland County Schools,Reid Ross Classical Middle,Exceeded,55.5,66.3,0,62,C
+Cumberland County Schools,Manchester Elementary,Exceeded,44.3,82.9,0,53,D
+Hoke County Schools,SandHoke Early College High,NotMet,66.3,49.3,0,73,B
+Cumberland County Schools,R Max Abbott Middle,NotMet,51.0,55.9,0,52,D
+Moore County Schools,Carthage Elementary,Exceeded,56.0,58.9,0,64,C
+Cumberland County Schools,Cliffdale Elementary,Met,42.3,79.2,0,50,D
+Cumberland County Schools,Long Hill Elementary,Met,71.5,35.9,0,74,B
+Cumberland County Schools,Douglas Byrd Middle,Met,35.0,84.5,0,44,D
+Wake County Schools,Adams Elementary,Met,76.0,37.0,0,77,B
+Davidson County Schools,Friendship Elementary,Exceeded,71.2,36.8,0,74,B
+Davidson County Schools,Ledford Senior High,Exceeded,64.3,28.8,0,76,B
+Gaston County Schools,South Point High,Exceeded,63.1,32.8,0,77,B
+Davidson County Schools,North Davidson High,Met,66.6,27.3,0,77,B
+Davidson County Schools,Pilot Elementary,Met,57.6,55.7,0,63,C
+Harnett County Schools,Harnett Primary,Met,38.5,84.9,0,46,D
+Durham Public Schools,Bethesda Elementary,Exceeded,39.9,84.0,0,49,D
+Wilson County Schools,Lucama Elementary,NotMet,67.7,75.9,0,67,C
+Richmond County Schools,Rohanen Middle,NotMet,35.3,83.0,0,42,D
+Durham Public Schools,DPS Hospital School,N/A,7.9,37.3,0,6,F
+Duplin County Schools,Charity Middle,NotMet,43.1,77.0,0,48,D
+Wake County Schools,Richland Creek ES,Met,58.4,49.4,0,63,C
+Gaston County Schools,Carr Elementary,Met,43.5,79.1,0,51,D
+Durham Public Schools,Fayetteville Street Elementary,Met,26.1,,0,38,F
+Iredell-Statesville Schools,Central Elementary,Exceeded,71.8,46.3,0,75,B
+Iredell-Statesville Schools,West Iredell Middle,NotMet,42.6,63.0,0,47,D
+Iredell-Statesville Schools,Cool Spring Elementary,Met,72.1,49.9,0,74,B
+Iredell-Statesville Schools,Third Creek Elementary,Met,43.8,84.0,0,52,D
+Iredell-Statesville Schools,Brawley Middle,Exceeded,70.8,15.9,0,74,B
+Hoke County Schools,Scurlock Elementary,NotMet,31.9,75.7,0,37,F
+Pitt County Schools,Falkland Elementary,NotMet,37.3,81.6,0,42,D
+Wake County Schools,North Ridge Elementary,Met,63.4,39.6,0,67,C
+Robeson County Schools,Rowland Middle,Met,39.8,93.0,0,48,D
+Hyde County Schools,Ocracoke School,Exceeded,83.9,,0,86,A
+Pitt County Schools,South Greenville Elementary,NotMet,26.1,85.0,0,33,F
+Rockingham County Schools,South End Elementary,Met,42.8,74.3,0,51,D
+Pitt County Schools,Lakeforest Elementary,NotMet,30.1,85.5,0,36,F
+Polk County Schools,Polk County Middle School,Met,70.8,56.8,0,72,B
+Polk County Schools,Polk County Early College,Met,73.2,50.0,0,77,B
+Pitt County Schools,Northwest Elementary,Met,58.7,94.7,0,63,C
+Pitt County Schools,Ridgewood Elementary,Met,67.5,47.6,0,70,B
+Wake County Schools,Brentwood Elementary,Met,47.4,74.3,0,53,D
+Pitt County Schools,C M Eppes Middle,NotMet,34.7,78.0,0,39,F
+New Hanover County Schools,Gregory School of Math Science and Tech,NotMet,42.7,84.8,0,48,D
+New Hanover County Schools,D.C. Virgo Preparatory Academy,Met,25.2,88.7,0,36,F
+New Hanover County Schools,Dr John Codington Elem,Exceeded,88.1,25.4,0,88,A
+New Hanover County Schools,Williston Middle,Exceeded,43.1,81.4,0,52,D
+Nash-Rocky Mount Schools,Southern Nash Middle,NotMet,44.2,66.7,0,47,D
+New Hanover County Schools,Eugene Ashley High,Met,63.8,40.0,0,75,B
+Robeson County Schools,Pembroke Elementary,Met,37.6,76.7,0,45,D
+Wake County Schools,Rolesville Elementary,Met,72.4,39.4,0,75,B
+Randolph County Schools,Farmer Elementary,Met,60.3,45.5,0,63,C
+New Hanover County Schools,Isaac M Bear High,Exceeded,,47.6,0,98,A
+Robeson County Schools,Rowland Norment Elementary,Exceeded,52.6,74.9,0,59,C
+Pasquotank County Schools,Northeastern High,Exceeded,46.1,52.7,0,66,C
+Orange County Schools,New Hope Elementary,Exceeded,56.5,61.4,0,64,C
+Pamlico County Schools,Pamlico County High,NotMet,45.0,52.0,0,60,C
+Pender County Schools,West Pender Middle,NotMet,38.9,82.4,0,43,D
+Pender County Schools,Topsail Elementary,Met,71.3,31.0,0,73,B
+Onslow County Schools,Trexler Middle,NotMet,51.8,39.3,0,54,D
+Person County Schools,Southern Middle,Met,49.5,62.4,0,56,C
+Pitt County Schools,Ayden Middle,NotMet,48.1,66.2,0,50,D
+Pitt County Schools,A G Cox Middle,Met,55.2,44.7,0,59,C
+Lenoir County Public Schools,Lenoir County Early College High,Met,65.5,52.0,0,79,B
+Lincoln County Schools,Pumpkin Center Intermediate,Exceeded,75.6,37.5,0,78,B
+Lenoir County Public Schools,North Lenoir High,NotMet,36.0,52.1,0,50,D
+Kannapolis City Schools,Woodrow Wilson Elementary,Met,47.7,84.1,0,54,D
+Lincoln County Schools,North Brook Elementary,Met,65.8,58.3,0,69,C
+Lincoln County Schools,GE Massey Elementary,Met,54.5,77.1,0,60,C
+Macon County Schools,Highlands School,Exceeded,68.3,49.3,0,73,B
+Lincoln County Schools,St James Elementary,Met,80.5,28.0,0,81,B
+Lincoln County Schools,West Lincoln High,Met,57.1,53.0,0,69,C
+Lee County Schools,East Lee Middle,NotMet,43.8,64.9,0,45,D
+Macon County Schools,Mountain View Intermediate,Exceeded,53.7,65.8,0,60,C
+Moore County Schools,Southern Pines Elementary,Exceeded,64.1,50.7,0,70,B
+Richmond County Schools,L J Bell Elementary,Exceeded,58.1,66.4,0,64,C
+Nash-Rocky Mount Schools,Rocky Mount Middle,NotMet,26.5,87.6,0,32,F
+Martin County Schools,E J Hayes Elementary,NotMet,43.6,78.7,0,48,D
+Macon County Schools,Nantahala School,Exceeded,54.8,75.5,0,66,C
+Moore County Schools,Cameron Elementary,NotMet,55.8,56.5,0,59,C
+Martin County Schools,East End Elementary,Met,29.7,91.6,0,41,D
+McDowell County Schools,Marion Elementary,Met,61.5,68.6,0,64,C
+Moore County Schools,Southern Middle,NotMet,44.1,60.5,0,47,D
+Hertford County Schools,Hertford Co Early College,Exceeded,66.7,63.4,0,84,B
+Harnett County Schools,Lillington-Shawtown Elementary,Met,37.5,66.0,0,47,D
+Henderson County Schools,Hillandale Elementary,Exceeded,62.0,66.1,0,67,C
+Henderson County Schools,North Henderson High,Exceeded,60.0,52.7,0,75,B
+Henderson County Schools,Edneyville Elementary,NotMet,49.7,71.8,0,51,D
+Hickory City Schools,W M Jenkins Elementary,Exceeded,68.1,47.7,0,73,B
+Hertford County Schools,Hertford County High,Exceeded,35.8,72.8,0,60,C
+Haywood County Schools,Bethel Elementary,Exceeded,75.3,55.5,0,77,B
+Hertford County Schools,Riverview Elementary,Met,37.6,88.6,0,46,D
+Haywood County Schools,Bethel Middle,Exceeded,65.8,48.0,0,71,B
+Union County Public Schools,Sun Valley Middle,Exceeded,65.6,37.1,0,70,B
+Guilford County Schools,Southeast Guilford Middle,NotMet,52.6,43.7,0,55,C
+Harnett County Schools,Boone Trail Elementary,NotMet,45.9,62.3,0,50,D
+Halifax County Schools,Hollister Elementary,NotMet,32.8,91.8,0,38,F
+Guilford County Schools,Sternberger Elementary,Met,76.0,17.3,0,76,B
+Montgomery County Schools,Candor Elementary,NotMet,49.9,92.2,0,53,D
+Guilford County Schools,Washington Elementary,Met,35.9,81.1,0,43,D
+Harnett County Schools,Buies Creek Elementary,Met,69.4,42.0,0,72,B
+Halifax County Schools,Scotland Neck Primary,Met,42.6,93.8,0,49,D
+Harnett County Schools,Coats-Erwin Middle,Met,46.8,66.2,0,53,D
+Johnston County Schools,Glendale-Kenly Elementary,NotMet,56.8,60.0,0,58,C
+Johnston County Schools,Johnston Co Middle College,N/A,75.0,15.0,0,95,A
+Jackson County Schools,Smokey Mountain Elementary,Met,43.6,75.5,0,51,D
+Johnston County Schools,McGee's Crossroads Elem,Met,59.5,45.9,0,64,C
+Johnston County Schools,Benson Elementary,Exceeded,54.3,71.4,0,61,C
+Johnston County Schools,Corinth Holders High,Met,63.2,25.9,0,74,B
+Johnston County Schools,Cleveland High,Exceeded,67.6,27.3,0,78,B
+Johnston County Schools,Princeton High,Exceeded,59.8,48.6,0,70,B
+Yadkin County Schools,Yadkinville Elementary,Met,51.7,74.0,0,57,C
+Johnston County Schools,Smithfield Middle,Met,42.3,76.5,0,49,D
+Onslow County Schools,Hunters Creek Elementary,Exceeded,62.8,69.3,0,67,C
+Rutherford County Schools,Ellenboro Elementary School,Met,66.7,68.3,0,70,B
+Newton Conover City Schools,Shuford Elementary,NotMet,64.1,58.8,0,65,C
+Onslow County Schools,Northwoods Park Middle,NotMet,47.2,47.0,0,49,D
+Wake County Schools,Washington Elementary,Exceeded,70.0,31.5,1,74,B
+Onslow County Schools,Richlands Elementary,NotMet,53.6,44.3,0,57,C
+Onslow County Schools,Hunters Creek Middle,NotMet,48.6,43.7,0,51,D
+Newton Conover City Schools,Newton-Conover High,Met,51.6,55.8,0,67,C
+Onslow County Schools,Richlands High,NotMet,50.1,33.6,0,66,C
+Onslow County Schools,Swansboro High,NotMet,56.2,32.9,0,69,C
+Wilkes County Schools,North Wilkesboro Elementary,NotMet,42.5,87.9,0,46,D
+Union County Public Schools,Benton Heights Elementary,Met,38.6,89.4,0,46,D
+Union County Public Schools,Hemby Bridge Elementary,Met,77.3,30.6,0,78,B
+Surry County Schools,Surry Early College HS Design,Met,84.7,50.3,0,87,A
+Stokes County Schools,Walnut Cove Elementary,Exceeded,55.8,70.6,0,62,C
+Stanly County Schools,South Stanly Middle,Exceeded,59.8,53.6,0,66,C
+Surry County Schools,Surry Central High,NotMet,50.4,59.2,0,63,C
+Wake County Schools,Green Hope High,Exceeded,85.4,6.5,1,90,A
+Stokes County Schools,West Stokes High,NotMet,47.0,34.0,0,60,C
+Wake County Schools,Wilburn Elementary,Met,43.3,65.9,0,51,D
+Union County Public Schools,Marvin Elementary,Met,89.3,,0,86,A
+Union County Public Schools,Porter Ridge Middle School,Exceeded,68.6,31.8,0,74,B
+Union County Public Schools,Rocky River Elementary,Exceeded,72.2,60.0,0,75,B
+Wake County Schools,Weatherstone Elementary,Exceeded,80.6,25.5,0,84,B
+Union County Public Schools,Unionville Elementary,Met,71.6,36.8,0,73,B
+Union County Public Schools,New Salem Elementary,Met,80.8,28.3,0,80,B
+Wake County Schools,Barwell Road Elementary,NotMet,41.9,70.2,0,46,D
+Wake County Schools,Dillard Drive Elementary,Met,55.3,54.7,0,60,C
+Union County Public Schools,Parkwood Middle,Met,60.9,46.8,0,63,C
+Wake County Schools,Brooks Elementary,Exceeded,77.8,25.6,0,79,B
+Wake County Schools,East Cary Middle,Met,68.6,31.7,0,69,C
+Wayne County Public Schools,Eastern Wayne High,NotMet,43.9,48.3,0,60,C
+Wilson County Schools,Charles H Darden Middle,Met,29.1,92.7,0,38,F
+Watauga County Schools,Valle Crucis Elementary,Met,70.8,40.6,0,73,B
+Wayne County Public Schools,Brogden Middle,NotMet,25.6,86.7,0,31,F
+Wilkes County Schools,Wilkes Central High,NotMet,49.5,54.6,0,63,C
+Wilson County Schools,Forest Hills Middle,Met,49.0,63.6,0,55,C
+Wilson County Schools,Beddingfield High,Met,45.8,73.8,0,63,C
+Weldon City Schools,Weldon Middle,Exceeded,20.5,91.1,0,34,F
+Weldon City Schools,Weldon High,Exceeded,38.6,83.2,0,65,C
+Wayne County Public Schools,School Street Elementary,Exceeded,26.5,,0,38,F
+Wake County Schools,Wake Young Men's Leadership Academy,NotMet,69.1,32.5,0,67,C
+Watauga County Schools,Hardin Park Elementary,Exceeded,72.7,40.5,0,76,B
+Wake County Schools,Southeast Raleigh High,Exceeded,44.7,54.8,0,65,C
+Wake County Schools,Sanford Creek Elementary,NotMet,60.8,24.8,0,62,C
+Wake County Schools,Swift Creek Elementary,NotMet,69.5,42.0,0,67,C
+Warren County Schools,Warren County Middle,NotMet,32.3,83.8,0,38,F
+Wake County Schools,River Bend Elementary,Met,57.2,61.6,0,62,C
+Wake County Schools,West Millbrook Middle,Met,60.8,39.9,1,63,C
+Warren County Schools,Warren County High,Met,35.3,78.3,0,56,C
+Wake County Schools,York Elementary,Met,62.6,45.4,0,65,C
+Wake County Schools,East Wake School of Health Science,Exceeded,56.2,46.9,0,73,B
+Wake County Schools,Fuquay-Varina Elementary,Exceeded,71.0,37.6,0,74,B
+Wake County Schools,Laurel Park Elementary,Exceeded,81.4,12.2,0,82,B
+Wake County Schools,Hilburn Drive Academy,Exceeded,65.0,27.9,0,69,C
+Wake County Schools,Penny Road Elementary,Exceeded,77.4,26.2,0,80,B
+Wake County Schools,Forest Pines Elementary,Met,67.1,33.0,0,69,C
+Wake County Schools,Leesville Road Middle,Met,69.9,24.9,1,71,B
+Wake County Schools,Olds Elementary,Exceeded,77.3,24.5,0,79,B
+Wake County Schools,Kingswood Elementary,Met,62.4,55.8,0,66,C
+Wake County Schools,North Garner Middle,Met,50.1,53.2,0,55,C
+Wilson County Schools,Lee Woodard Elementary,NotMet,41.1,68.4,0,45,D
+Wilson County Schools,Gardners Elementary,Exceeded,75.0,77.7,0,77,B
+Yancey County Schools,East Yancey Middle,Exceeded,67.0,60.2,0,72,B
+Wilson County Schools,Winstead Elementary,NotMet,30.8,90.0,0,38,F
+Yadkin County Schools,East Bend Elementary,Met,53.7,61.8,0,60,C
+Wilson County Schools,Toisnot Middle,Exceeded,46.2,75.3,0,55,C
+Yancey County Schools,Cane River Middle,Met,65.7,58.8,0,69,C
+Alamance-Burlington Schools,Eastern Alamance High,Met,57.1,35.9,0,69,C
+Asheville City Schools,Vance Elementary,Exceeded,74.3,48.7,0,78,B
+Anson County Schools,Anson New Tech High,NotMet,26.1,72.0,0,49,D
+Charlotte-Mecklenburg Schools,Winding Springs Elementary,NotMet,37.0,85.1,0,42,D
+Charlotte-Mecklenburg Schools,Francis Bradley Middle,Exceeded,68.3,33.4,0,73,B
+Alamance-Burlington Schools,Marvin B Smith Elementary,NotMet,71.0,44.8,0,68,C
+Alamance-Burlington Schools,Harvey R Newlin Elementary,Met,26.6,91.1,0,38,F
+Wayne County Public Schools,Northeast Elementary,NotMet,57.2,57.1,0,57,C
+Alamance-Burlington Schools,Western Alamance High,NotMet,56.2,26.1,0,69,C
+Cabarrus County Schools,Carl A Furr Elementary,Met,62.7,49.1,0,65,C
+Charlotte-Mecklenburg Schools,Kennedy Middle,Met,42.2,66.2,0,50,D
+Alamance-Burlington Schools,Hawfields Middle,Met,53.4,51.8,0,58,C
+Cabarrus County Schools,Cox Mill Elementary,Met,81.3,8.1,0,81,B
+Alexander County Schools,Alexander Central High,Exceeded,57.5,45.4,0,73,B
+Alexander County Schools,West Alexander Middle,Exceeded,58.2,43.8,0,65,C
+Alexander County Schools,Wittenburg Elementary,NotMet,63.5,56.5,0,64,C
+Cumberland County Schools,Sherwood Park Elementary,Met,43.9,79.7,0,52,D
+Alexander County Schools,Bethlehem Elementary,NotMet,67.0,38.8,0,66,C
+Anson County Schools,Wadesboro Elementary,Exceeded,24.8,88.1,0,37,F
+Charlotte-Mecklenburg Schools,Reid Park Academy,Met,25.5,93.1,0,37,F
+Alleghany County Schools,Piney Creek Elementary,Met,79.1,53.4,0,80,B
+Transylvania County Schools,Rosman Elementary,Met,61.8,73.1,0,66,C
+Ashe County Schools,Ashe County Middle,Exceeded,65.6,59.7,0,70,B
+Chapel Hill-Carrboro Schools,McDougle Middle,Exceeded,76.8,27.1,0,81,B
+Wayne County Public Schools,Charles B Aycock High,Met,58.5,39.0,0,71,B
+Catawba County Schools,Startown Elementary,Exceeded,60.6,48.2,0,68,C
+Beaufort County Schools,John C Tayloe Elementary,Met,50.3,74.5,0,56,C
+Beaufort County Schools,S W Snowden Elementary,Met,32.2,93.5,0,40,D
+Brunswick County Schools,Shallotte Middle,Exceeded,61.6,62.3,0,69,C
+Beaufort County Schools,Northeast Elementary,Met,53.1,68.8,0,59,C
+Beaufort County Schools,Northside High,NotMet,47.8,47.7,0,61,C
+Bertie County Schools,Bertie Middle,Exceeded,36.7,84.6,0,47,D
+Avery County Schools,Avery Middle,Met,52.6,61.8,0,58,C
+Asheboro City Schools,Guy B Teachey Elementary,Exceeded,59.5,61.3,0,66,C
+Caldwell County Schools,Collettsville School,Exceeded,74.1,59.6,0,77,B
+Nash-Rocky Mount Schools,Spring Hope Elementary,Met,35.0,75.4,0,42,D
+Asheville City Schools,Hall Fletcher Elementary,Met,52.5,78.2,0,58,C
+Asheville City Schools,Ira B Jones Elementary,Met,67.9,40.3,0,69,C
+Asheboro City Schools,Lindley Park Elementary,Met,53.2,71.6,0,58,C
+Union County Public Schools,Monroe High,Exceeded,34.4,84.5,0,57,C
+Asheville City Schools,Asheville High,NotMet,60.5,42.5,0,69,C
+Asheville City Schools,Asheville Middle,Met,63.3,52.1,0,65,C
+Charter Schools,Voyager Academy,Exceeded,68.8,5.9,0,76,B
+Carteret County Public Schools,Morehead Elem at Camp Glenn,Met,57.3,53.0,0,61,C
+Charlotte-Mecklenburg Schools,Matthews Elementary,Exceeded,75.1,31.1,0,77,B
+Carteret County Public Schools,White Oak Elementary,Met,68.3,31.1,0,71,B
+Johnston County Schools,Cleveland Middle,Exceeded,73.7,26.9,0,79,B
+Camden County Schools,Grandy Primary,Exceeded,80.8,37.3,0,83,B
+Caldwell County Schools,West Lenoir Elementary,NotMet,40.4,,0,46,D
+Caldwell County Schools,Dudley Shoals Elementary,Exceeded,60.6,53.8,0,66,C
+Caldwell County Schools,Caldwell Career Cen Mid. Coll.,Met,75.0,45.7,0,81,B
+Caldwell County Schools,Granite Falls Middle,Exceeded,63.1,48.3,0,69,C
+Caldwell County Schools,Baton Elementary,Exceeded,66.0,68.0,0,71,B
+Caldwell County Schools,Gamewell Middle,Exceeded,46.7,79.0,0,56,C
+Caldwell County Schools,Hudson Middle,Exceeded,63.3,54.9,0,69,C
+Caldwell County Schools,Valmead Elementary,Met,40.8,88.8,0,49,D
+Charter Schools,Wilmington Preparatory Academy,Exceeded,46.7,50.4,0,55,C
+Chatham County Schools,Virginia Cross Elementary,Met,41.8,94.8,0,50,D
+Chatham County Schools,J S Waters School,Exceeded,61.0,50.7,0,66,C
+Guilford County Schools,Madison Elementary,NotMet,36.0,64.6,0,40,D
+Chatham County Schools,Siler City Elementary,Met,47.6,84.6,0,54,D
+Guilford County Schools,Grimsley High,Exceeded,67.8,39.6,0,80,B
+Charter Schools,Water's Edge Village School,N/A,57.9,23.5,0,56,C
+Pender County Schools,Topsail Middle,Exceeded,70.2,31.6,0,76,B
+Chatham County Schools,Horton Middle,Met,55.8,45.8,0,59,C
+Charter Schools,Union Academy,NotMet,77.8,11.4,0,78,B
+Cleveland County Schools,Kings Mountain Middle,NotMet,61.7,59.5,0,63,C
+Cherokee County Schools,Andrews Elementary,Exceeded,44.4,71.8,0,54,D
+Forsyth County Schools,Jacket Academy at Carver,N/A,0.0,81.3,0,97,A
+Clay County Schools,Hayesville Elementary,NotMet,56.7,59.9,0,59,C
+Cherokee County Schools,Marble Elementary,Met,58.0,74.2,0,61,C
+Cleveland County Schools,Union Elementary,Met,60.7,72.7,0,64,C
+Cherokee County Schools,Hiwassee Dam High,Met,57.9,54.8,0,74,B
+Hoke County Schools,West Hoke Elementary,Met,31.6,84.7,0,40,D
+Durham Public Schools,Lucas Middle,NotMet,40.8,63.8,0,45,D
+Cherokee County Schools,Murphy Middle,Met,55.7,65.1,0,60,C
+Charlotte-Mecklenburg Schools,Ashley Park PreK-8 School,Met,37.6,94.0,0,46,D
+Charlotte-Mecklenburg Schools,Albemarle Road Elementary,Met,37.1,93.3,0,46,D
+Charlotte-Mecklenburg Schools,Merry Oaks Elementary,Met,37.7,93.0,0,46,D
+Charlotte-Mecklenburg Schools,Bailey Middle,Exceeded,78.8,20.1,0,82,B
+Iredell-Statesville Schools,Troutman Middle,NotMet,56.0,58.0,0,58,C
+Catawba County Schools,Oxford Elementary,Exceeded,58.0,64.0,0,65,C
+Franklin County Schools,Franklinton Elementary,Met,41.2,80.1,0,48,D
+Catawba County Schools,Jacobs Fork Middle,Met,62.3,42.3,0,66,C
+Madison County Schools,Laurel Elementary,Met,46.2,76.2,0,53,D
+Watauga County Schools,Bethel Elementary,Met,48.7,58.8,0,54,D
+Charter Schools,Triad Math and Science Academy,NotMet,56.5,52.3,0,58,C
+Charter Schools,Two Rivers Community School,NotMet,75.3,38.9,0,74,B
+Charter Schools,The Academy of Moore County,Met,69.1,39.9,0,71,B
+Charter Schools,Roxboro Community School,NotMet,71.0,15.1,0,72,B
+Orange County Schools,Gravelly Hill Middle,Met,53.4,43.4,0,58,C
+Charter Schools,Sugar Creek Charter,Exceeded,52.5,87.2,0,60,C
+Charter Schools,Research Triangle High,Met,72.0,11.5,0,74,B
+Charter Schools,River Mill Academy,Met,62.1,23.9,0,69,C
+Charter Schools,Sallie B Howard School,Exceeded,46.6,,0,56,C
+Charter Schools,Raleigh Charter High School,Exceeded,,,0,98,A
+Cumberland County Schools,Howard Health & Life Sciences,Exceeded,70.0,47.5,0,82,B
+Cumberland County Schools,E Melvin Honeycutt Elementary,Exceeded,71.7,39.4,0,74,B
+Cumberland County Schools,Ferguson-Easley Elementary,Exceeded,51.4,91.1,0,59,C
+Cumberland County Schools,Douglas Byrd High,Met,36.0,77.6,0,58,C
+New Hanover County Schools,Walter L Parsley Elementary,Exceeded,90.8,14.4,0,91,A
+Charlotte-Mecklenburg Schools,Alexander Graham Middle,Exceeded,71.0,35.8,0,77,B
+Bladen County Schools,Clarkton School of Discovery,NotMet,52.3,56.0,0,54,D
+Wayne County Public Schools,Fremont STARS Elementary,Met,45.1,66.7,0,53,D
+Pasquotank County Schools,Pasquotank County High,Exceeded,43.1,58.4,0,62,C
+Lenoir County Public Schools,Rochelle Middle,NotMet,23.3,92.0,0,32,F
+Catawba County Schools,Webb A Murray Elementary,Met,50.4,79.1,0,57,C
+Tyrrell County Schools,Columbia High,Exceeded,51.5,56.5,0,67,C
+Brunswick County Schools,Leland Middle,NotMet,46.0,63.4,0,50,D
+Montgomery County Schools,Star Elementary,Met,53.5,71.8,0,59,C
+Charlotte-Mecklenburg Schools,Westerly Hills Academy,Exceeded,30.1,94.1,0,42,D
+Cherokee County Schools,Ranger Elementary/Middle,Exceeded,63.5,73.4,0,68,C
+Brunswick County Schools,Virginia Williamson Elem,NotMet,55.3,69.1,0,56,C
+Buncombe County Schools,Avery's Creek Elementary,NotMet,60.2,63.2,0,60,C
+Charlotte-Mecklenburg Schools,Sedgefield Middle,NotMet,34.7,83.4,0,38,F
+Yancey County Schools,Mountain Heritage High,Met,65.7,44.8,0,74,B
+Franklin County Schools,Terrell Lane Middle,Met,38.7,69.3,0,48,D
+Catawba County Schools,Saint Stephens High,Met,62.9,47.9,0,70,B
+Buncombe County Schools,Erwin Middle,NotMet,54.2,70.2,0,55,C
+Brunswick County Schools,Waccamaw,NotMet,56.6,71.0,0,59,C
+Charlotte-Mecklenburg Schools,Highland Renaissance Academy,Exceeded,52.8,92.2,0,60,C
+Charlotte-Mecklenburg Schools,Nathaniel Alexander Elementary,Met,41.2,78.9,0,48,D
+Union County Public Schools,Marshville Elementary,Met,55.8,71.1,0,59,C
+Caldwell County Schools,Lower Creek Elementary,Met,63.4,43.1,0,67,C
+Alamance-Burlington Schools,Garrett Elementary,Met,57.1,56.0,0,62,C
+Catawba County Schools,Blackburn Elementary,Met,64.0,51.3,0,68,C
+Alamance-Burlington Schools,Elon Elementary,Met,61.6,36.3,0,66,C
+Bertie County Schools,Aulander Elementary,Met,34.8,93.4,0,43,D
+Ashe County Schools,Ashe County High,NotMet,62.3,55.3,0,69,C
+Alamance-Burlington Schools,Eastlawn Elementary,Met,22.6,,0,33,F
+Charlotte-Mecklenburg Schools,Military and Global Leadership Academy,Met,45.2,79.2,0,55,C
+Charlotte-Mecklenburg Schools,Independence High,Exceeded,67.1,55.2,0,77,B
+Burke County Schools,Walter R Johnson Middle,Exceeded,62.3,72.9,0,69,C
+Buncombe County Schools,Sand Hill-Venable Elem,NotMet,56.6,72.7,0,57,C
+Catawba County Schools,Lyle Creek Elementary,Exceeded,43.6,68.9,0,53,D
+Guilford County Schools,McLeansville Elementary,Met,49.8,74.9,0,55,C
+Buncombe County Schools,Weaverville Elementary,Met,68.8,49.6,0,70,B
+Burke County Schools,Valdese Elementary,Exceeded,65.7,54.0,0,70,B
+Craven County Schools,Trent Park Elementary,Met,50.8,76.6,0,56,C
+Buncombe County Schools,Owen High,Met,56.3,45.2,0,70,B
+Charlotte-Mecklenburg Schools,Barringer Academic Center,Exceeded,61.8,57.9,0,67,C
+Cabarrus County Schools,Mount Pleasant Elementary,Exceeded,67.2,39.6,0,72,B
+Cabarrus County Schools,Harris Road Middle,Exceeded,74.0,17.5,0,79,B
+Cabarrus County Schools,W M Irvin Elementary,NotMet,42.6,68.2,0,47,D
+Cabarrus County Schools,J N Fries Magnet School,Met,88.7,21.2,0,87,A
+Cabarrus County Schools,Beverly Hills Elementary,Met,55.4,66.9,0,61,C
+Burke County Schools,W A Young Elementary,Exceeded,53.8,70.7,0,60,C
+Cabarrus County Schools,Mount Pleasant High,NotMet,47.0,37.0,0,65,C
+Camden County Schools,Camden County High,Exceeded,70.1,27.3,0,80,B
+Wilson County Schools,Wells Elementary,NotMet,44.5,67.9,0,49,D
+Durham Public Schools,J D Clement Early College HS,Exceeded,82.4,58.7,0,91,A
+Charlotte-Mecklenburg Schools,Bain Elementary,Exceeded,83.5,24.1,0,86,A
+Catawba County Schools,Bunker Hill High,Exceeded,53.6,58.7,0,69,C
+Gaston County Schools,H H Beam Elementary,NotMet,32.7,90.1,0,39,F
+Catawba County Schools,Bandys High,Exceeded,71.2,32.0,0,80,B
+Cumberland County Schools,New Century International Middle,Met,59.1,44.4,0,63,C
+Cumberland County Schools,Luther 'Nick' Jeralds Middle,NotMet,39.4,87.2,0,45,D
+Cumberland County Schools,William T Brown Elementary,NotMet,37.3,77.3,0,44,D
+Dare County Schools,Kitty Hawk Elementary School,Exceeded,72.1,23.8,0,76,B
+Cumberland County Schools,John R Griffin Middle,Exceeded,69.3,32.9,0,75,B
+Wilkes County Schools,Mount Pleasant Elementary,Exceeded,57.2,60.7,0,63,C
+Surry County Schools,White Plains Elementary,Exceeded,64.0,61.8,0,69,C
+Cumberland County Schools,Pine Forest Middle,Exceeded,60.5,44.5,0,66,C
+Wayne County Public Schools,Goldsboro High,NotMet,20.8,81.4,0,46,D
+Wake County Schools,Cary High,Exceeded,74.5,32.1,0,83,B
+Durham Public Schools,The School for Creative Studies,Exceeded,46.2,53.1,0,55,C
+Edgecombe County Public School,G W Carver Elementary,Met,37.5,79.1,0,46,D
+Edgecombe County Public School,Stocks Elementary,Met,42.0,91.6,0,49,D
+Durham Public Schools,Sandy Ridge Elementary,NotMet,44.6,59.0,0,49,D
+Durham Public Schools,Spring Valley Elementary,Met,47.2,63.8,0,53,D
+Rowan-Salisbury Schools,Enochville Elementary,Met,50.2,60.5,0,56,C
+Stanly County Schools,Aquadale Elementary,Met,68.6,56.4,0,71,B
+Durham Public Schools,Parkwood Elementary,Met,39.6,71.9,0,48,D
+Johnston County Schools,Meadow School,Met,52.3,53.2,0,58,C
+Durham Public Schools,Riverside High,Met,47.8,52.4,0,67,C
+Rockingham County Schools,Rockingham Co Early College High,Exceeded,80.4,42.5,0,88,A
+Davidson County Schools,E Lawson Brown Middle,Exceeded,61.5,52.5,0,67,C
+Henderson County Schools,Mills River Elementary,Met,70.9,39.6,0,73,B
+Davidson County Schools,Fair Grove Elementary,Met,61.0,53.4,0,65,C
+Davidson County Schools,Central Davidson Middle,Met,56.2,55.3,0,60,C
+Pitt County Schools,Farmville Central High,NotMet,40.4,61.3,0,60,C
+Duplin County Schools,North Duplin Elementary,Met,55.1,74.6,0,61,C
+Davidson County Schools,North Davidson Middle,Met,65.2,37.5,0,68,C
+Davie County Schools,Shady Grove Elementary,Met,76.4,18.9,0,75,B
+Duplin County Schools,E E Smith Middle,Met,36.2,79.0,0,43,D
+Forsyth County Schools,Frank Morgan Elementary,Met,70.7,34.9,0,72,B
+Forsyth County Schools,Kernersville Middle,NotMet,57.6,39.4,0,58,C
+Forsyth County Schools,Mount Tabor High School,Met,56.8,39.0,0,72,B
+Forsyth County Schools,Hanes Middle School,Met,71.8,38.4,0,74,B
+Forsyth County Schools,Ashley Elementary,Met,30.0,88.4,0,40,D
+Yadkin County Schools,Starmount High,Met,45.1,47.1,0,64,C
+Forsyth County Schools,Carver High,Met,19.5,88.9,0,48,D
+Guilford County Schools,Parkview Village Elementary,Exceeded,33.7,,0,45,D
+Forsyth County Schools,Philo-Hill Magnet Academy,NotMet,17.8,,0,24,F
+Forsyth County Schools,Early College of Forsyth Co,Met,93.9,,0,94,A
+Guilford County Schools,David D Jones Elementary,NotMet,55.9,60.0,0,56,C
+Guilford County Schools,Cyrus P Frazier Elementary,Met,24.5,86.5,0,34,F
+Guilford County Schools,Jefferson Elementary,Exceeded,61.4,69.1,0,68,C
+Guilford County Schools,Eastern Guilford Middle,Met,40.3,73.3,0,49,D
+Rowan-Salisbury Schools,Shive Elementary,Met,50.7,57.4,0,56,C
+Guilford County Schools,Hunter Elementary,Met,46.4,,0,54,D
+Granville County Schools,S Granville HS of Integ Tech & Lead,Met,42.1,32.0,0,61,C
+Granville County Schools,Mount Energy Elementary,Met,63.0,50.5,0,67,C
+Granville County Schools,C. G. Credle Elementary,Met,31.7,78.1,0,40,D
+Gates County Schools,Buckland Elementary,Exceeded,72.2,51.8,0,75,B
+Iredell-Statesville Schools,Statesville High,NotMet,38.3,58.6,0,56,C
+Granville County Schools,J. F. Webb High,NotMet,29.6,59.3,0,49,D
+Johnston County Schools,Selma Middle School,Met,33.3,89.1,0,42,D
+Onslow County Schools,Bell Fork Elementary,Met,59.6,64.4,0,65,C
+Wilson County Schools,Elm City Middle,Met,59.0,48.1,0,64,C
+Guilford County Schools,Ceasar Cone Elementary,Met,20.6,,0,31,F
+Guilford County Schools,Northern Guilford Middle,Exceeded,75.3,22.2,0,78,B
+Lincoln County Schools,Battleground Elementary,NotMet,45.9,88.7,0,50,D
+Durham Public Schools,Hope Valley Elementary,Exceeded,53.5,64.1,0,62,C
+Durham Public Schools,Eno Valley Elementary,NotMet,31.0,83.3,0,38,F
+McDowell County Schools,Old Fort Elementary,NotMet,52.8,68.6,0,54,D
+Durham Public Schools,Merrick-Moore Elementary,Met,28.2,86.9,0,37,F
+Durham Public Schools,Little River Elementary,Met,67.0,41.0,0,68,C
+Wilson County Schools,Vinson-Bynum Elementary,Met,52.3,62.1,0,59,C
+Elkin City Schools,Elkin Elementary,Exceeded,71.5,45.7,0,75,B
+Durham Public Schools,Hillside High,Exceeded,35.4,66.0,0,61,C
+Johnston County Schools,East Clayton Elementary,Exceeded,68.5,24.7,0,73,B
+Forsyth County Schools,Robert B Glenn High School,NotMet,38.0,52.3,0,54,D
+Johnston County Schools,Cleveland Elementary,Exceeded,78.2,31.3,0,80,B
+Forsyth County Schools,Thomas Jefferson Middle,NotMet,75.3,31.8,0,72,B
+Gaston County Schools,Chapel Grove Elementary,Met,48.9,74.7,0,54,D
+Gaston County Schools,Cherryville High,Exceeded,51.4,49.6,0,72,B
+Forsyth County Schools,Smith Farm Elementary,Met,65.3,66.2,0,69,C
+Gaston County Schools,Costner Elementary,NotMet,59.9,52.0,0,61,C
+Forsyth County Schools,Vienna Elementary,Met,85.4,20.2,0,85,A
+Moore County Schools,Robbins Elementary,Met,39.3,89.0,0,48,D
+Gaston County Schools,W B Beam Intermediate School,Met,56.4,53.3,0,59,C
+Gaston County Schools,Pinewood Elementary,Exceeded,57.1,50.6,0,63,C
+Gaston County Schools,North Gaston High,Exceeded,50.6,55.4,0,70,B
+Gaston County Schools,Sherwood Elementary,NotMet,40.7,72.3,0,46,D
+Gaston County Schools,Lingerfeldt Elementary,Met,27.1,94.4,0,36,F
+Gaston County Schools,Hunter Huss High,NotMet,30.5,72.8,0,50,D
+Gaston County Schools,Southwest Middle,NotMet,37.8,77.5,0,42,D
+Gaston County Schools,Forestview High,Met,56.5,41.4,0,72,B
+Gaston County Schools,Stanley Middle,Met,51.3,57.8,0,56,C
+Rowan-Salisbury Schools,Carson High,Met,56.1,45.9,0,71,B
+Guilford County Schools,Montlieu Academy of Technology,Met,44.5,90.9,0,51,D
+Guilford County Schools,Otis L Hairston Sr Middle,Met,25.2,94.0,0,34,F
+Guilford County Schools,Northwood Elementary,Met,44.1,85.5,0,50,D
+Wake County Schools,Highcroft Elementary,Exceeded,91.4,,0,91,A
+Charlotte-Mecklenburg Schools,Olympic High-Math Eng Tech Science,Exceeded,75.6,40.1,0,82,B
+Charlotte-Mecklenburg Schools,Performance Learning Center,Met,58.8,39.4,0,77,B
+Regional Schools,Northeast Regional School - Biotech/Agri,Met,76.5,35.8,0,78,B
+Charlotte-Mecklenburg Schools,Nations Ford Elementary,Met,32.6,91.4,0,40,D
+Wilkes County Schools,Mountain View Elementary,Exceeded,59.1,69.6,0,65,C
+Charlotte-Mecklenburg Schools,Myers Park High,Exceeded,76.9,31.8,0,84,B
+Charlotte-Mecklenburg Schools,McAlpine Elementary,Met,73.5,25.1,0,75,B
+Charlotte-Mecklenburg Schools,Oakdale Elementary,Met,40.8,83.8,0,48,D
+Charlotte-Mecklenburg Schools,West Charlotte High,Met,28.1,86.8,0,52,D
+Rowan-Salisbury Schools,Southeast Middle,NotMet,47.0,56.5,0,50,D
+Charter Schools,Coastal Academy for Technology and Scien,N/A,50.0,52.3,0,42,D
+Charter Schools,College Prep and Leadership Academy,Met,38.3,79.6,0,46,D
+Charter Schools,Francine Delany New School,Exceeded,78.8,48.8,0,81,B
+Nash-Rocky Mount Schools,D S Johnson Elementary,Met,22.6,93.9,0,35,F
+Durham Public Schools,Sherwood Githens Middle,Met,36.2,70.4,0,43,D
+Charter Schools,Central Park School For Child,Met,75.7,9.8,0,76,B
+Charter Schools,East Wake Academy,Exceeded,76.0,16.9,0,81,B
+Charter Schools,Falls Lake Academy,NotMet,61.4,19.0,0,63,C
+Charter Schools,Clover Garden,Met,64.1,31.7,0,68,C
+Charter Schools,Community School of Davidson,Exceeded,84.8,,0,87,A
+Union County Public Schools,Wesley Chapel Elementary,Exceeded,81.0,16.0,0,83,B
+Charlotte-Mecklenburg Schools,Steele Creek Elementary,NotMet,50.9,73.7,0,53,D
+Charlotte-Mecklenburg Schools,Winterfield Elementary,NotMet,26.8,92.9,0,35,F
+Charlotte-Mecklenburg Schools,West Mecklenburg High,Exceeded,39.2,77.8,0,62,C
+Chatham County Schools,North Chatham Elementary,Exceeded,55.8,43.0,0,63,C
+Charter Schools,Carolina International School,Exceeded,66.3,24.0,0,70,B
+Onslow County Schools,Stateside Elementary,Exceeded,68.8,34.2,0,73,B
+Charlotte-Mecklenburg Schools,Thomasboro Academy,Met,32.4,93.5,0,42,D
+Wake County Schools,Fuller Elementary,Exceeded,66.8,39.7,1,72,B
+Charter Schools,Arapahoe Charter School,NotMet,44.4,59.5,0,49,D
+Charlotte-Mecklenburg Schools,Phillip O Berry Academy of Technology,Exceeded,67.5,68.5,0,77,B
+Charlotte-Mecklenburg Schools,Statesville Road Elementary,Exceeded,45.5,87.3,0,55,C
+Charlotte-Mecklenburg Schools,Huntingtowne Farms Elementary,NotMet,44.7,86.3,0,49,D
+Charlotte-Mecklenburg Schools,First Ward Creative Arts Academy,Met,44.4,80.0,0,52,D
+Charlotte-Mecklenburg Schools,Cochrane Collegiate Academy,NotMet,28.2,89.0,0,34,F
+Charlotte-Mecklenburg Schools,Chantilly Montessori,Exceeded,75.2,18.7,0,77,B
+Charlotte-Mecklenburg Schools,Cato Middle College High,N/A,0.0,34.7,0,98,A
+Charlotte-Mecklenburg Schools,Hawk Ridge Elementary,Met,87.5,12.4,0,85,A
+Charlotte-Mecklenburg Schools,Hopewell High,NotMet,50.7,46.7,0,65,C
+Cleveland County Schools,Jefferson Elementary,Met,64.4,60.1,0,67,C
+Columbus County Schools,Hallsboro-Artesia Elementary,Met,27.9,82.3,0,38,F
+Columbus County Schools,CCCA - Southeastern Campus,Met,57.5,55.0,0,68,C
+Craven County Schools,Brinson Memorial Elementary,Met,68.4,39.3,0,71,B
+Craven County Schools,Graham A Barden Elementary,Met,67.0,65.3,0,69,C
+Craven County Schools,Craven Early College High,Met,76.6,29.1,0,81,B
+Craven County Schools,Early College EAST High,Met,72.0,25.3,0,74,B
+Wake County Schools,Davis Drive Middle,Exceeded,88.9,8.3,1,90,A
+Craven County Schools,Havelock High,Exceeded,60.7,41.1,0,75,B
+Duplin County Schools,Warsaw Elementary,Met,37.6,91.4,0,46,D
+Moore County Schools,North Moore High,Met,52.3,54.2,0,67,C
+Johnston County Schools,South Smithfield Elementary,Met,43.9,79.2,0,51,D
+Iredell-Statesville Schools,Scotts Elementary,NotMet,47.7,66.0,0,50,D
+Pasquotank County Schools,J C Sawyer Elementary,Met,49.9,68.2,0,55,C
+Charter Schools,Quality Education Academy,Met,37.2,84.4,0,49,D
+Charter Schools,Franklin Academy,Exceeded,77.9,8.6,0,83,B
+Charter Schools,KIPP Charlotte,Exceeded,45.5,70.7,0,54,D
+Charter Schools,Grandfather Academy,N/A,21.2,18.5,0,15,F
+Charter Schools,Orange Charter,Met,77.0,8.0,0,78,B
+Charter Schools,Lincoln Charter School,Met,79.2,,0,81,B
+Charter Schools,Gray Stone Day,NotMet,86.6,,0,87,A
+Craven County Schools,Vanceboro-Farm Life Elementary,Met,47.3,74.6,0,53,D
+Craven County Schools,James W Smith Elementary,Exceeded,41.5,79.2,0,51,D
+Craven County Schools,Roger R Bell Elementary,Met,44.8,69.6,0,52,D
+Craven County Schools,Oaks Road Elementary,Met,40.9,87.5,0,48,D
+Lenoir County Public Schools,South Lenoir High,NotMet,45.0,45.0,0,60,C
+Lexington City Schools,Lexington Senior High,Exceeded,44.4,75.0,0,65,C
+Lee County Schools,Southern Lee High School,NotMet,43.4,56.9,0,58,C
+Macon County Schools,Iotla Valley Elementary,Met,57.6,71.9,0,63,C
+Randolph County Schools,Archdale Elementary,Met,53.8,63.8,0,60,C
+Lee County Schools,SanLee Middle School,NotMet,52.3,72.6,0,53,D
+Rockingham County Schools,Reidsville High,Met,36.1,61.7,0,57,C
+Lincoln County Schools,North Lincoln High,Met,72.2,28.4,0,80,B
+Macon County Schools,Macon Middle School,Met,55.9,66.3,0,61,C
+Madison County Schools,Madison Middle,Met,50.9,57.7,0,57,C
+Iredell-Statesville Schools,Celeste Henkel Elementary,Met,58.3,64.3,0,63,C
+Iredell-Statesville Schools,Coddle Creek Elementary,Met,70.0,29.0,0,72,B
+Johnston County Schools,Dixon Road Elementary,Exceeded,58.5,42.0,0,64,C
+Iredell-Statesville Schools,Lake Norman Elementary,Met,75.5,12.7,0,77,B
+Jackson County Schools,Smoky Mountain High,NotMet,55.4,47.5,0,65,C
+Johnston County Schools,Four Oaks Elementary,Met,49.4,64.2,0,54,D
+Hoke County Schools,Sandy Grove Middle,Exceeded,48.2,64.7,0,58,C
+Hoke County Schools,Sandy Grove Elementary,Met,45.4,70.9,0,52,D
+Lincoln County Schools,West Lincoln Middle,Met,56.9,59.2,0,62,C
+Iredell-Statesville Schools,Mount Mourne School,Met,94.9,,0,93,A
+Henderson County Schools,Hendersonville Elementary,NotMet,70.4,35.6,0,69,C
+Henderson County Schools,West Henderson High,NotMet,67.7,33.5,0,74,B
+Henderson County Schools,Upward Elementary,NotMet,47.8,79.4,0,50,D
+Hickory City Schools,Northview Middle,Exceeded,62.4,56.8,0,70,B
+Henderson County Schools,Rugby Middle,Exceeded,73.1,41.1,0,77,B
+Wilkes County Schools,East Wilkes High,NotMet,49.0,49.3,0,63,C
+Hertford County Schools,Bearfield Primary,Met,37.6,85.1,0,46,D
+Hickory City Schools,Grandview Middle,NotMet,48.8,69.5,0,52,D
+Hickory City Schools,Oakwood Elementary,Met,60.1,56.1,0,64,C
+Hertford County Schools,CS Brown High,Met,53.6,82.1,0,69,C
+Johnston County Schools,River Dell Elementary,Exceeded,75.4,25.4,0,77,B
+Johnston County Schools,Princeton Elementary,Exceeded,63.2,57.5,0,68,C
+Jones County Schools,Pollocksville Elementary,Met,35.5,85.5,0,45,D
+Johnston County Schools,Four Oaks Middle,Exceeded,52.5,58.0,0,59,C
+Jones County Schools,Trenton Elementary,Exceeded,51.3,82.2,0,59,C
+Johnston County Schools,West Johnston High,NotMet,56.5,28.7,0,66,C
+Moore County Schools,Westmoore Elementary,NotMet,51.6,54.0,0,54,D
+Yancey County Schools,Micaville Elementary,Met,62.4,63.4,0,67,C
+Jones County Schools,Comfort Elementary,Met,46.3,80.2,0,54,D
+Jones County Schools,Jones Senior High,Met,51.6,77.8,0,66,C
+Polk County Schools,Sunny View Elementary School,NotMet,63.7,72.3,0,63,C
+Pitt County Schools,W H Robinson Elementary,Exceeded,54.6,54.8,0,61,C
+Polk County Schools,Saluda Elementary School,Met,76.6,56.6,0,77,B
+Pitt County Schools,E B Aycock Middle,NotMet,41.8,66.8,0,47,D
+Wake County Schools,West Lake Middle,Exceeded,70.5,22.3,0,73,B
+Pitt County Schools,Elmhurst Elementary,Met,58.0,74.5,0,63,C
+Roanoke Rapids City Schools,William L Manning Elementary,Exceeded,61.8,54.7,0,68,C
+McDowell County Schools,Pleasant Gardens Elementary,NotMet,48.0,61.0,0,52,D
+Richmond County Schools,Richmond 9th Grade Academy,NotMet,36.1,74.3,0,40,D
+Madison County Schools,Mars Hill Elementary,Exceeded,62.0,57.1,0,68,C
+Moore County Schools,Aberdeen Elementary,Exceeded,42.0,77.7,0,51,D
+Mooresville City Schools,Mooresville Middle,Met,69.1,34.6,0,71,B
+Moore County Schools,Crain's Creek Middle,Met,48.4,48.8,0,53,D
+Martin County Schools,Riverside High,NotMet,46.7,50.5,0,63,C
+Martin County Schools,Jamesville Middle,Met,54.2,54.8,0,60,C
+Moore County Schools,Union Pines High,Met,59.0,32.6,0,75,B
+New Hanover County Schools,Winter Park Model Elementary,Exceeded,51.8,76.5,0,59,C
+New Hanover County Schools,John J Blair Elementary,Exceeded,64.1,40.5,0,69,C
+Orange County Schools,Cameron Park Elementary,Exceeded,71.6,35.5,0,76,B
+New Hanover County Schools,Roland-Grise Middle,Met,74.2,31.1,0,74,B
+Onslow County Schools,Sand Ridge Elementary,Met,61.0,46.7,0,66,C
+Northampton County Schools,Gaston Middle,NotMet,18.5,83.9,0,26,F
+Pitt County Schools,Farmville Middle,Exceeded,46.5,70.0,0,55,C
+Onslow County Schools,Morton Elementary,Met,51.5,50.9,0,58,C
+Wake County Schools,Daniels Middle,NotMet,60.2,41.9,0,60,C
+Onslow County Schools,White Oak High,Met,52.9,32.2,0,69,C
+Guilford County Schools,Southwest Guilford High,Exceeded,61.7,40.6,0,77,B
+Guilford County Schools,Philip J Weaver Ed Center,Met,89.9,17.3,0,91,A
+Guilford County Schools,Stokesdale Elementary,NotMet,71.5,22.3,0,70,B
+Guilford County Schools,Reedy Fork Elementary,Met,41.2,74.0,0,49,D
+Guilford County Schools,Southern Elementary,Met,66.8,69.9,0,70,B
+Guilford County Schools,Penn-Griffin Schools,Met,54.8,57.7,0,63,C
+Halifax County Schools,Dawson Elementary,Met,21.8,94.6,1,32,F
+Wake County Schools,Fuquay-Varina Middle,Met,58.4,45.6,0,63,C
+Guilford County Schools,STEM Early College @ NC A&T SU,Exceeded,,27.5,0,96,A
+Halifax County Schools,Inborden Elementary,Met,21.7,,0,32,F
+Halifax County Schools,William R Davie Middle,Exceeded,30.8,91.4,0,42,D
+Haywood County Schools,North Canton Elementary,Exceeded,66.8,66.2,0,72,B
+Halifax County Schools,Southeast Halifax High,Exceeded,31.3,91.2,0,58,C
+Wayne County Public Schools,Meadow Lane Elementary,Met,56.0,65.3,0,60,C
+Harnett County Schools,Harnett Central Middle,Exceeded,48.6,55.6,0,56,C
+Henderson County Schools,Apple Valley Middle,NotMet,50.5,67.2,0,52,D
+Haywood County Schools,Meadowbrook Elementary,Met,64.5,64.0,0,68,C
+Haywood County Schools,Haywood Early College,Met,81.8,55.6,0,85,A
+Harnett County Schools,Benhaven Elementary,Met,50.2,64.5,0,56,C
+Haywood County Schools,Tuscola High,NotMet,54.6,39.9,0,66,C
+Pender County Schools,South Topsail Elementary,Exceeded,67.9,26.5,0,72,B
+Union County Public Schools,Piedmont Middle,Exceeded,72.5,30.3,0,76,B
+Pender County Schools,Malpass Corner Elementary,Met,49.3,83.5,0,56,C
+Person County Schools,Helena Elementary,Exceeded,77.1,44.9,0,79,B
+Pamlico County Schools,Pamlico County Middle,Met,52.4,67.4,0,58,C
+Pender County Schools,Heide Trask High,NotMet,39.5,66.4,0,56,C
+Pitt County Schools,D H Conley High,NotMet,59.0,34.4,0,68,C
+Pender County Schools,Topsail High,Exceeded,73.4,25.8,0,80,B
+Person County Schools,Person High,NotMet,44.8,54.6,0,61,C
+Pitt County Schools,Chicod,Exceeded,68.7,36.8,0,73,B
+New Hanover County Schools,Carolina Beach Elementary,NotMet,70.8,36.3,0,71,B
+New Hanover County Schools,Emsley A Laney High,Exceeded,59.8,37.1,0,75,B
+Nash-Rocky Mount Schools,M B Hubbard Elementary,NotMet,36.5,79.7,0,41,D
+New Hanover County Schools,College Park Elementary,Met,56.1,78.9,0,61,C
+New Hanover County Schools,Castle Hayne Elementary,Met,66.5,61.8,0,68,C
+Nash-Rocky Mount Schools,Englewood Elementary,NotMet,41.7,67.9,0,47,D
+Nash-Rocky Mount Schools,Nash Central Middle,NotMet,44.6,58.6,0,47,D
+Nash-Rocky Mount Schools,J W Parker Middle,NotMet,18.2,93.3,0,26,F
+Wake County Schools,Forestville Road Elementary,Met,56.7,56.3,0,62,C
+Nash-Rocky Mount Schools,Williford Elementary,Met,29.0,,0,39,F
+Randolph County Schools,New Market Elementary,Exceeded,66.1,54.4,0,71,B
+Randolph County Schools,Braxton Craven Middle,Met,57.5,47.6,0,61,C
+Richmond County Schools,Fairview Heights Elementary,Exceeded,55.9,82.7,0,62,C
+Richmond County Schools,East Rockingham Elementary,Exceeded,52.3,88.7,0,59,C
+Randolph County Schools,Southeastern Randolph Middle,NotMet,35.5,69.7,0,40,D
+Robeson County Schools,L Gilbert Carroll Middle,NotMet,40.0,74.2,0,44,D
+Randolph County Schools,Trindale Elementary,Exceeded,76.0,53.5,0,78,B
+Robeson County Schools,West Lumberton Elementary,Met,54.4,74.3,0,60,C
+Robeson County Schools,Prospect Elementary,NotMet,35.4,68.7,0,41,D
+Robeson County Schools,Deep Branch Elementary,Met,29.2,79.4,0,37,F
+Randolph County Schools,Trinity High,Exceeded,58.1,42.2,0,72,B
+Wake County Schools,Heritage Middle,Met,79.0,17.1,0,80,B
+Rockingham County Schools,Leaksville-Spray Elementary,Exceeded,47.7,81.4,0,56,C
+Rockingham County Schools,Bethany Elementary,Exceeded,65.3,44.6,0,69,C
+Rockingham County Schools,Huntsville Elementary,Met,57.0,66.7,0,61,C
+Rockingham County Schools,Draper Elementary,NotMet,39.4,85.9,0,45,D
+Rockingham County Schools,Lincoln Elementary,Met,48.3,62.5,0,54,D
+Robeson County Schools,South Robeson High,NotMet,37.9,87.1,0,57,C
+Wake County Schools,East Wake Middle,NotMet,42.3,68.6,0,47,D
+Robeson County Schools,W H Knuckles,NotMet,25.3,78.6,0,33,F
+Rowan-Salisbury Schools,Salisbury High,Met,41.7,65.3,0,60,C
+Vance County Schools,Carver Elementary,NotMet,61.7,,0,63,C
+Watauga County Schools,Green Valley Elementary,Exceeded,54.5,54.1,0,62,C
+Wilson County Schools,Stantonsburg Elementary,Exceeded,39.0,81.9,0,49,D
+Yancey County Schools,Bald Creek Elementary,Exceeded,80.8,57.4,0,84,B
+Yancey County Schools,South Toe Elementary,Exceeded,77.4,66.7,0,80,B
+Yadkin County Schools,Yadkin Early College,Exceeded,84.8,53.3,0,88,A
+Whiteville City Schools,Edgewood Elementary,Met,50.1,79.2,0,55,C
+Wilkes County Schools,Traphill Elementary,Met,46.7,72.0,0,51,D
+Yancey County Schools,Bee Log Elementary,Met,73.0,52.7,0,75,B
+Rutherford County Schools,Pinnacle Elementary School,Met,71.8,65.8,0,74,B
+Rutherford County Schools,East Rutherford High School,Met,46.6,62.1,0,63,C
+Rutherford County Schools,Chase High School,Exceeded,48.3,55.3,0,66,C
+Sampson County Schools,Hargrove Elementary,Exceeded,57.8,62.9,0,65,C
+Rowan-Salisbury Schools,Isenberg Elementary,NotMet,32.3,80.6,0,40,D
+Sampson County Schools,Midway Elementary,Exceeded,64.1,50.1,0,69,C
+Rowan-Salisbury Schools,Landis Elementary,NotMet,39.1,70.1,0,43,D
+Rowan-Salisbury Schools,West Rowan High,NotMet,42.2,49.2,0,57,C
+Rowan-Salisbury Schools,Faith Elementary,Met,59.6,50.5,0,63,C
+Rowan-Salisbury Schools,Dole Elementary,Met,33.5,84.8,0,43,D
+Scotland County Schools,Covington Street Elementary,Exceeded,65.3,68.9,0,70,B
+Stokes County Schools,Francisco Elementary,Exceeded,57.3,71.8,0,63,C
+Stanly County Schools,Millingport Elementary,NotMet,54.9,57.7,0,56,C
+Stanly County Schools,Norwood Elementary,Exceeded,47.9,66.8,0,57,C
+Scotland County Schools,Scotland High School,NotMet,37.3,73.6,0,55,C
+Stanly County Schools,Locust Elementary,NotMet,59.0,41.3,0,59,C
+Stanly County Schools,Richfield Elementary,Met,61.0,49.0,0,66,C
+Stokes County Schools,London Elementary,NotMet,58.8,58.9,0,61,C
+Stanly County Schools,South Stanly High,NotMet,51.2,48.3,0,64,C
+Stanly County Schools,Badin Elementary,Met,62.8,63.8,0,67,C
+Transylvania County Schools,Pisgah Forest Elementary,Met,70.8,61.0,0,73,B
+Transylvania County Schools,T C Henderson Elementary,Met,68.8,69.6,0,71,B
+Stokes County Schools,Sandy Ridge Elementary,Exceeded,66.3,57.4,0,71,B
+Stokes County Schools,Pine Hall Elementary,Exceeded,49.5,70.9,0,57,C
+Stokes County Schools,Nancy Reynolds Elementary,Met,62.2,65.9,0,66,C
+Transylvania County Schools,Rosman High,NotMet,58.1,58.7,0,69,C
+Tyrrell County Schools,Columbia Middle,NotMet,41.4,76.9,0,46,D
+Surry County Schools,North Surry High,NotMet,51.0,54.3,0,63,C
+Stokes County Schools,North Stokes High,Met,58.3,43.5,0,71,B
+Watauga County Schools,Watauga High,Met,66.4,30.4,0,75,B
+Union County Public Schools,Walter Bickett Elementary,Exceeded,36.7,92.1,0,47,D
+Union County Public Schools,Union County Early College,Exceeded,85.8,40.7,0,89,A
+Union County Public Schools,Kensington Elementary,Exceeded,82.7,8.5,0,84,B
+Union County Public Schools,Weddington Middle,Exceeded,90.0,10.2,0,92,A
+Union County Public Schools,Porter Ridge Elementary,Met,63.4,44.6,0,67,C
+Union County Public Schools,East Union Middle,NotMet,46.4,73.8,0,49,D
+Union County Public Schools,Piedmont High,Exceeded,74.9,25.0,0,83,B
+Union County Public Schools,Wingate Elementary,Met,57.3,85.6,0,60,C
+Union County Public Schools,Parkwood High,NotMet,53.4,40.0,0,66,C
+Vance County Schools,Henderson Middle,NotMet,31.4,88.9,0,35,F
+Wake County Schools,Green Hope Elementary,Exceeded,86.9,10.9,0,88,A
+Wake County Schools,Cedar Fork Elementary,Exceeded,89.4,7.8,0,89,A
+Vance County Schools,Vance Co Early College,NotMet,60.8,53.8,0,69,C
+Wake County Schools,Athens Drive High,Exceeded,67.9,32.9,1,80,B
+Wake County Schools,Fox Road Elementary,NotMet,43.9,77.9,0,49,D
+Wake County Schools,Creech Road Elementary,Met,38.7,79.6,0,47,D
+Wake County Schools,Holly Grove Middle,NotMet,67.1,23.7,0,66,C
+Wake County Schools,Dillard Drive Middle,Met,58.2,48.2,1,63,C
+Wake County Schools,Carroll Middle,NotMet,44.4,55.9,1,47,D
+Wake County Schools,Green Elementary,Met,50.5,57.0,0,55,C
+Wake County Schools,North Forest Pines Drive Elementary,Exceeded,76.0,23.9,0,78,B
+Wake County Schools,Needham Broughton High,Exceeded,61.1,34.6,1,74,B
+Wake County Schools,Timber Drive Elementary,NotMet,60.4,45.3,0,61,C
+Wake County Schools,Holly Springs High,Exceeded,73.2,18.3,0,83,B
+Wake County Schools,Partnership Elementary,Met,57.4,30.1,0,62,C
+Wake County Schools,Reedy Creek Elementary,Met,59.9,51.0,0,63,C
+Wake County Schools,Millbrook High,Exceeded,65.3,30.3,1,81,B
+Wake County Schools,Lockhart Elementary,Met,54.1,55.3,0,59,C
+Wake County Schools,Hunter Elementary,Met,62.3,43.6,1,66,C
+Wake County Schools,Lacy Elementary,Met,77.8,26.5,0,79,B
+Wake County Schools,Wake Early College of Health and Science,Exceeded,81.8,29.9,0,89,A
+Wake County Schools,Willow Springs Elementary,Exceeded,80.1,31.0,0,83,B
+Washington County Schools,Pines Elementary,NotMet,28.4,89.9,0,33,F
+Warren County Schools,South Warren Elementary,Met,45.2,85.2,0,53,D
+Wake County Schools,Zebulon Elementary,Exceeded,61.1,60.5,1,66,C
+Warren County Schools,Mariam Boyd Elementary,Met,39.3,88.6,0,45,D
+Washington County Schools,Creswell High,NotMet,33.6,61.1,0,45,D
+Warren County Schools,Warren New Tech High,Met,51.8,63.7,0,66,C
+Wake County Schools,Underwood Elementary,Met,79.8,20.5,1,80,B
+Wake County Schools,Wakefield Elementary,Met,57.0,32.5,0,60,C
+Charlotte-Mecklenburg Schools,Winget Park Elementary,Exceeded,64.6,41.7,0,69,C
+Charlotte-Mecklenburg Schools,Tuckaseegee Elementary,NotMet,39.1,85.0,0,45,D
+Buncombe County Schools,North Windy Ridge Intermediate,Met,65.3,53.3,0,68,C
+Orange County Schools,Charles W Stanford Middle,NotMet,65.4,33.7,0,65,C
+Asheboro City Schools,North Asheboro Middle,Exceeded,41.9,85.9,0,52,D
+Johnston County Schools,North Johnston High,Exceeded,55.3,47.5,0,71,B
+Bertie County Schools,West Bertie Elementary,NotMet,26.7,93.8,0,35,F
+Burke County Schools,Salem Elementary,Exceeded,67.1,57.0,0,72,B
+Duplin County Schools,James Kenan High,NotMet,27.4,74.5,0,47,D
+Avery County Schools,Newland Elementary,Met,50.4,70.5,0,56,C
+Charter Schools,ArtSpace Charter School,Met,67.7,48.4,0,69,C
+Alamance-Burlington Schools,Pleasant Grove Elementary,NotMet,40.4,79.5,0,46,D
+Charlotte-Mecklenburg Schools,North Mecklenburg High,Exceeded,56.7,60.3,0,72,B
+Alamance-Burlington Schools,Hugh M Cummings High,Exceeded,42.6,80.0,0,58,C
+Johnston County Schools,Micro-Pine Level Elementary,Met,48.7,67.5,0,56,C
+Nash-Rocky Mount Schools,Northern Nash High,NotMet,40.7,51.6,0,56,C
+Pasquotank County Schools,Weeksville Elementary,Met,65.8,45.9,0,69,C
+Union County Public Schools,Poplin Elementary,Met,77.9,27.1,0,79,B
+Hoke County Schools,Hoke County High,Exceeded,43.8,64.1,0,62,C
+Stanly County Schools,Albemarle High,NotMet,36.8,69.0,0,54,D
+Anson County Schools,Anson High School,Met,26.8,75.8,0,55,C
+Charlotte-Mecklenburg Schools,Southwest Middle School,Exceeded,53.0,57.6,0,61,C
+Lenoir County Public Schools,Northwest Elementary,Met,40.1,80.5,0,49,D
+Ashe County Schools,Mountain View Elementary,Exceeded,66.4,67.5,0,73,B
+Martin County Schools,South Creek Middle,Exceeded,47.9,80.9,0,57,C
+Beaufort County Schools,Chocowinity Middle,NotMet,49.3,69.7,0,51,D
+Alexander County Schools,Hiddenite Elementary,Met,62.1,69.0,0,66,C
+Anson County Schools,Morven Elementary,Exceeded,31.3,94.4,0,43,D
+Catawba County Schools,Fred T Foard High,NotMet,65.1,36.6,0,75,B
+Wake County Schools,Olive Chapel Elementary,Met,85.3,6.3,0,85,A
+Halifax County Schools,Enfield Middle,Met,13.0,91.3,0,25,F
+Charlotte-Mecklenburg Schools,Myers Park Traditional,Met,68.6,32.6,0,71,B
+Caldwell County Schools,Caldwell Early College,Exceeded,88.7,38.7,0,93,A
+Cabarrus County Schools,Royal Oaks Elementary,Met,47.0,78.7,0,53,D
+Caswell County Schools,Stoney Creek Elementary,Met,52.9,73.5,0,58,C
+Cabarrus County Schools,Harrisburg Elementary,Met,74.2,12.9,0,75,B
+Wake County Schools,Centennial Campus Middle,Met,53.4,45.1,0,57,C
+Burke County Schools,Forest Hill Elementary,Met,61.9,63.4,0,66,C
+Mitchell County Schools,Harris Middle,NotMet,60.0,59.5,0,61,C
+Buncombe County Schools,Reynolds Middle,Met,62.4,60.3,0,67,C
+Wake County Schools,Ligon Middle,Met,71.3,32.5,1,73,B
+Brunswick County Schools,Brunswick County Early College,Met,92.6,40.9,0,94,A
+Buncombe County Schools,Leicester Elementary,Exceeded,59.8,68.9,0,66,C
+Lenoir County Public Schools,Woodington Middle,NotMet,46.9,64.0,0,48,D
+Carteret County Public Schools,Croatan High,Exceeded,81.4,24.0,0,89,A
+Brunswick County Schools,Bolivia Elementary,NotMet,62.6,66.0,0,63,C
+Brunswick County Schools,North Brunswick High,Met,46.4,57.2,0,64,C
+Caldwell County Schools,Sawmills Elementary,Met,49.7,57.6,0,56,C
+Guilford County Schools,Erwin Montessori,Met,67.5,53.4,0,71,B
+Camden County Schools,CamTech High,Met,71.2,31.1,0,76,B
+Charter Schools,Sterling Montessori Academy,Met,84.0,,0,84,B
+Charlotte-Mecklenburg Schools,Olympic High - Renaissance School,Met,56.8,48.1,0,71,B
+Charter Schools,Cape Fear Center for Inquiry,Exceeded,79.0,14.9,0,81,B
+Charlotte-Mecklenburg Schools,Berryhill School,Met,46.8,92.2,0,51,D
+Beaufort County Schools,Chocowinity Primary,Met,77.0,73.1,0,78,B
+Gaston County Schools,East Gaston High,Exceeded,54.4,43.5,0,72,B
+Bladen County Schools,Bladenboro Primary,NotMet,51.5,76.8,0,55,C
+Bladen County Schools,Elizabethtown Middle,Met,33.0,81.2,0,43,D
+Bladen County Schools,East Bladen High,NotMet,38.6,64.4,0,56,C
+Bladen County Schools,Plain View Primary,Met,51.4,84.4,0,57,C
+Bertie County Schools,Bertie STEM High,Met,75.3,60.9,0,83,B
+Charlotte-Mecklenburg Schools,Ballantyne Elementary,Exceeded,82.7,16.0,0,84,B
+Gaston County Schools,Bessemer City Central Elem,Exceeded,39.0,76.5,0,48,D
+Charlotte-Mecklenburg Schools,Beverly Woods Elementary,Met,82.1,15.6,0,82,B
+Brunswick County Schools,West Brunswick High,Exceeded,59.6,52.7,0,71,B
+Brunswick County Schools,Union Elementary,Exceeded,71.1,61.2,0,75,B
+Davidson County Schools,Central Davidson High,Met,53.0,44.9,0,69,C
+Buncombe County Schools,Cane Creek Middle,Met,73.7,39.4,0,75,B
+Charter Schools,Bethany Community Middle,Met,63.5,32.8,0,67,C
+Buncombe County Schools,Bell Elementary,Met,63.8,57.1,0,67,C
+Buncombe County Schools,Erwin High,NotMet,45.2,61.3,0,58,C
+Burke County Schools,Robert L. Patton High School,NotMet,56.6,48.0,0,67,C
+Cumberland County Schools,Gray's Creek Middle,Exceeded,59.7,48.2,0,66,C
+Burke County Schools,Glen Alpine Elementary,Exceeded,65.4,72.7,0,70,B
+Cabarrus County Schools,A T Allen Elementary,NotMet,60.5,64.9,0,62,C
+Robeson County Schools,Littlefield Middle,Exceeded,37.5,80.0,0,47,D
+Yadkin County Schools,Forbush Elementary,Exceeded,79.7,29.9,0,81,B
+Johnston County Schools,South Johnston High,NotMet,51.2,48.8,0,63,C
+Wilkes County Schools,North Wilkes Middle,NotMet,49.9,67.4,0,52,D
+Burke County Schools,Table Rock Middle,Exceeded,56.3,62.6,0,62,C
+Cabarrus County Schools,Concord Middle,NotMet,38.8,71.2,0,45,D
+Charlotte-Mecklenburg Schools,Hickory Grove Elementary,Met,46.1,89.6,0,53,D
+Alamance-Burlington Schools,Hillcrest Elementary,Met,44.2,80.7,0,50,D
+Charlotte-Mecklenburg Schools,Eastway Middle,NotMet,32.9,92.8,0,39,F
+Chapel Hill-Carrboro Schools,FPG Elementary,NotMet,52.9,46.8,0,55,C
+Burke County Schools,Chesterfield Elementary,Met,57.4,87.4,0,63,C
+Alamance-Burlington Schools,Woodlawn Middle,Met,60.1,44.1,0,65,C
+Alamance-Burlington Schools,Western Middle,Met,57.1,33.1,0,61,C
+Caswell County Schools,Oakwood Elementary,Met,44.9,79.8,0,53,D
+Lincoln County Schools,Lincolnton High,NotMet,49.3,64.9,0,66,C
+Burke County Schools,Burke Middle College,N/A,0.0,42.9,0,99,A
+Caldwell County Schools,Granite Falls Elementary,Exceeded,67.4,48.8,0,72,B
+Cabarrus County Schools,Northwest Cabarrus High,Exceeded,56.8,45.2,0,72,B
+Carteret County Public Schools,Beaufort Elementary,Met,70.1,66.7,0,72,B
+Wake County Schools,Davis Drive Elementary,Exceeded,92.7,5.1,0,93,A
+Caldwell County Schools,Davenport A+ School,Exceeded,57.9,66.5,0,64,C
+Cabarrus County Schools,Winecoff Elementary,NotMet,44.0,70.4,0,47,D
+Guilford County Schools,Gibsonville Elementary,Met,53.0,56.9,0,59,C
+Caldwell County Schools,Kings Creek Elementary,Met,61.9,70.5,0,65,C
+Charter Schools,Brevard Academy,Met,66.7,28.8,0,70,B
+Charter Schools,The Hawbridge School,Met,80.3,,0,82,B
+Carteret County Public Schools,East Carteret High,Exceeded,66.8,42.5,0,80,B
+Guilford County Schools,John Van Lindley Elementary,Met,63.8,54.4,0,66,C
+Caldwell County Schools,William Lenoir Middle,Exceeded,58.2,60.5,0,65,C
+Pasquotank County Schools,P W Moore Elementary,NotMet,37.9,88.9,0,44,D
+Catawba County Schools,Snow Creek Elementary,Exceeded,64.0,46.5,0,70,B
+Carteret County Public Schools,Newport Elementary,Met,67.8,59.3,0,69,C
+Cumberland County Schools,Loyd E Auman Elementary,Met,45.1,69.9,0,51,D
+Charter Schools,American Renaissance School,Met,54.0,26.9,0,60,C
+Charter Schools,The North Carolina Leadership Academy,Met,75.9,10.3,0,77,B
+Forsyth County Schools,Clemmons Middle School,Exceeded,54.7,47.8,0,61,C
+Guilford County Schools,UNCG Early/Middle College,Met,67.7,50.0,0,67,C
+Nash-Rocky Mount Schools,Benvenue Elementary,NotMet,44.7,75.0,0,48,D
+Guilford County Schools,EP Pearce Elementary,Met,77.6,19.2,0,76,B
+Forsyth County Schools,Southwest Elementary,Met,70.2,46.0,0,72,B
+Wake County Schools,Carver Elementary,Exceeded,57.4,54.0,0,64,C
+Cherokee County Schools,Andrews Middle,NotMet,47.0,67.9,0,51,D
+Charter Schools,The Arts Based School,NotMet,69.8,20.7,0,69,C
+Charter Schools,Willow Oak Montessori,Met,69.0,9.9,0,71,B
+Dare County Schools,Cape Hatteras Secondary School,NotMet,65.4,49.3,0,68,C
+Charter Schools,Haliwa-Saponi Tribal School,NotMet,21.6,79.1,0,34,F
+Edenton-Chowan Schools,John A Holmes High,NotMet,44.1,58.3,0,58,C
+Charter Schools,Island Montessori Charter,NotMet,44.4,8.0,0,47,D
+Charter Schools,Crossroads Charter High,NotMet,22.2,88.0,0,35,F
+Guilford County Schools,Pilot Elementary,Met,53.3,57.6,0,57,C
+Charter Schools,Flemington Academy,N/A,23.3,78.1,0,26,F
+Charter Schools,Crossnore Academy,Met,50.0,87.9,0,60,C
+Charter Schools,Bear Grass,Met,55.9,14.0,0,65,C
+Charter Schools,Invest Collegiate,Met,61.5,,0,63,C
+Guilford County Schools,Middle College at GTCC-GSO,Exceeded,73.7,57.8,0,85,A
+Charlotte-Mecklenburg Schools,Rama Road Elementary,Exceeded,46.4,82.1,0,56,C
+Charlotte-Mecklenburg Schools,Stoney Creek Elementary,NotMet,48.7,68.2,0,52,D
+Charlotte-Mecklenburg Schools,Whitewater Academy,Exceeded,46.9,85.0,0,56,C
+Wilkes County Schools,Ronda-Clingman Elementary,Exceeded,59.1,54.5,0,65,C
+Charlotte-Mecklenburg Schools,Quail Hollow Middle,Met,47.1,70.8,0,52,D
+Thomasville City Schools,Thomasville Middle,Exceeded,40.5,87.3,0,51,D
+Charlotte-Mecklenburg Schools,Newell Elementary,Met,50.1,89.7,0,57,C
+Wake County Schools,Fuquay-Varina High,Exceeded,61.1,29.6,0,74,B
+Charlotte-Mecklenburg Schools,Providence Spring Elementary,Exceeded,,,0,95,A
+Sampson County Schools,Sampson Early College High,Exceeded,79.9,57.6,0,86,A
+Charter Schools,SEGS (STEM Ed Global Society) Academy,Met,12.9,78.3,0,25,F
+Craven County Schools,J T Barber Elementary,Exceeded,50.5,86.8,0,58,C
+Cumberland County Schools,Beaver Dam Elementary,Met,86.4,57.5,0,85,A
+Charter Schools,Summerfield Charter Academy,NotMet,68.6,13.0,0,67,C
+Charter Schools,Maureen Joy Charter School,Met,44.5,79.3,0,53,D
+Charter Schools,Southeastern Academy,Exceeded,69.1,,0,73,B
+Charter Schools,Pine Lake Preparatory,NotMet,81.6,,0,77,B
+Charter Schools,Southern Wake Academy,Met,51.2,,0,63,C
+Charter Schools,Quest Academy,Met,,,0,94,A
+Charlotte-Mecklenburg Schools,David Cox Road Elementary,Exceeded,42.5,67.2,0,51,D
+Charlotte-Mecklenburg Schools,Greenway Park Elementary,Exceeded,49.7,81.4,0,58,C
+Charlotte-Mecklenburg Schools,James Martin Middle,Exceeded,37.5,80.6,0,48,D
+Charlotte-Mecklenburg Schools,Lansdowne Elementary,NotMet,55.9,50.5,0,58,C
+Charlotte-Mecklenburg Schools,Crestdale Middle,Exceeded,81.3,24.2,0,83,B
+Charlotte-Mecklenburg Schools,Joseph W Grier Academy,Met,61.3,82.9,0,65,C
+Charlotte-Mecklenburg Schools,Carmel Middle,Exceeded,71.5,40.7,0,77,B
+Wake County Schools,Durant Road Elementary,Exceeded,71.6,35.3,0,76,B
+Charlotte-Mecklenburg Schools,Butler High,Exceeded,66.3,43.6,0,80,B
+Charter Schools,Charlotte Secondary,Met,57.6,21.6,0,63,C
+Craven County Schools,W Jesse Gurganus Elementary,Exceeded,79.8,44.2,0,83,B
+Guilford County Schools,Southeast Guilford High,Exceeded,60.7,34.8,0,78,B
+Craven County Schools,H J MacDonald Middle,NotMet,56.6,44.3,0,55,C
+Nash-Rocky Mount Schools,Coopers Elementary,Met,60.2,51.7,0,63,C
+Sampson County Schools,Hobbton High,Met,50.3,64.7,0,68,C
+Hickory City Schools,Hickory Career Arts Magnet High School,NotMet,27.5,73.5,0,44,D
+Carteret County Public Schools,Smyrna Elementary,Exceeded,65.6,52.1,0,70,B
+Charlotte-Mecklenburg Schools,Mallard Creek High,Exceeded,61.9,46.0,0,76,B
+Charlotte-Mecklenburg Schools,Northeast Middle,Exceeded,50.6,68.3,0,60,C
+Chapel Hill-Carrboro Schools,Culbreth Middle,Exceeded,76.4,24.2,0,79,B
+Carteret County Public Schools,Newport Middle,Met,61.5,54.5,0,65,C
+Catawba County Schools,Balls Creek Elementary,Met,59.9,54.9,0,65,C
+Cumberland County Schools,E E Smith High,Exceeded,43.1,68.2,0,62,C
+Charlotte-Mecklenburg Schools,Ranson Middle,Met,36.6,84.2,0,45,D
+Charter Schools,The Learning Center,Exceeded,59.9,68.8,0,65,C
+McDowell County Schools,East McDowell Junior High,Exceeded,61.0,62.5,0,66,C
+Columbus County Schools,Cerro Gordo Elementary,Exceeded,51.3,73.1,0,58,C
+Craven County Schools,Ben D Quinn Elementary,Exceeded,68.8,55.1,0,73,B
+Pasquotank County Schools,Sheep-Harney Elementary,Met,44.3,78.6,0,51,D
+Craven County Schools,Arthur W Edwards Elementary,Met,64.9,50.8,0,67,C
+Mooresville City Schools,Rocky River Elementary,Met,83.1,28.0,0,83,B
+Rockingham County Schools,Reidsville Middle,NotMet,36.3,75.6,0,41,D
+Columbus County Schools,Chadbourn Elementary,Met,26.9,91.0,0,36,F
+Columbus County Schools,Nakina Middle,Exceeded,51.8,71.2,0,59,C
+Clinton City Schools,Sampson Middle,Exceeded,51.3,67.7,0,59,C
+Charlotte-Mecklenburg Schools,Croft Community Elementary,Exceeded,61.6,42.2,0,67,C
+Charlotte-Mecklenburg Schools,Billingsville Elementary,NotMet,31.5,94.6,0,39,F
+Charlotte-Mecklenburg Schools,Allenbrook Elementary,Met,47.7,94.7,0,55,C
+Chapel Hill-Carrboro Schools,Estes Hills Elementary,Met,74.2,26.1,0,74,B
+Charlotte-Mecklenburg Schools,Providence High,Exceeded,92.1,10.1,0,95,A
+Chapel Hill-Carrboro Schools,Northside Elementary,Met,68.4,38.0,0,69,C
+Chapel Hill-Carrboro Schools,Glenwood Elementary,Met,80.6,26.5,0,81,B
+Chapel Hill-Carrboro Schools,Smith Middle,Exceeded,78.8,25.8,0,82,B
+Guilford County Schools,Vandalia Elementary,Met,33.2,87.8,0,43,D
+Charlotte-Mecklenburg Schools,Bruns Academy,Met,24.0,94.3,0,35,F
+Cleveland County Schools,James Love Elementary,NotMet,45.9,92.0,0,50,D
+Johnston County Schools,West Clayton Elementary,NotMet,57.3,42.2,0,59,C
+Cleveland County Schools,Shelby Intermediate,NotMet,50.3,70.5,0,54,D
+Stanly County Schools,North Stanly Middle,Exceeded,57.6,47.2,0,66,C
+Cleveland County Schools,Marion Elementary,Met,56.3,70.5,0,59,C
+Wayne County Public Schools,Grantham,Exceeded,54.4,63.4,0,62,C
+Columbus County Schools,West Columbus High,Met,50.7,72.4,0,64,C
+Cleveland County Schools,North Elementary,Met,75.3,70.1,0,77,B
+Cleveland County Schools,Cleveland ECHS,Met,75.8,63.2,0,82,B
+Cleveland County Schools,Burns High,Met,52.2,57.8,0,66,C
+Cumberland County Schools,Benjamin J Martin Elementary,Met,44.0,71.1,0,50,D
+Cumberland County Schools,William H Owen Elementary,Met,59.9,83.3,0,64,C
+Cumberland County Schools,Cross Creek Early College,Met,84.3,57.0,0,89,A
+Cumberland County Schools,Brentwood Elementary,Met,54.8,87.3,0,60,C
+Edgecombe County Public School,G W Bulluck Elementary,Met,48.2,79.4,0,55,C
+Rutherford County Schools,Spindale Elementary School,Met,51.6,86.8,0,56,C
+Durham Public Schools,R N Harris Elementary,Exceeded,52.3,83.2,0,60,C
+Durham Public Schools,Hillandale Elementary,Exceeded,54.7,58.1,0,61,C
+Forsyth County Schools,Bolton Elementary,Exceeded,45.5,88.4,0,55,C
+Edgecombe County Public School,Phillips Middle,Met,22.5,92.4,0,34,F
+Durham Public Schools,Southwest Elementary,NotMet,45.6,65.1,0,49,D
+Forsyth County Schools,East Forsyth High,NotMet,54.9,35.8,0,70,B
+Elkin City Schools,Elkin Middle,Met,66.1,48.1,0,69,C
+Guilford County Schools,Oak Hill Elementary,NotMet,49.6,,0,53,D
+Johnston County Schools,Johnston Co Early College Academy,Exceeded,84.3,36.5,0,91,A
+Gaston County Schools,Gaston Early College High School,Exceeded,79.8,52.9,0,81,B
+Gaston County Schools,Highland Sch of Technology,Exceeded,92.0,30.2,0,94,A
+Gates County Schools,Gates County Senior High,Exceeded,54.2,43.9,0,71,B
+Gaston County Schools,W P Grier Middle School,Met,36.7,79.0,0,44,D
+Guilford County Schools,Ferndale Middle,NotMet,34.3,81.7,0,38,F
+Gaston County Schools,Woodhill Elementary,Met,43.5,91.0,0,51,D
+Gaston County Schools,Tryon Elementary,Met,44.4,81.4,0,52,D
+Gaston County Schools,Pleasant Ridge Elementary,Exceeded,32.8,,0,44,D
+Gaston County Schools,Rhyne Elementary,Met,20.1,,0,32,F
+Guilford County Schools,Doris Henderson Newcomers Sch,N/A,18.6,82.4,0,18,F
+Guilford County Schools,High Point Central High,Exceeded,46.8,63.6,0,67,C
+Guilford County Schools,Edwin A Alderman Elementary,Met,43.8,81.5,0,50,D
+Guilford County Schools,Eastern Guilford High,Exceeded,48.5,63.8,0,66,C
+Guilford County Schools,James Y Joyner Elementary,Met,47.3,74.3,0,55,C
+Guilford County Schools,General Greene Elementary,Met,66.3,34.7,0,68,C
+Mitchell County Schools,Gouge Elementary,Exceeded,43.2,63.2,0,52,D
+Yadkin County Schools,Forbush Middle,NotMet,60.1,50.2,0,58,C
+Wilson County Schools,Margaret Hearne Elementary,NotMet,28.7,,0,35,F
+Guilford County Schools,Jackson Middle,NotMet,30.1,,0,36,F
+Gaston County Schools,Edward D Sadler Jr Elementary School,Met,28.0,95.0,0,37,F
+Onslow County Schools,Southwest Elementary,Exceeded,67.9,51.0,0,73,B
+Franklin County Schools,Franklinton Middle,Exceeded,42.7,73.9,0,51,D
+Gaston County Schools,Bessemer City High,Exceeded,42.7,68.8,0,62,C
+Forsyth County Schools,R J Reynolds High,NotMet,48.7,46.9,0,61,C
+Franklin County Schools,Long Mill Elementary,Met,57.8,50.6,0,63,C
+Forsyth County Schools,Walkertown High,NotMet,38.6,52.6,0,52,D
+Hoke County Schools,Hawk Eye Elementary,Met,34.3,94.3,0,43,D
+Forsyth County Schools,Southeast Middle,Met,56.9,45.4,0,62,C
+Franklin County Schools,Bunn Elementary,Met,51.3,65.9,0,57,C
+Forsyth County Schools,Meadowlark Elementary,Exceeded,77.0,22.6,0,80,B
+Forsyth County Schools,Jefferson Elementary,Exceeded,80.8,29.1,0,83,B
+Guilford County Schools,Peeler Open Elementary,Met,28.8,71.7,0,38,F
+Forsyth County Schools,Konnoak Elementary,NotMet,33.0,93.7,0,37,F
+Forsyth County Schools,North Forsyth High,NotMet,35.9,70.4,0,56,C
+Forsyth County Schools,Griffith Elementary,Met,37.4,91.2,0,44,D
+Gates County Schools,T S Cooper Elementary,Met,60.7,60.5,0,64,C
+Forsyth County Schools,J F Kennedy High,Met,21.2,89.4,0,36,F
+Forsyth County Schools,Parkland High,Met,32.2,76.1,0,59,C
+Pitt County Schools,Grifton,Met,29.3,76.9,0,38,F
+Duplin County Schools,Duplin Early College High,Exceeded,66.7,70.4,0,79,B
+Davidson County Schools,South Davidson Middle,Exceeded,52.7,60.3,0,61,C
+Davidson County Schools,East Davidson High,NotMet,57.7,39.7,0,67,C
+Davie County Schools,Cooleemee Elementary,NotMet,43.0,78.9,0,48,D
+Davidson County Schools,West Davidson High,NotMet,53.6,44.5,0,64,C
+Davidson County Schools,Southmont Elementary,Met,55.3,62.1,0,61,C
+Davie County Schools,Mocksville Elementary,Met,65.6,58.2,0,69,C
+Randolph County Schools,Randleman High,NotMet,43.8,55.5,0,59,C
+Yadkin County Schools,Forbush High,Exceeded,52.3,40.3,0,70,B
+Davidson County Schools,Ledford Middle,Met,63.6,41.1,0,67,C
+Durham Public Schools,Creekside Elementary,Exceeded,60.5,44.9,0,66,C
+Durham Public Schools,E K Powe Elementary,Exceeded,41.5,66.7,0,51,D
+Duplin County Schools,Wallace Elementary,NotMet,46.9,77.3,0,49,D
+Guilford County Schools,Welborn Middle,NotMet,37.5,89.7,0,44,D
+Duplin County Schools,East Duplin High,NotMet,45.4,57.1,0,59,C
+Vance County Schools,Zeb Vance Elementary,Met,43.4,85.3,0,49,D
+Durham Public Schools,Brogden Middle,NotMet,34.7,73.9,0,41,D
+Wake County Schools,Holly Ridge Middle,Met,67.9,25.3,0,69,C
+Durham Public Schools,C C Spaulding Elementary,Met,28.4,,0,38,F
+Durham Public Schools,Eastway Elementary,NotMet,18.4,,0,26,F
+Union County Public Schools,Rock Rest Elementary,Exceeded,69.1,90.5,0,73,B
+Guilford County Schools,Kirkman Park Elementary,Met,34.5,93.5,0,43,D
+Robeson County Schools,Janie C Hargrave Elem,Met,25.8,75.7,0,37,F
+Granville County Schools,JF Webb HS Of Health And Life Sciences,Met,67.6,22.4,0,76,B
+Granville County Schools,Granville Early College High,Exceeded,74.4,43.8,0,82,B
+Greene County Schools,Greene County Intermediate,Exceeded,36.3,75.6,0,47,D
+Guilford County Schools,Ben L. Smith High School,Met,29.4,87.7,0,54,D
+Guilford County Schools,Colfax Elementary,NotMet,63.8,36.4,0,64,C
+Granville County Schools,Mary Potter Middle,Met,47.9,61.9,0,55,C
+Pitt County Schools,Pitt Memorial Hospital,N/A,9.1,75.1,0,9,F
+Greene County Schools,Greene County Middle,Met,38.2,70.8,0,47,D
+Graham County Schools,Robbinsville High,Met,50.4,55.2,0,67,C
+Wake County Schools,Sycamore Creek Elementary,Met,86.1,,0,85,A
+Henderson County Schools,Henderson County Early College,Exceeded,92.5,57.0,0,92,A
+Cumberland County Schools,Massey Hill Classical High,Exceeded,71.7,26.9,0,82,B
+Cumberland County Schools,Cumberland Road Elementary,NotMet,48.1,78.2,0,51,D
+Cumberland County Schools,Lillian Black Elementary,NotMet,42.9,82.9,0,47,D
+Cumberland County Schools,Gallberry Farm Elementary,Met,59.8,50.8,0,64,C
+Cumberland County Schools,Lucile Souders Elementary,Met,42.9,81.1,0,48,D
+Cumberland County Schools,District No 7 Elementary,Met,84.4,50.6,0,84,B
+Cumberland County Schools,Jack Britt High,Exceeded,79.7,28.0,0,87,A
+Davidson County Schools,Denton Elementary,NotMet,37.8,62.8,0,41,D
+Edgecombe County Public School,Princeville Elementary,NotMet,21.8,,0,31,F
+Cumberland County Schools,Reid Ross Classical High,Exceeded,52.2,51.5,0,73,B
+Cumberland County Schools,Ponderosa Elementary,Exceeded,54.4,76.4,0,62,C
+Currituck County Schools,The JP Knapp ECH (i)School,Met,67.0,24.5,0,77,B
+Dare County Schools,Cape Hatteras Elementary School,Met,67.5,58.3,0,70,B
+Cumberland County Schools,Seventy-First High,Exceeded,40.7,58.3,0,60,C
+Dare County Schools,Nags Head Elementary School,Met,72.0,42.2,0,74,B
+Cumberland County Schools,Rockfish Elementary,Met,72.0,51.6,0,73,B
+Mount Airy City Schools,Mount Airy High,Exceeded,66.3,43.8,0,79,B
+Currituck County Schools,Central Elementary,Met,47.3,60.9,0,54,D
+Sampson County Schools,Clement Elementary,Met,60.7,53.9,0,63,C
+Guilford County Schools,Northeast Guilford Middle,Met,38.2,73.5,0,45,D
+Guilford County Schools,Northwest Guilford Middle,Met,79.8,14.7,0,81,B
+Guilford County Schools,Oak View Elementary,NotMet,48.2,86.0,0,52,D
+Scotland County Schools,Wagram Elementary,Met,48.2,84.3,0,54,D
+Robeson County Schools,Union Elementary,Met,44.3,76.2,0,51,D
+Iredell-Statesville Schools,Career Academy and Technical School,N/A,92.3,13.6,0,80,B
+Iredell-Statesville Schools,Woodland Heights Elementary,Met,82.2,7.2,0,81,B
+Iredell-Statesville Schools,Union Grove Elementary,Met,59.7,62.0,0,64,C
+Henderson County Schools,Bruce Drysdale Elementary,Met,54.7,76.4,0,60,C
+Jackson County Schools,Jackson Co Early College,Met,81.0,44.9,0,87,A
+Henderson County Schools,Sugarloaf Elementary,Met,52.2,85.6,0,58,C
+Mitchell County Schools,Mayland Early College,Met,72.3,73.2,0,76,B
+Onslow County Schools,Swansboro Middle,Exceeded,55.6,42.5,0,63,C
+Iredell-Statesville Schools,Lake Norman High,Met,74.5,9.1,0,83,B
+Person County Schools,South Elementary,Met,37.8,72.1,0,45,D
+McDowell County Schools,Eastfield Global Magnet School,NotMet,45.9,80.1,0,49,D
+Lexington City Schools,Southwest Elementary School,Exceeded,57.5,91.0,0,65,C
+Lexington City Schools,Charles England Elementary School,Met,41.2,84.7,0,48,D
+Northampton County Schools,Willis Hare Elementary,Met,38.4,84.3,0,45,D
+Lenoir County Public Schools,Banks Elementary,Met,69.5,64.4,0,70,B
+Lenoir County Public Schools,Kinston High,NotMet,29.3,80.4,0,49,D
+Lincoln County Schools,East Lincoln Middle,NotMet,67.3,34.2,0,66,C
+Lincoln County Schools,East Lincoln High,NotMet,60.8,34.5,0,69,C
+Lee County Schools,West Lee Middle,NotMet,48.0,61.6,0,49,D
+Lenoir County Public Schools,Northeast Elementary,Met,34.2,,0,43,D
+Moore County Schools,Sandhills Farm Life Elementary,Exceeded,75.3,21.6,0,78,B
+McDowell County Schools,West Marion Elementary,Exceeded,50.9,71.4,0,59,C
+Montgomery County Schools,Mount Gilead Elementary,Met,42.5,76.1,0,50,D
+Lincoln County Schools,North Lincoln Middle,Exceeded,73.4,33.0,0,78,B
+McDowell County Schools,North Cove Elementary,NotMet,57.4,66.8,0,59,C
+Martin County Schools,Jamesville Elementary,NotMet,49.0,59.7,0,51,D
+Wake County Schools,West Cary Middle,NotMet,73.1,23.7,1,72,B
+Moore County Schools,New Century Middle,Met,68.7,36.6,0,69,C
+Martin County Schools,South Creek High,Met,45.2,69.1,0,63,C
+Madison County Schools,Madison High,NotMet,47.6,50.7,0,60,C
+Johnston County Schools,Corinth-Holders Elementary,Exceeded,48.8,68.5,0,57,C
+Rutherford County Schools,Cliffside Elementary School,Met,65.1,80.4,0,67,C
+Kannapolis City Schools,Kannapolis Intermediate,NotMet,41.3,76.1,0,44,D
+Johnston County Schools,Riverwood Middle,Exceeded,70.1,25.7,0,76,B
+Johnston County Schools,Cooper Elementary,NotMet,49.4,58.4,0,51,D
+Johnston County Schools,West View Elementary,Met,69.0,23.7,0,72,B
+Johnston County Schools,Archer Lodge Middle,Met,59.0,39.5,0,61,C
+Orange County Schools,Grady Brown Elementary,Met,65.4,47.2,0,69,C
+Lee County Schools,Greenwood Elementary,Met,50.6,77.9,0,57,C
+Lee County Schools,Broadway Elementary,Met,45.0,77.3,0,53,D
+Union County Public Schools,Porter Ridge High School,Met,68.1,25.7,0,77,B
+Onslow County Schools,Meadow View Elementary,Exceeded,52.7,51.7,0,61,C
+Onslow County Schools,Silverdale Elementary,Exceeded,51.1,48.1,0,58,C
+Yadkin County Schools,Courtney Elementary,Exceeded,74.9,63.5,0,77,B
+Onslow County Schools,Jacksonville High,Exceeded,57.4,35.6,0,74,B
+Orange County Schools,Hillsborough Elementary,Met,73.8,16.4,0,73,B
+Orange County Schools,Central Elementary,NotMet,44.5,68.4,0,48,D
+Onslow County Schools,Northside High,Exceeded,55.4,41.1,0,71,B
+Onslow County Schools,Swansboro Elementary,Met,65.6,36.8,0,69,C
+Onslow County Schools,Dixon Middle,Met,53.7,45.6,0,57,C
+Harnett County Schools,Western Harnett Middle,Exceeded,46.9,58.2,0,55,C
+Harnett County Schools,Harnett Central High,Exceeded,52.6,50.8,0,71,B
+Surry County Schools,Mountain Park Elementary,Met,52.1,78.9,0,58,C
+Haywood County Schools,Clyde Elementary,Exceeded,63.3,69.0,0,69,C
+Harnett County Schools,Wayne Avenue Elem,NotMet,26.2,79.6,0,33,F
+Henderson County Schools,Atkinson Elementary,Met,68.3,45.8,0,71,B
+Harnett County Schools,Overhills Middle,NotMet,45.9,48.9,0,49,D
+Lee County Schools,Deep River Elementary,Met,48.0,81.2,0,53,D
+Harnett County Schools,Coats Elementary,Met,51.2,69.7,0,56,C
+Harnett County Schools,Dunn Middle,Met,36.0,76.6,0,46,D
+Pitt County Schools,Bethel Elementary,Exceeded,48.2,70.4,0,57,C
+Pitt County Schools,South Central High,NotMet,43.5,49.5,0,59,C
+Pitt County Schools,North Pitt High,NotMet,36.3,67.6,0,54,D
+Pitt County Schools,Hope Middle,Exceeded,72.8,32.8,0,78,B
+New Hanover County Schools,Wilmington Early College High,Met,74.5,50.8,0,81,B
+Rutherford County Schools,East Rutherford Middle School,NotMet,51.1,68.0,0,54,D
+Mooresville City Schools,Mooresville Intermediate,Exceeded,66.5,39.2,0,71,B
+New Hanover County Schools,Holly Shelter Middle,NotMet,53.3,52.5,0,56,C
+Union County Public Schools,Cuthbertson High,Exceeded,83.1,12.1,0,88,A
+Newton Conover City Schools,Discovery High School,Met,71.4,37.7,0,79,B
+Nash-Rocky Mount Schools,G R Edwards Middle,NotMet,46.1,71.7,0,50,D
+Nash-Rocky Mount Schools,Nash Central High,NotMet,31.0,56.3,0,52,D
+Nash-Rocky Mount Schools,Nashville Elementary,Met,55.0,61.1,0,59,C
+New Hanover County Schools,R Freeman Sch of Engineering,NotMet,36.3,,0,43,D
+Nash-Rocky Mount Schools,NRM Early College High School,NotMet,63.7,45.1,0,73,B
+Guilford County Schools,T Wingate Andrews High,Exceeded,42.3,82.4,0,65,C
+Halifax County Schools,Aurelian Springs Elementary,Met,33.0,89.6,0,41,D
+Guilford County Schools,Shadybrook Elementary,NotMet,54.5,47.0,0,56,C
+Guilford County Schools,Sumner Elementary,Exceeded,43.9,88.1,0,53,D
+Harnett County Schools,Angier Elementary,Exceeded,43.1,75.3,0,52,D
+Halifax County Schools,Everetts Elementary,NotMet,18.8,90.2,0,28,F
+Hoke County Schools,Don D Steed Elementary,NotMet,58.4,49.9,0,58,C
+Guilford County Schools,Waldo C Falkener Sr Elementary,NotMet,32.2,,0,39,F
+Guilford County Schools,Wiley Accel/Enrichment,Met,36.4,,0,46,D
+Pasquotank County Schools,Elizabeth City Middle,NotMet,38.6,65.8,0,43,D
+Pasquotank County Schools,Pasquotank Elementary,NotMet,37.7,74.2,0,44,D
+Perquimans County Schools,Perquimans County Middle,Met,44.9,62.7,0,50,D
+Pender County Schools,Pender Early College High,Met,75.9,45.5,0,86,A
+Pender County Schools,North Topsail Elementary,Met,62.4,45.0,0,66,C
+Person County Schools,Stories Creek Elementary,Met,72.2,71.8,0,75,B
+Randolph County Schools,Tabernacle Elementary,Met,52.5,66.4,0,56,C
+Pitt County Schools,Belvoir Elementary,Exceeded,35.0,94.9,0,46,D
+Pasquotank County Schools,Central Elementary,Met,56.3,59.3,0,61,C
+Pender County Schools,Burgaw Elementary,Met,44.4,81.4,0,50,D
+Richmond County Schools,Washington Street Elementary,Exceeded,51.6,76.4,0,60,C
+Randolph County Schools,Archdale-Trinity Middle,NotMet,56.0,46.7,0,59,C
+Randolph County Schools,Eastern Randolph High,NotMet,32.9,61.5,0,53,D
+Richmond County Schools,Rockingham Middle,Exceeded,54.9,68.8,0,63,C
+Randolph County Schools,Randleman Middle,Met,48.0,65.0,0,54,D
+Rockingham County Schools,New Vision Sch.of Math/Sci/Tec,Exceeded,73.0,38.1,0,76,B
+Rockingham County Schools,Rockingham County High,Exceeded,54.0,35.1,0,68,C
+Rockingham County Schools,Monroeton Elementary,Exceeded,59.1,57.6,0,65,C
+Richmond County Schools,West Rockingham Elementary,Met,40.7,86.5,0,48,D
+Rockingham County Schools,Wentworth Elementary,Met,64.9,46.5,0,69,C
+Robeson County Schools,Magnolia Elementary,NotMet,29.6,86.0,0,36,F
+Robeson County Schools,Union Chapel Elementary,Met,39.6,77.6,0,48,D
+Robeson County Schools,Saint Pauls Elementary,Met,26.8,83.9,0,38,F
+Robeson County Schools,Rosenwald Elementary,Met,23.2,80.7,0,34,F
+Robeson County Schools,Townsend Middle,Met,20.9,91.5,0,32,F
+Rutherford County Schools,Forrest W Hunt Elementary School,Met,58.8,78.1,0,64,C
+Sampson County Schools,Roseboro-Salemburg Middle,Exceeded,50.0,69.8,0,58,C
+Rockingham County Schools,Western Rockingham Middle,Met,50.4,60.5,0,54,D
+Rowan-Salisbury Schools,Knollwood Elementary,Met,40.9,78.7,0,49,D
+Sampson County Schools,Plain View Elementary,Met,70.8,43.4,0,73,B
+Rowan-Salisbury Schools,Woodleaf Elementary,Met,50.0,68.8,0,56,C
+Stanly County Schools,Oakboro Elementary,NotMet,58.8,51.3,0,61,C
+Rowan-Salisbury Schools,Hurley Elementary,Met,43.4,73.8,0,49,D
+Sampson County Schools,Union Middle,Met,40.9,79.9,0,49,D
+Rowan-Salisbury Schools,Erwin Middle,Met,46.5,51.3,0,51,D
+Transylvania County Schools,Brevard Elementary,Exceeded,60.1,63.0,0,65,C
+Transylvania County Schools,Brevard Middle,Exceeded,59.5,57.6,0,65,C
+Surry County Schools,Pilot Mountain Elementary,Met,61.6,57.1,0,63,C
+Tyrrell County Schools,Tyrrell Elementary,NotMet,41.1,77.1,0,45,D
+Wake County Schools,Holly Ridge Elementary,Met,73.3,25.0,0,76,B
+Surry County Schools,Meadowview Middle,NotMet,45.9,76.5,0,49,D
+Stanly County Schools,Stanfield Elementary,Met,64.5,51.2,0,67,C
+Surry County Schools,Flat Rock Elementary,Met,65.6,87.0,0,67,C
+Surry County Schools,Copeland Elementary,Met,59.6,71.5,0,63,C
+Wake County Schools,Salem Middle,Exceeded,79.3,15.4,0,81,B
+Union County Public Schools,Stallings Elementary,Met,84.6,22.0,0,85,A
+Union County Public Schools,Waxhaw Elementary,Met,66.3,40.2,0,69,C
+Wake County Schools,Banks Rd Elementary,Exceeded,72.9,29.9,0,76,B
+Vance County Schools,Northern Vance High,NotMet,30.5,67.5,0,50,D
+Wake County Schools,Brier Creek Elementary,Met,70.8,22.1,0,72,B
+Wake County Schools,Bugg Elementary,Met,46.3,62.7,0,52,D
+Wake County Schools,Carnage Middle,Met,69.3,34.3,1,70,B
+Union County Public Schools,Marvin Ridge High,Exceeded,85.2,,0,91,A
+Union County Public Schools,Rea View Elementary,NotMet,89.8,,0,84,B
+Vance County Schools,L B Yancey Elementary,Met,40.1,,0,48,D
+Wake County Schools,East Wake School of Arts Education and G,Exceeded,49.5,58.2,0,68,C
+Wake County Schools,East Wake School of Integrated Technolog,Met,41.5,59.2,0,60,C
+Wake County Schools,East Wake School of Engineering,NotMet,34.1,46.0,0,54,D
+Wake County Schools,Harris Creek Elementary,Exceeded,65.1,32.2,0,69,C
+Wake County Schools,Herbert Akins Rd Elementary,Met,73.6,24.7,0,74,B
+Wake County Schools,Combs Elementary,Exceeded,68.9,31.8,0,73,B
+Wake County Schools,Durant Road Middle,NotMet,60.8,38.4,0,62,C
+Wake County Schools,Carpenter Elementary,Met,76.4,21.0,0,76,B
+Wake County Schools,Garner High,Exceeded,53.9,44.4,1,71,B
+Wake County Schools,Conn Elementary,Met,55.6,46.3,0,59,C
+Wake County Schools,Holly Springs Elementary,Exceeded,80.0,15.6,0,82,B
+Wake County Schools,Wake Forest High School,Exceeded,68.5,27.1,1,80,B
+Wake County Schools,Lynn Road Elementary,NotMet,48.0,53.0,0,52,D
+Wake County Schools,Lufkin Road Middle,Exceeded,81.4,13.6,0,84,B
+Wake County Schools,Lake Myra Elementary,NotMet,54.5,45.8,0,56,C
+Wake County Schools,Heritage Elementary,NotMet,81.8,14.2,0,79,B
+Wake County Schools,Oak Grove Elementary,Met,82.7,16.2,0,83,B
+Wake County Schools,Wakelon Elementary,Met,52.1,72.8,0,57,C
+Wake County Schools,Rolesville High,Met,50.4,42.6,1,56,C
+Wake County Schools,Poe Elementary,Met,54.5,57.7,1,60,C
+Wayne County Public Schools,Carver Heights Elementary,Met,27.0,94.2,0,38,F
+Wake County Schools,Wildwood Forest Elementary,NotMet,57.9,48.7,0,58,C
+Wayne County Public Schools,Carver Elementary,NotMet,34.9,77.9,0,41,D
+Wayne County Public Schools,Rosewood Elementary,Met,62.0,51.6,0,65,C
+Wilkes County Schools,C C Wright Elementary,NotMet,47.6,72.1,0,50,D
+Wayne County Public Schools,Dillard Middle,NotMet,14.1,91.9,0,21,F
+Watauga County Schools,Cove Creek Elementary,Met,66.1,57.0,0,69,C
+Wake County Schools,Yates Mill Elementary,Met,71.6,49.9,0,74,B
+Wake County Schools,William G Enloe High,Met,65.5,35.1,1,72,B
+Wake County Schools,Wendell Middle,NotMet,43.3,60.2,0,46,D
+Wayne County Public Schools,Wayne School of Engineering,Exceeded,82.1,30.4,0,86,A
+Wayne County Public Schools,Spring Creek Elementary,Exceeded,49.6,77.4,0,57,C
+Wilkes County Schools,Boomer-Ferguson Elementary,Exceeded,59.6,83.3,0,66,C
+Yadkin County Schools,Boonville Elementary,Exceeded,60.6,59.4,0,66,C
+Wilkes County Schools,West Wilkes Middle,Exceeded,58.5,59.1,0,65,C
+Wayne County Public Schools,Spring Creek High,Met,42.2,63.7,0,56,C
+Yadkin County Schools,Jonesville Elementary,Met,62.5,75.7,0,65,C
+Wilkes County Schools,North Wilkes High,NotMet,48.9,53.5,0,64,C
+Wilson County Schools,James Hunt High,NotMet,50.7,51.7,0,61,C
+Wilson County Schools,Fike High,NotMet,50.9,49.4,0,62,C
+Alamance-Burlington Schools,Alexander Wilson Elementary,Exceeded,62.6,47.2,0,67,C
+Rutherford County Schools,Mt Vernon-Ruth Elementary School,Met,59.8,73.8,0,65,C
+Alamance-Burlington Schools,Edwin M Holt Elementary,NotMet,63.2,36.1,0,64,C
+Alamance-Burlington Schools,R Homer Andrews Elementary,Met,40.1,91.8,0,48,D
+Charlotte-Mecklenburg Schools,J.V. Washam Elementary,Met,78.2,18.9,0,78,B
+Charlotte-Mecklenburg Schools,Crown Point Elementary,Met,63.1,59.0,0,67,C
+Alamance-Burlington Schools,Walter M Williams High,Met,49.3,52.1,0,66,C
+Forsyth County Schools,Sedge Garden Elementary,NotMet,53.3,48.2,0,56,C
+Charlotte-Mecklenburg Schools,Idlewild Elementary,Met,57.7,83.4,0,62,C
+Pender County Schools,Rocky Point Elementary,NotMet,33.8,80.6,0,40,D
+Anson County Schools,Ansonville Elementary,Exceeded,53.2,63.1,0,61,C
+Alexander County Schools,Sugar Loaf Elementary,Met,64.5,52.2,0,68,C
+Gaston County Schools,York Chester Middle,NotMet,25.9,88.9,0,33,F
+Currituck County Schools,Currituck County Middle,Met,61.5,45.4,0,64,C
+Avery County Schools,Cranberry Middle,Exceeded,65.9,66.5,0,71,B
+Charlotte-Mecklenburg Schools,Albemarle Road Middle,Met,40.8,87.1,0,47,D
+Alamance-Burlington Schools,South Mebane Elementary,Met,71.7,42.6,0,73,B
+Brunswick County Schools,Lincoln Elementary,Exceeded,51.9,81.6,0,60,C
+Burke County Schools,George Hildebrand Elementary,Met,65.8,67.9,0,68,C
+Harnett County Schools,Highland Elementary,Exceeded,61.6,43.9,0,66,C
+Chapel Hill-Carrboro Schools,Ephesus Elementary,Met,75.0,26.0,0,77,B
+Cabarrus County Schools,Coltrane-Webb Elementary,Met,60.8,52.6,0,64,C
+Alamance-Burlington Schools,Southern Middle,NotMet,53.4,40.0,0,56,C
+Wake County Schools,Smith Elementary,Met,48.3,70.8,0,55,C
+Scotland County Schools,Pate-Gardner Elementary,NotMet,50.2,,0,54,D
+Alamance-Burlington Schools,Highland Elementary,Exceeded,71.1,33.8,0,74,B
+Alamance-Burlington Schools,Haw River Elementary,NotMet,33.0,91.5,0,39,F
+Buncombe County Schools,Black Mountain Elementary,NotMet,68.9,48.3,0,68,C
+Asheboro City Schools,Donna L Loflin Elementary,NotMet,39.7,83.2,0,43,D
+Alexander County Schools,Stony Point Elementary,NotMet,55.6,59.7,0,56,C
+Asheboro City Schools,Charles W McCrary Elementary,Met,39.2,90.1,0,47,D
+Guilford County Schools,Archer Elementary,Exceeded,45.5,92.1,0,54,D
+Macon County Schools,Cartoogechaye Elementary,Met,62.5,67.4,0,67,C
+Caldwell County Schools,Oak Hill Elementary,Met,51.2,56.0,0,58,C
+Charter Schools,Lake Norman Charter,Exceeded,83.2,,0,88,A
+Cumberland County Schools,Anne Chesnutt Middle,Exceeded,47.3,65.8,0,56,C
+Stokes County Schools,Lawsonville Elementary,Exceeded,61.3,51.5,0,67,C
+Cumberland County Schools,E E Miller Elementary,Met,58.1,62.0,0,61,C
+Cumberland County Schools,Cape Fear High,Exceeded,60.8,45.6,0,75,B
+Robeson County Schools,Long Branch Elementary,Met,43.0,77.0,0,51,D
+Cumberland County Schools,Ashley Elementary,Met,55.7,58.1,0,61,C
+Sampson County Schools,Hobbton Middle,Met,53.7,70.1,0,59,C
+Charlotte-Mecklenburg Schools,Smithfield Elementary,Exceeded,68.5,47.8,0,72,B
+Carteret County Public Schools,Harkers Island Elementary,Met,76.4,57.8,0,78,B
+Charlotte-Mecklenburg Schools,J H Gunn Elementary,Met,45.1,81.0,0,51,D
+Caswell County Schools,Bartlett Yancey High,NotMet,32.3,59.2,0,50,D
+Carteret County Public Schools,Beaufort Middle,Met,58.6,54.0,0,63,C
+Catawba County Schools,Catawba Elementary School,Met,51.3,67.6,0,58,C
+Caldwell County Schools,South Caldwell High,Met,58.9,42.7,0,71,B
+Caldwell County Schools,West Caldwell High,Met,46.5,67.4,0,64,C
+Surry County Schools,East Surry High,NotMet,67.5,42.4,0,74,B
+Wake County Schools,Walnut Creek ES,NotMet,39.5,81.3,0,44,D
+Guilford County Schools,Northwest Guilford High,Exceeded,77.9,14.2,0,86,A
+Charlotte-Mecklenburg Schools,Huntersville Elementary,Met,86.1,26.8,0,86,A
+Charlotte-Mecklenburg Schools,Berewick Elementary,NotMet,56.8,55.0,0,59,C
+Beaufort County Schools,John Small Elementary,NotMet,41.9,67.6,0,44,D
+Randolph County Schools,Trinity Elementary,Exceeded,56.8,60.5,0,63,C
+Bertie County Schools,Bertie Early College High,Met,57.8,64.6,0,71,B
+Polk County Schools,Tryon Elementary School,NotMet,68.1,60.8,0,67,C
+Rowan-Salisbury Schools,West Rowan Middle,Met,54.5,57.3,0,60,C
+Beaufort County Schools,Washington High,Met,44.0,56.8,0,62,C
+Charter Schools,Alpha Academy,Met,51.1,,0,56,C
+Nash-Rocky Mount Schools,Cedar Grove Elementary,Exceeded,45.1,83.3,0,53,D
+Cumberland County Schools,Lake Rim Elementary,Exceeded,57.8,54.0,0,64,C
+Cumberland County Schools,Terry Sanford High,Exceeded,57.5,38.7,0,73,B
+Craven County Schools,Tucker Creek Middle,Exceeded,67.1,42.4,0,71,B
+Columbus County Schools,Tabor City Middle,NotMet,36.7,78.5,0,41,D
+Craven County Schools,Havelock Middle,Exceeded,53.6,62.4,0,62,C
+Craven County Schools,Havelock Elementary,Met,60.8,64.8,0,65,C
+Hoke County Schools,East Hoke Middle,NotMet,43.3,64.1,0,48,D
+Charlotte-Mecklenburg Schools,Oaklawn Language Academy,Exceeded,67.9,76.9,0,72,B
+Charlotte-Mecklenburg Schools,Mallard Creek Elementary,Exceeded,64.7,48.9,0,70,B
+Charlotte-Mecklenburg Schools,Lebanon Road Elementary,Exceeded,55.6,78.9,0,62,C
+Charlotte-Mecklenburg Schools,Highland Creek Elementary,NotMet,72.5,24.6,0,70,B
+Catawba County Schools,Charles H Tuttle Elementary,Exceeded,63.0,43.9,0,68,C
+Union County Public Schools,Western Union Elementary,NotMet,51.1,53.1,0,54,D
+Dare County Schools,First Flight High School,Exceeded,77.1,25.1,0,84,B
+Chapel Hill-Carrboro Schools,Chapel Hill High,Exceeded,78.9,21.2,0,87,A
+Chapel Hill-Carrboro Schools,Carrboro Elementary,Met,71.8,33.6,0,74,B
+Catawba County Schools,Maiden High,Met,59.9,47.6,0,72,B
+Charlotte-Mecklenburg Schools,Olympic High - Biotech Health Pub Admin,Exceeded,67.9,55.6,0,77,B
+Charlotte-Mecklenburg Schools,Olympic High - Intl Study, Global Econ,Exceeded,46.8,63.0,0,66,C
+Asheville City Schools,School of Inquiry and Life Sciences,Exceeded,81.9,26.0,0,90,A
+Cumberland County Schools,Seventy-First Classical Middle,Exceeded,71.0,40.7,0,74,B
+Charlotte-Mecklenburg Schools,Community House Middle,Exceeded,83.1,15.7,0,86,A
+Onslow County Schools,Jacksonville Commons Middle,NotMet,46.1,53.6,0,51,D
+Charlotte-Mecklenburg Schools,Ardrey Kell High,Exceeded,90.2,11.8,0,94,A
+Chapel Hill-Carrboro Schools,Phillips Middle,Exceeded,80.0,26.2,0,82,B
+Chapel Hill-Carrboro Schools,Rashkis Elementary,Met,77.4,29.0,0,78,B
+Cabarrus County Schools,Pitts School Road Elementary,NotMet,66.2,32.3,0,64,C
+Burke County Schools,Mountain Crest Elementary,Exceeded,48.6,94.6,0,57,C
+Cabarrus County Schools,Rocky River Elementary,NotMet,49.1,63.9,0,53,D
+Charlotte-Mecklenburg Schools,Cornelius Elementary,Met,79.9,28.8,0,80,B
+Burke County Schools,Rutherford College Elem,Exceeded,85.1,52.4,0,86,A
+Cabarrus County Schools,Central Cabarrus High,Exceeded,56.6,50.3,0,71,B
+Charlotte-Mecklenburg Schools,Coulwood Middle,NotMet,30.6,81.6,0,34,F
+Wake County Schools,East Millbrook Middle,NotMet,43.9,63.1,1,49,D
+Vance County Schools,Clarke Elementary,Exceeded,47.3,94.4,0,56,C
+Burke County Schools,Icard Elementary,Met,62.1,70.5,0,66,C
+Charter Schools,The Institute Development Young Leaders,NotMet,7.6,44.1,0,19,F
+Charter Schools,Triangle Math and Science Academy,Exceeded,84.9,11.5,0,85,A
+Granville County Schools,Tar River Elementary,NotMet,68.1,42.4,0,68,C
+Charter Schools,Piedmont Community Charter School,Met,62.4,11.1,0,68,C
+Guilford County Schools,Northeast Guilford High,Met,33.8,67.4,0,59,C
+Charter Schools,Success Institute Charter,Met,21.3,90.3,0,33,F
+Charter Schools,Torchlight Academy,Exceeded,41.4,89.8,0,50,D
+Watauga County Schools,Mabel Elementary,Met,64.7,57.8,0,68,C
+Charter Schools,Tiller School,NotMet,90.0,24.5,0,86,A
+Rutherford County Schools,Rutherford Early College High School,NotMet,79.5,46.8,0,83,B
+Wake County Schools,Vandora Springs Elementary,Exceeded,55.6,50.9,0,62,C
+Halifax County Schools,Northwest Halifax High,Exceeded,32.8,83.6,0,57,C
+Johnston County Schools,Powhatan Elementary,Exceeded,78.2,17.1,0,81,B
+Guilford County Schools,Union Hill Elementary,NotMet,29.3,88.2,0,37,F
+Haywood County Schools,Jonathan Valley Elementary,Met,75.3,52.4,0,77,B
+Onslow County Schools,Southwest Middle,Exceeded,53.5,55.4,0,60,C
+Harnett County Schools,Western Harnett High,Met,45.1,53.5,0,61,C
+Harnett County Schools,Overhills High,NotMet,43.1,45.2,0,59,C
+Harnett County Schools,Triton High,NotMet,41.1,56.6,0,61,C
+New Hanover County Schools,Dr Hubert Eaton Sr Elem,Exceeded,87.9,16.2,0,89,A
+New Hanover County Schools,Mary C Williams Elementary,Met,48.3,86.0,0,55,C
+New Hanover County Schools,Emma B Trask Middle,Exceeded,65.2,47.7,0,70,B
+New Hanover County Schools,Charles P Murray Middle,Met,69.7,40.7,0,72,B
+New Hanover County Schools,Myrtle Grove Middle,Met,67.8,45.2,0,70,B
+New Hanover County Schools,John T Hoggard High,Met,69.9,26.3,0,77,B
+Nash-Rocky Mount Schools,Rocky Mount High,NotMet,28.4,68.0,0,46,D
+Nash-Rocky Mount Schools,Red Oak Middle,NotMet,45.7,59.1,0,48,D
+Pitt County Schools,Ayden-Grifton High,NotMet,31.5,60.0,0,55,C
+Wake County Schools,Martin Middle,Met,71.6,26.9,1,73,B
+Pamlico County Schools,Fred A Anderson Elementary,Exceeded,50.5,63.3,0,58,C
+Northampton County Schools,Northampton County High School,Met,35.5,79.5,0,60,C
+Perquimans County Schools,Perquimans County High,NotMet,44.8,53.6,0,60,C
+Perquimans County Schools,Hertford Grammar,Exceeded,55.9,65.8,0,64,C
+Orange County Schools,A L Stanback Middle,NotMet,55.9,48.1,0,55,C
+Onslow County Schools,Blue Creek Elementary,Met,58.7,62.6,0,63,C
+Pender County Schools,Penderlea Elementary,Met,52.2,60.2,0,58,C
+Pender County Schools,Burgaw Middle,NotMet,38.6,74.3,0,43,D
+Onslow County Schools,Dixon High,Exceeded,55.5,34.7,0,72,B
+Orange County Schools,Orange High,NotMet,55.4,32.9,0,67,C
+Henderson County Schools,Glenn C Marlow Elementary,Exceeded,85.1,32.3,0,85,A
+Henderson County Schools,Hendersonville Middle,Exceeded,69.8,47.2,0,75,B
+Hoke County Schools,J W McLauchlin Elementary,Met,40.5,84.9,0,48,D
+Wayne County Public Schools,Rosewood High,NotMet,48.0,36.8,0,62,C
+Wayne County Public Schools,Rosewood Middle,Met,56.7,49.0,0,62,C
+Hickory City Schools,Southwest Elementary,Met,39.0,84.3,0,47,D
+Henderson County Schools,Dana Elementary,Met,58.7,81.7,0,64,C
+Hickory City Schools,Longview Elementary,Met,44.9,92.3,0,51,D
+Hickory City Schools,Viewmont Elementary,Met,53.4,66.8,0,57,C
+Haywood County Schools,Pisgah High,NotMet,59.3,45.8,0,69,C
+Randolph County Schools,Southwestern Randolph High,Exceeded,52.9,49.7,0,72,B
+Union County Public Schools,Sun Valley Elementary,Met,74.5,34.8,0,76,B
+Randolph County Schools,Grays Chapel Elementary,Met,63.3,57.3,0,67,C
+Randolph County Schools,Level Cross Elementary,Met,59.4,53.9,0,64,C
+Thomasville City Schools,Liberty Drive Elementary,Exceeded,45.3,90.8,0,55,C
+Brunswick County Schools,Jessie Mae Monroe Elementary,Met,47.3,77.5,0,52,D
+Stokes County Schools,Poplar Springs Elementary,Exceeded,67.9,50.2,0,72,B
+Buncombe County Schools,Valley Springs Middle,Exceeded,67.3,50.0,0,71,B
+Charlotte-Mecklenburg Schools,Davidson Elementary,Met,83.4,12.6,0,82,B
+Caldwell County Schools,Happy Valley Elementary,Met,58.2,60.4,0,63,C
+Buncombe County Schools,Koontz Intermediate,NotMet,63.3,49.0,0,62,C
+Bladen County Schools,Elizabethtown Primary,Met,41.8,83.3,0,50,D
+Northampton County Schools,Conway Middle,NotMet,28.5,82.2,0,33,F
+Whiteville City Schools,Whiteville High,Met,49.5,56.7,0,65,C
+Edgecombe County Public School,South Edgecombe Middle,Met,35.7,76.4,0,44,D
+Davidson County Schools,Brier Creek Elementary,NotMet,51.4,57.3,0,53,D
+Davidson County Schools,South Davidson High,NotMet,49.0,51.1,0,62,C
+Davie County Schools,Pinebrook Elementary,NotMet,67.5,37.8,0,66,C
+Duplin County Schools,Kenansville Elementary,Met,48.1,72.9,0,54,D
+Dare County Schools,Manteo Elementary School,Met,51.9,60.2,0,58,C
+Greene County Schools,West Greene Elementary,Met,34.5,77.1,0,42,D
+Duplin County Schools,Chinquapin Elementary,Met,56.4,59.4,0,62,C
+Davidson County Schools,Midway Elementary,Met,60.9,43.7,0,65,C
+Davidson County Schools,Tyro Middle,Met,55.7,50.3,0,61,C
+Cumberland County Schools,Margaret Willis Elementary,Exceeded,53.2,83.5,0,60,C
+New Hanover County Schools,Bradley Creek Elementary,Exceeded,59.8,55.9,0,65,C
+Richmond County Schools,Richmond Early College High,NotMet,65.0,63.7,0,72,B
+Cumberland County Schools,Howard L Hall Elementary,Met,65.6,39.1,0,68,C
+Cumberland County Schools,J W Seabrook Elementary,Met,53.5,70.7,0,59,C
+Cumberland County Schools,Ireland Drive Middle,NotMet,29.4,86.8,0,35,F
+Cumberland County Schools,Mac Williams Middle,NotMet,55.0,52.1,0,57,C
+Cumberland County Schools,Gray's Creek Elementary,Met,55.8,44.9,0,61,C
+Cumberland County Schools,Gray's Creek High,Met,55.0,43.4,0,69,C
+Wayne County Public Schools,North Drive Elementary,Met,33.3,,0,43,D
+Granville County Schools,West Oxford Elementary,NotMet,29.6,74.5,0,37,F
+Madison County Schools,Brush Creek Elementary,NotMet,48.5,63.6,0,51,D
+Guilford County Schools,Brooks Global Elementary,Met,77.8,37.5,0,78,B
+Guilford County Schools,GC Middle College High,N/A,0.0,31.3,0,89,A
+Guilford County Schools,Alamance Elementary,NotMet,54.8,48.6,0,57,C
+Guilford County Schools,Lucy Ragsdale High,NotMet,59.4,46.8,0,69,C
+Guilford County Schools,Claxton Elementary,Met,66.6,32.4,0,70,B
+Greene County Schools,Greene Central High,Met,29.0,66.6,0,55,C
+Guilford County Schools,Aycock Middle,Met,39.7,74.8,0,46,D
+Guilford County Schools,Fairview Elementary,Met,23.0,,0,33,F
+Durham Public Schools,George L Carrington Middle,Met,43.8,62.3,0,52,D
+Duplin County Schools,Wallace-Rose Hill High,NotMet,39.9,63.6,0,55,C
+Hertford County Schools,Ahoskie Elementary,NotMet,33.3,82.0,0,39,F
+Durham Public Schools,Mangum Elementary,Exceeded,74.7,26.3,0,78,B
+Durham Public Schools,Lowe's Grove Middle,NotMet,26.2,79.0,0,32,F
+Durham Public Schools,C E Jordan High,Exceeded,54.6,39.7,0,71,B
+Durham Public Schools,Forest View Elementary,Met,57.6,61.0,0,63,C
+Durham Public Schools,Morehead Montessori,Met,56.0,39.3,0,61,C
+Durham Public Schools,Northern High,Exceeded,38.0,60.0,0,60,C
+Duplin County Schools,Warsaw Middle,Met,31.0,87.8,0,40,D
+Forsyth County Schools,Mineral Springs Middle,NotMet,26.4,93.0,0,32,F
+Wake County Schools,Alston Ridge Elementary,NotMet,85.8,7.6,0,82,B
+Forsyth County Schools,Middle Fork Elementary,Met,46.1,87.2,0,53,D
+Forsyth County Schools,Lewisville Elementary,Met,87.5,23.1,0,85,A
+Forsyth County Schools,Gibson Elementary,NotMet,29.8,92.2,0,35,F
+Forsyth County Schools,Flat Rock Middle,NotMet,34.3,80.5,0,41,D
+Orange County Schools,Cedar Ridge High,NotMet,58.5,30.7,0,70,B
+Gaston County Schools,Holbrook Middle,NotMet,50.4,68.1,0,54,D
+Wake County Schools,Brassfield Elementary,Met,81.8,14.7,0,82,B
+Union County Public Schools,Sandy Ridge Elementary,Exceeded,83.7,,0,85,A
+Cumberland County Schools,Sunnyside Elementary,Exceeded,58.3,76.4,0,64,C
+Cumberland County Schools,Vanstory Hills Elementary,Met,75.8,37.6,0,75,B
+Cumberland County Schools,Warrenwood Elementary,NotMet,39.2,80.0,0,45,D
+Currituck County Schools,W T Griggs Elementary,Met,56.2,62.1,0,60,C
+Cumberland County Schools,Montclair Elementary,Met,57.7,77.0,0,61,C
+McDowell County Schools,McDowell Early College,Met,80.0,40.7,0,86,A
+Cumberland County Schools,Westover High,Exceeded,37.6,70.2,0,56,C
+Cumberland County Schools,South View Middle,Met,41.2,67.0,0,47,D
+Wake County Schools,Vance Elementary,Exceeded,62.5,42.1,0,67,C
+Cumberland County Schools,Westover Middle,Met,38.1,75.2,0,47,D
+Guilford County Schools,Middle College GTCC High Point,Met,57.3,51.2,0,77,B
+Guilford County Schools,Murphey Traditional Academy,Met,40.2,87.9,0,48,D
+Guilford County Schools,Mendenhall Middle,Exceeded,55.5,51.5,0,61,C
+Carteret County Public Schools,Bogue Sound Elementary,NotMet,59.4,54.5,0,61,C
+Granville County Schools,Granville Central High,Exceeded,41.7,52.7,0,65,C
+Currituck County Schools,Shawboro Elementary School,Met,63.3,41.3,0,66,C
+Buncombe County Schools,Eblen Intermediate,NotMet,48.0,74.4,0,51,D
+Buncombe County Schools,Black Mountain Primary,Met,69.8,53.4,0,72,B
+Union County Public Schools,Shiloh Elementary,Met,79.8,42.2,0,79,B
+Buncombe County Schools,Estes Elementary,NotMet,70.0,51.2,0,68,C
+Burke County Schools,Heritage Middle,Exceeded,62.4,53.3,0,69,C
+McDowell County Schools,McDowell High,NotMet,44.2,51.0,0,60,C
+Burke County Schools,Freedom High,NotMet,49.3,57.2,0,61,C
+Charlotte-Mecklenburg Schools,Shamrock Gardens Elementary,Exceeded,41.6,77.6,0,51,D
+Charlotte-Mecklenburg Schools,Highland Mill Montessori,Exceeded,69.4,33.5,0,74,B
+Charlotte-Mecklenburg Schools,Morehead STEM Academy,Met,71.5,59.0,0,72,B
+Charlotte-Mecklenburg Schools,Elon Park Elementary,Met,84.4,7.0,0,83,B
+Charlotte-Mecklenburg Schools,East Mecklenburg High,Met,60.2,61.1,0,71,B
+Charlotte-Mecklenburg Schools,Mint Hill Middle,NotMet,64.9,46.2,0,63,C
+Charter Schools,Exploris Middle School,Exceeded,90.4,7.0,0,91,A
+Cumberland County Schools,South View High,Met,44.9,54.8,0,62,C
+Edenton-Chowan Schools,Chowan Middle,NotMet,46.7,64.8,0,51,D
+Charlotte-Mecklenburg Schools,Devonshire Elementary,Met,42.8,,0,51,D
+Guilford County Schools,Pleasant Garden Elementary,Exceeded,66.0,49.1,0,70,B
+Chatham County Schools,Jordan Matthews High,Exceeded,50.4,67.7,0,67,C
+Henderson County Schools,Fletcher Elementary,NotMet,66.2,43.2,0,65,C
+Cherokee County Schools,Peachtree Elementary,Met,59.1,71.6,0,64,C
+Chatham County Schools,Northwood High,Exceeded,69.0,27.8,0,79,B
+Chatham County Schools,Chatham Middle,Exceeded,36.0,88.6,0,47,D
+Cherokee County Schools,Murphy Elementary,Met,60.9,61.3,0,65,C
+Chatham County Schools,Silk Hope School,Met,66.8,40.4,0,70,B
+Charlotte-Mecklenburg Schools,Northwest School of the Arts,Exceeded,69.1,42.0,0,77,B
+Charlotte-Mecklenburg Schools,Torrence Creek Elementary,Exceeded,73.4,22.3,0,77,B
+Cumberland County Schools,C Wayne Collier Elementary,Exceeded,51.0,63.1,0,58,C
+Charlotte-Mecklenburg Schools,Walter G Byers School,Exceeded,29.7,93.0,0,41,D
+Charlotte-Mecklenburg Schools,Northridge Middle,Exceeded,44.0,82.3,0,53,D
+Charlotte-Mecklenburg Schools,Rocky River High,Exceeded,47.8,68.3,0,67,C
+Charlotte-Mecklenburg Schools,River Gate Elementary,Met,62.3,40.4,0,66,C
+Charter Schools,Aristotle Preparatory Academy,Met,44.4,73.6,0,50,D
+Charter Schools,Bethel Hill Charter,Met,60.3,36.1,0,63,C
+Charter Schools,Bridges Academy,Met,57.5,64.4,0,61,C
+Cleveland County Schools,Springmore Elementary,Exceeded,70.3,51.1,0,75,B
+Cleveland County Schools,Kings Mountain Intermediate,Met,64.4,61.6,0,66,C
+Union County Public Schools,Prospect Elementary,NotMet,53.8,48.7,0,56,C
+Rowan-Salisbury Schools,North Rowan Middle,Exceeded,36.6,79.8,0,48,D
+Cleveland County Schools,Washington Elementary,Met,58.8,82.7,0,61,C
+Union County Public Schools,Sardis Elementary,Met,67.1,58.9,0,70,B
+Cleveland County Schools,Graham Elementary,Met,35.3,93.2,0,42,D
+Cleveland County Schools,East Elementary,Met,75.3,75.7,0,77,B
+Cleveland County Schools,Crest High,Met,58.9,48.1,0,70,B
+Edgecombe County Public School,Edgecombe Early College High,Met,80.0,38.5,0,83,B
+Edgecombe County Public School,West Edgecombe Middle,NotMet,29.7,80.2,0,36,F
+Lexington City Schools,Pickett Elementary School,Exceeded,60.2,91.8,0,66,C
+Durham Public Schools,WG Pearson Magnet Middle,Exceeded,39.7,81.0,0,51,D
+Forsyth County Schools,Caleb's Creek Elementary,Met,66.9,35.2,0,70,B
+Forsyth County Schools,Brunson Elementary,Exceeded,73.1,52.8,0,76,B
+Durham Public Schools,Pearsontown Elementary,Met,75.3,31.8,0,76,B
+Durham Public Schools,Oak Grove Elementary,Met,51.2,77.2,0,58,C
+Pender County Schools,Cape Fear Middle,Met,45.3,68.9,0,53,D
+Edgecombe County Public School,Coker-Wimberly Elementary,Met,24.4,,0,35,F
+Granville County Schools,S Granville HS Of Health Life Sciences,Met,45.2,28.6,0,66,C
+Gaston County Schools,W A Bess Elementary School,Exceeded,73.0,34.3,0,78,B
+Rockingham County Schools,John M Morehead High,NotMet,37.3,56.9,0,53,D
+Granville County Schools,Creedmoor Elementary,NotMet,32.8,68.7,0,38,F
+Granville County Schools,G. C. Hawley Middle,NotMet,49.4,40.7,0,51,D
+Gaston County Schools,John Chavis Middle School,Met,53.5,59.7,0,58,C
+Granville County Schools,Butner-Stem Elementary,Met,47.1,68.8,0,55,C
+Granville County Schools,Granville Magnet School,Met,16.3,58.9,0,30,F
+Gates County Schools,Gatesville Elementary,Met,60.4,58.0,0,65,C
+Gaston County Schools,Mount Holly Middle,Met,57.8,47.9,0,63,C
+Randolph County Schools,Providence Grove High,Exceeded,56.0,40.4,0,74,B
+Franklin County Schools,Franklin County Early College,Met,58.3,39.3,0,68,C
+Forsyth County Schools,Rural Hall Elementary,Exceeded,55.6,50.7,0,63,C
+Gaston County Schools,Brookside Elementary,NotMet,49.4,73.0,0,52,D
+Gaston County Schools,Hawks Nest Intermediate,Met,63.4,38.4,0,66,C
+Gaston County Schools,Cherryville Elementary,Met,61.5,65.2,0,65,C
+Franklin County Schools,Cedar Creek Middle,Met,52.8,46.4,0,59,C
+Franklin County Schools,Royal Elementary,Met,49.4,66.2,0,54,D
+Franklin County Schools,Bunn High,Exceeded,51.5,54.0,0,69,C
+Guilford County Schools,Hampton Elem Univ Partnership,Met,33.7,,0,43,D
+Guilford County Schools,Summerfield Elementary,Exceeded,77.6,22.5,0,79,B
+Guilford County Schools,Northern Guilford Elementary,Met,80.2,16.5,0,78,B
+Guilford County Schools,Sedalia Elementary,NotMet,56.2,61.1,0,58,C
+Guilford County Schools,Southwest Elementary,Met,77.8,21.3,0,79,B
+Guilford County Schools,Page High,Exceeded,58.6,46.4,0,75,B
+Guilford County Schools,Sedgefield Elementary,Exceeded,41.0,,0,50,D
+Guilford County Schools,Triangle Lake Montessori Elem,Met,53.7,62.0,0,58,C
+Charter Schools,Evergreen Community Charter,NotMet,75.8,38.8,0,72,B
+Charter Schools,Carter Community Charter,Exceeded,41.0,87.5,0,51,D
+Charter Schools,North East Carolina Prep,NotMet,26.3,43.2,0,31,F
+McDowell County Schools,Glenwood Elementary,Met,59.0,61.3,0,63,C
+Columbus County Schools,Williams Township,Met,50.6,65.6,0,57,C
+Charter Schools,Community Charter School,NotMet,33.3,55.6,0,40,D
+Charter Schools,Carter G Woodson School,Met,22.8,89.3,0,37,F
+Charter Schools,Columbus Charter School,Met,61.7,41.8,0,64,C
+Charter Schools,Forsyth Academy,Met,42.0,71.9,0,50,D
+Currituck County Schools,Currituck County High,NotMet,49.2,30.4,0,61,C
+Martin County Schools,Edna Andrews Elementary,Met,39.2,87.2,0,46,D
+Charter Schools,Global Scholars Academy,Exceeded,44.4,85.2,0,54,D
+Edgecombe County Public School,Tarboro High,Met,29.5,71.4,0,56,C
+Charter Schools,Kestrel Heights School,NotMet,49.8,8.9,0,53,D
+Durham Public Schools,Easley Elementary,Met,63.3,27.7,0,65,C
+Charter Schools,Kennedy Charter,Exceeded,29.8,87.9,0,45,D
+Charter Schools,Hope Elementary,NotMet,12.2,93.1,0,22,F
+Charter Schools,New Dimensions,Met,55.5,28.4,0,58,C
+Charter Schools,Mountain Island Charter,Exceeded,72.8,,0,75,B
+Iredell-Statesville Schools,Collaborative College for Technology,Met,82.3,36.1,0,86,A
+Columbus County Schools,Guideway Elementary,Exceeded,37.3,84.2,0,47,D
+Columbus County Schools,Evergreen Elementary,NotMet,43.1,78.6,0,46,D
+Columbus County Schools,Hallsboro Middle,Exceeded,46.0,72.1,0,55,C
+Roanoke Rapids City Schools,Belmont Elementary,Met,44.7,79.2,0,52,D
+Wake County Schools,Pleasant Union Elementary,Met,77.3,8.1,0,78,B
+Columbus County Schools,Old Dock Elementary,Met,55.1,66.3,0,60,C
+Columbus County Schools,East Columbus High,Met,40.8,60.3,0,62,C
+Washington County Schools,Washington County Union,Exceeded,31.3,89.8,0,43,D
+Rockingham County Schools,Stoneville Elementary,Exceeded,48.6,73.3,0,57,C
+Macon County Schools,East Franklin Elementary,NotMet,58.1,78.1,0,59,C
+Randolph County Schools,Ramseur Elementary,Exceeded,42.6,87.6,0,52,D
+Mitchell County Schools,Deyton Elementary,Exceeded,62.9,62.2,0,69,C
+Lincoln County Schools,Lincolnton Middle,Exceeded,52.2,72.1,0,60,C
+Macon County Schools,Franklin High,Exceeded,57.0,59.7,0,74,B
+Scotland County Schools,Carver Middle,NotMet,45.2,86.5,0,47,D
+McDowell County Schools,Nebo Elementary,Met,57.8,65.6,0,63,C
+Wake County Schools,Rolesville Middle,Met,59.3,36.3,0,63,C
+Lenoir County Public Schools,Pink Hill Elementary,Exceeded,42.3,73.2,0,51,D
+Lenoir County Public Schools,Southwood Elementary,Exceeded,54.2,70.4,0,61,C
+Johnston County Schools,Wilson's Mills Elementary,Exceeded,58.4,73.5,0,67,C
+Kannapolis City Schools,Fred L Wilson Elementary,Exceeded,46.5,82.8,0,55,C
+Lenoir County Public Schools,Moss Hill Elementary,NotMet,55.7,70.4,0,58,C
+Lee County Schools,Benjamin T Bullock Elem,Exceeded,53.2,77.2,0,60,C
+Wake County Schools,Millbrook Elementary,Exceeded,55.9,65.9,0,62,C
+Lincoln County Schools,Kiser Intermediate,NotMet,50.6,81.6,0,52,D
+Lexington City Schools,Lexington Middle School,Met,37.4,86.8,0,46,D
+Kannapolis City Schools,A L Brown High,NotMet,45.8,59.9,0,59,C
+Iredell-Statesville Schools,Visual and Performing Arts Center,Met,70.1,32.8,0,79,B
+Jackson County Schools,Blue Ridge Early College,NotMet,44.1,57.1,0,53,D
+Iredell-Statesville Schools,Harmony Elementary,NotMet,52.1,69.6,0,55,C
+Iredell-Statesville Schools,Northview School,Exceeded,88.5,28.0,0,89,A
+Iredell-Statesville Schools,South Iredell High,NotMet,69.2,29.1,0,73,B
+Surry County Schools,Cedar Ridge Elementary,Exceeded,60.5,71.4,0,67,C
+Iredell-Statesville Schools,North Iredell Middle,Met,52.6,53.3,0,58,C
+Jackson County Schools,Cullowhee Valley School,Met,55.1,59.0,0,61,C
+Iredell-Statesville Schools,Lakeshore Middle,Met,66.7,30.6,0,69,C
+Johnston County Schools,Benson Middle,Exceeded,46.8,65.4,0,55,C
+Montgomery County Schools,Page Street Elementary,Exceeded,56.7,62.5,0,62,C
+Montgomery County Schools,East Montgomery High,Exceeded,53.0,68.5,0,72,B
+Montgomery County Schools,West Montgomery High,NotMet,36.0,59.5,0,56,C
+Moore County Schools,Highfalls Elementary,Exceeded,64.6,42.1,0,69,C
+Mount Airy City Schools,Jones Elementary,Exceeded,62.4,66.7,0,69,C
+Moore County Schools,Vass-Lakeview Elementary,Met,59.1,55.7,0,64,C
+Moore County Schools,Pinehurst Elementary,Met,83.4,15.0,0,83,B
+Mount Airy City Schools,Mount Airy Middle,Met,61.0,55.8,0,63,C
+Moore County Schools,Pinecrest High,NotMet,60.2,32.3,0,69,C
+Nash-Rocky Mount Schools,Baskerville Elementary,NotMet,40.2,,0,46,D
+Polk County Schools,Polk Central Elementary School,Met,68.4,73.1,0,70,B
+Pitt County Schools,Sam D Bundy Elementary,NotMet,44.4,67.9,0,47,D
+Pitt County Schools,Wahl Coates Elementary,Met,48.5,75.1,0,53,D
+Transylvania County Schools,Rosman Middle,Met,56.6,64.3,0,60,C
+Pitt County Schools,Eastern Elementary,Met,48.2,69.5,0,53,D
+Pitt County Schools,Stokes,Met,53.8,60.6,0,60,C
+Robeson County Schools,PSRC Early College at RCC,Exceeded,78.2,67.0,0,86,A
+Rockingham County Schools,Dalton McMichael High,Exceeded,53.7,51.4,0,69,C
+Roanoke Rapids City Schools,Roanoke Rapids High,NotMet,50.9,45.1,0,63,C
+Robeson County Schools,Lumberton Junior High,NotMet,36.6,78.5,0,40,D
+Robeson County Schools,Parkton Elementary,Exceeded,43.5,76.9,0,53,D
+Robeson County Schools,Piney Grove Elementary,Met,40.5,79.9,0,48,D
+Robeson County Schools,Green Grove Elementary,Met,41.1,76.4,0,47,D
+Swain County Schools,Swain County High,NotMet,44.0,56.0,0,58,C
+Robeson County Schools,Orrum Middle,NotMet,33.6,81.7,0,39,F
+Robeson County Schools,Fairmont High,Met,41.2,81.0,0,59,C
+Scotland County Schools,Washington Park Elementary,NotMet,49.0,73.4,0,51,D
+Sampson County Schools,Roseboro Elementary,Exceeded,56.8,68.3,0,63,C
+Scotland County Schools,South Scotland Elementary,Met,62.5,68.4,0,66,C
+Scotland County Schools,Sycamore Lane Middle,NotMet,42.5,76.8,0,46,D
+Stanly County Schools,Stanly Early College High,Met,83.2,52.7,0,88,A
+Rowan-Salisbury Schools,Corriher Lipe Middle,Met,42.1,63.7,0,50,D
+Rowan-Salisbury Schools,Cleveland Elementary,Met,57.4,58.2,0,62,C
+Stokes County Schools,King Elementary,Exceeded,64.8,61.0,0,70,B
+Rowan-Salisbury Schools,Overton Elementary,Met,44.6,77.6,0,50,D
+Sampson County Schools,Midway High,Met,60.7,47.8,0,73,B
+Union County Public Schools,Central Academy of Technology & Arts,Exceeded,92.0,24.0,0,93,A
+Union County Public Schools,Fairview Elementary,Exceeded,71.8,29.6,0,76,B
+Union County Public Schools,Cuthbertson Middle,Exceeded,84.2,11.0,0,86,A
+Stokes County Schools,Mount Olive Elementary,Exceeded,65.8,45.6,0,70,B
+Swain County Schools,Swain Co East Elementary,Exceeded,53.6,66.4,0,61,C
+Union County Public Schools,Monroe Middle,Exceeded,39.0,89.7,0,50,D
+Union County Public Schools,Antioch Elementary,Met,83.2,11.3,0,83,B
+Surry County Schools,Franklin Elementary,Exceeded,69.5,72.8,0,73,B
+Surry County Schools,Westfield Elementary,Met,67.8,66.0,0,71,B
+Union County Public Schools,East Elementary,Met,31.0,,0,40,D
+Union County Public Schools,Weddington Elementary,Met,93.7,7.0,0,91,A
+Vance County Schools,E M Rollins Elementary,NotMet,27.8,91.0,0,34,F
+Wake County Schools,Baileywick Road Elementary,Met,58.9,47.3,0,62,C
+Vance County Schools,Eaton-Johnson Middle,NotMet,31.2,85.2,0,36,F
+Union County Public Schools,Sun Valley High,Met,64.9,35.1,0,75,B
+Wake County Schools,Baucom Elementary,Exceeded,78.4,16.1,0,80,B
+Vance County Schools,Southern Vance High,NotMet,31.3,81.8,0,50,D
+Wake County Schools,Ballentine Elementary,Met,65.5,32.9,0,67,C
+Vance County Schools,Aycock Elementary,Met,62.9,85.1,0,67,C
+Wake County Schools,Apex Middle,Exceeded,80.6,19.5,0,83,B
+Wake County Schools,Moore Square Museum Magnet Middle,Met,45.0,53.2,1,53,D
+Wilkes County Schools,C B Eller Elementary,Exceeded,54.5,65.9,0,61,C
+Wake County Schools,Leesville Road High,Exceeded,75.6,19.3,1,85,A
+Wake County Schools,Middle Creek High,Exceeded,74.5,27.1,0,83,B
+Wake County Schools,East Garner Middle,NotMet,44.7,62.4,1,48,D
+Wake County Schools,Reedy Creek Middle,NotMet,55.9,48.8,0,56,C
+Wake County Schools,Jones Dairy Elementary,Met,86.4,14.5,0,86,A
+Wake County Schools,Salem Elementary,Met,76.0,23.7,0,76,B
+Wake County Schools,Root Elementary,Met,69.7,25.5,0,70,B
+Wake County Schools,Wakefield Middle,Met,67.5,27.1,1,69,C
+Wilson County Schools,John W Jones Elementary,Exceeded,49.6,58.7,0,57,C
+Yadkin County Schools,Fall Creek Elementary,Exceeded,57.5,50.0,0,64,C
+Wilson County Schools,New Hope Elementary,NotMet,69.3,36.7,0,67,C
+Yadkin County Schools,West Yadkin Elementary,Met,55.4,69.7,0,60,C
+Wilson County Schools,Springfield Middle,NotMet,50.8,60.7,0,52,D
+Yancey County Schools,Burnsville Elementary,Met,54.4,67.2,0,60,C
+Wilson County Schools,Vick Elementary,Met,29.4,,0,38,F
+Wayne County Public Schools,Eastern Wayne Elementary,NotMet,35.5,73.3,0,40,D
+Wayne County Public Schools,Mount Olive Middle,Exceeded,42.6,71.0,0,53,D
+Watauga County Schools,Blowing Rock Elementary,Exceeded,82.5,21.2,0,84,B
+Washington County Schools,Creswell Elementary,NotMet,44.7,74.8,0,48,D
+Wilkes County Schools,Mulberry Elementary,Exceeded,57.3,79.4,0,64,C
+Wake County Schools,Wake NCSU STEM ECHS,Exceeded,89.5,37.2,0,89,A
+Wilson County Schools,B O Barnes Elementary,Met,32.0,94.5,0,42,D
+Wake County Schools,Turner Creek Elementary,Met,80.0,12.4,0,81,B
+Washington County Schools,Plymouth High,Met,28.1,80.3,0,57,C
+Wake County Schools,Stough Elementary,Met,54.7,48.3,0,60,C

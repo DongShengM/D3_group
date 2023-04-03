@@ -1,0 +1,147 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    user-select: none;
+}
+
+text{
+    user-select: none;
+}
+.content{ display: flex;}
+
+.chart-box{
+    width: 50%;
+    height: 400px;
+    margin: 30px auto 0;
+}
+
+
+.function-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.dataType-item{
+    width: 100px ;
+    height: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.644);
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+    line-height: 30px;
+    text-align: center;
+
+    cursor: pointer;
+    opacity: 0.5;
+    font-size: 0.8em;
+}
+
+.dataType-item:hover{
+opacity: 1;
+}
+
+.active{
+    border: 2px solid rgba(70, 130, 180, 1);
+    opacity: 1;
+}
+
+.dataType-item span{
+    z-index: 5;
+    color: black;
+    display: inline-block;
+    position: relative;
+}
+.options-item{
+    width: 50%;
+    margin: 20px auto 0;
+    display: flex
+}
+
+.options-item span{
+  width: 100px;
+}
+
+.options-item input{
+    width: 100%;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    background: steelblue;
+    cursor: pointer;
+    margin-top: -6px; /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+  }
+  
+  /* All the same stuff for Firefox */
+  input[type=range]::-moz-range-thumb {
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    background: steelblue;
+    cursor: pointer;
+    border: none;
+  }
+  
+  /* All the same stuff for IE */
+  input[type=range]::-ms-thumb {
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    background: grey;
+    cursor: pointer;
+  }
+  
+  /* Track */
+  
+  input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 3px;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    border: none;
+  }
+  
+  input[type=range]:focus::-webkit-slider-runnable-track {
+    background: rgba(0, 0, 0, 0.15);
+  }
+  
+  input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 3px;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    border: none;
+  }
+  
+  input[type=range]::-ms-track {
+    width: 100%;
+    height: 3px;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    border: none;
+  }
+  input[type=range]::-ms-fill-lower {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  input[type=range]:focus::-ms-fill-lower {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  input[type=range]::-ms-fill-upper {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  input[type=range]:focus::-ms-fill-upper {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+.selected{
+    stroke: black;
+    stroke-width: 1px;
+  }

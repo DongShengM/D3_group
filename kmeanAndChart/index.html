@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>north-carolina-school-performance-data</h1>
+
+      <div>
+        <div style="display: flex; justify-content: space-evenly">
+          <div
+            class="dataType-item Combination_A active"
+            onclick="selectData('Combination_A')"
+          >
+            <span>Combination_A</span>
+          </div>
+          <div
+            class="dataType-item Combination_B"
+            onclick="selectData('Combination_B')"
+          >
+            <span>Combination_B</span>
+          </div>
+          <div
+            class="dataType-item Combination_C"
+            onclick="selectData('Combination_C')"
+          >
+            <span>Combination_C</span>
+          </div>
+        </div>
+
+        <div class="options-item">
+          <span>clusters:</span>
+          <span class="clusters-k">3</span>
+          <input
+            type="range"
+            min="2"
+            max="10"
+            value="3"
+            step="1"
+            onchange="showValue(value)"
+            style=""
+          />
+        </div>
+
+        <div class="options-item">
+          <span>radius:</span>
+          <span class="circle-r">3</span>
+          <input
+            type="range"
+            min="1"
+            max="8"
+            value="3"
+            step="1"
+            onchange="changeCircle(value)"
+            style=""
+          />
+        </div>
+
+        <div class="function-wrapper">
+          <label for="functionType">Distance Function</label>
+          <select
+            id="FunctionSelector"
+            style="width: 200px; height: 32px; margin-left: 10px"
+            onchange="FunctionChange()"
+          >
+            <option value="L1" selected>L1</option>
+            <option value="L2">L2</option>
+            <option value="cos">cosine similarity</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart-box" id="chart-box"></div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <script src="kmeans.js"></script>
+
+    <script src="chart.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
