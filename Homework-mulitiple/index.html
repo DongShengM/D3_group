@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <div class="title-wrapper">
+        <h1>Cause of Credit Card Application Failure and Relation between Area Employment</h1>
+    </div>
+    <div class="introduce total">fffs</div>
+    <div class="title-wrapper">
+        <h2>What is the demographic of credit cardholders?</h2>
+    </div>
+    <div class="population-structure">
+        <div class="introduce text-structure"></div>
+        <div class="population-chart-wrapper">
+            <div class="time-line" id="age-line"></div>
+            <div class="chart-box">
+                <div class="sub-sun" id="sub-sun"></div>
+                <div class="bar-chart" id="bar-chart"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="title-wrapper">
+        <h2>How well-equipped is the credit card holder for both making purchases and making payments?</h2>
+    </div>
+
+
+    <div class="chart-box">
+        <select class="selectBox" id="selectBox">
+            <option value="Pay">repayment amount</option>
+            <option value="Bill">bill amount</option>
+            <option value="Bill_Pay">combine both</option>
+        </select>
+        <div class="line-chart" id="MultipleLine"></div>
+        <div class="point-chart" id='point-chart'></div>
+    </div>
+
+    <div class="introduce inner-Text">sfdfsadf</div>
+    <div class="title-wrapper">
+        <h2>Is there any relation between location, employment rate and credit card application success rate?</h2>
+    </div>
+
+    <div class="time-line" id="mouth-range" style="width:60%;margin: 0 auto;"></div>
+    <div class="chart-box">
+
+        <div class="map-chart" id="au-map"></div>
+        <div class="double-bar-chart" id="double-bar-chart"></div>
+    </div>
+    </div>
+
+    <div class="introduce inner-Text">sfdfsadf</div>
+
+    <div class=" footer">
+        <div class="left"> Data Source</div>
+        <div class="right">
+            <a target="_blank" href="https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset"> 1.
+                demographics of credit card users in 2005 by kaggle</a>
+
+            <a target="_blank" href="https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers"> 2.
+                demographics of credit card clients by kaggle</a>
+
+            <a target="_blank" href="https://data.gov.au/data/dataset/job-services-australia-data"> 3. Job Services
+                Australia Data by Australian goverment</a>
+
+            <a target="_blank" href="https://data.gov.au/data/dataset/asic-credit-representative"> 4. Credit
+                Representative Dataset by ASIC</a>
+        </div>
+    </div>
+
+
+
+    <!-- d3 -->
+    <script src="https://unpkg.com/d3-regression@1.3.10/dist/d3-regression.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <!-- Your implementation -->
+
+    <script src="js/sunBurst.js"></script>
+    <script src="js/ageRang.js"> </script>
+    <script src="js/barChart.js"></script>
+    <script src="js/starkBar.js"></script>
+
+    <!-- 第二层 -->
+    <script src="js/MultipleLine.js"></script>
+    <script src="js/scatterChart.js"></script>
+
+    <!-- 第三层 -->
+    <script src="js/mouthRange.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/doubleBar.js"></script>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
