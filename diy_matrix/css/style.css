@@ -1,0 +1,13 @@
+/* custom css rules */
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+}
+
+.matrix-chart{
+	width: 600px;
+	height: 800px;
+}

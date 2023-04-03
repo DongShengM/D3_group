@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>D3 Project</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- content -->
+
+<div class="row justify-content-left" style="margin-top: 20px;">
+    <select id='categorySelector' class="custom-select align-self-left" style="width: 320px;margin-left:10%" onchange="categoryChange()">
+        <option value="Default" selected>Default ordering</option>
+        <option value="allRelations">All type of relations</option>
+        <option value="businessTies">Business Ties</option>
+        <option value="marriages">Marriages</option>
+        <option value="wealth">Wealth</option>
+        <option value="numberPriorates">Seats hold on the civic council</option>
+    </select>
+</div>
+
+<div class="matrix-chart" id="matrix-chart"></div>
+
+<!-- Load JS libraries -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+
+<script  src="js/matrix.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
